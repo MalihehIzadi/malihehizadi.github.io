@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor, Delft University of Technology, The Netherlands.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>EEMCS Department</p>
     <p>VMB6, 2628 XE</p>
-    <p>Delft, Netherlands</p>
+    <p>Delft, The Netherlands</p>
     <p>m.izadi[AT_tudelft_DOT_nl]</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
