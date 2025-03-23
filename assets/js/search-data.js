@@ -429,16 +429,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-new-paper-on-predictive-sequencing-of-states-accepted-at-fse-2025-new-ideas-and-vision-track",
+          title: 'New paper on Predictive Sequencing of States accepted at FSE 2025 (New Ideas...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
