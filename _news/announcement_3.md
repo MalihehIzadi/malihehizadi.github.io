@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-03-10 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+New paper on [_Multi-agent Onboarding Assistant_](https://scholar.google.com/citations?user=F2D5RawAAAAJ&hl=en) accepted at FSE 2025 (Demo Track).
