@@ -434,8 +434,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-new-paper-on-multi-agent-onboarding-assistant-accepted-at-fse-2025-demo-track",
+          title: 'New paper on Multi-agent Onboarding Assistant accepted at FSE 2025 (Demo Track).',
           description: "",
           section: "News",},{id: "news-new-paper-on-predictive-sequencing-of-states-accepted-at-fse-2025-new-ideas-and-vision-track",
           title: 'New paper on Predictive Sequencing of States accepted at FSE 2025 (New Ideas...',
