@@ -2,12 +2,12 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Our AISE repositories. 
+description: AISE repositories. 
 nav: true
 nav_order: 5
 ---
 
-Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+<!--Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.-->
 
 {% if site.data.repositories.github_users %}
 
