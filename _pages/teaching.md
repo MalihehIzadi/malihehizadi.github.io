@@ -2,10 +2,16 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: CS4570 - Machine Learning for Software Engineering (Graduate course at TU Delft, Editions in 2023, 2024, 2025, 2026)
+description: 
 nav: true
 nav_order: 3
 ---
+
+* Graduate course: **CS4570 - Machine Learning for Software Engineering** (Editions: TA/lecturer in 2020 to 2022, responsible professor for 2023, 2024, and 2025), ~100 students, TU Delft.
+* Undergraduate course: **TI3115TU - Databases and Software Engineering minor** (Editions: lecturer for 2024,  responsible professor for 2022 and 2024), ~160-220 students, TU Delft.
+* Undergraduate course: **Software Engineering Methods** (lecturer for 2024 edition), ~500 students, TU Delft.
+* Undergraduate course: **Mentorate** (Mentor for 2023 edition), ~30 students, TU Delft.
+  
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. Organize your courses by years, topics, or universities, however you like!-->
 
