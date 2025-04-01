@@ -6,6 +6,12 @@ github_repos:
   - code4me-me/code4me
   - AISE-TUDelft/AI4SE-benchmarks
   - AISE-TUDelft/LLM4Code-memtune
+  - MalihehIzadi/SoftwareTagRecommender
+  - MalihehIzadi/IssueReportsManagement
+  - MalihehIzadi/catiss
+  - MalihehIzadi/hybrid-linker
+  - MalihehIzadi/SOPI_stackoverflow_answer_quality
+  - MalihehIzadi/linkformer
   - AISE-TUDelft/STACC
   - AISE-TUDelft/Capybara-BinT5
   - AISE-TUDelft/curating-code-completions
