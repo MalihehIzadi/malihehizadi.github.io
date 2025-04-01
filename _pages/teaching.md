@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: CS4570 - Machine Learning for Software Engineering (Graduate course at TU Delft, Editions in 2023, 2024, 2025, 2026)
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. Organize your courses by years, topics, or universities, however you like!-->
