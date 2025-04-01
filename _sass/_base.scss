@@ -696,7 +696,15 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
-
+  width: 100vw; // full viewport width
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
