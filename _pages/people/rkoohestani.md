@@ -9,3 +9,8 @@ Scientific Developer and Research Assistant
     {% include bib.html entry=pub %}
   {% endfor %}
 </div>
+
+testing
+<div class="publications">
+  {% bibliography --group_by none --query @*[author_id=rkoohestani]* %}
+</div>
