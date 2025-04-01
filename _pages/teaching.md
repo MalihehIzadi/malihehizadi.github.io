@@ -2,16 +2,15 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: CS4570 - Machine Learning for Software Engineering (Graduate course at TU Delft, Editions: 2023, 2024, 2025, 2026)
 nav: true
 nav_order: 5
 ---
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. Organize your courses by years, topics, or universities, however you like!-->
 
-## Graduate course: CS4570 - Machine Learning for Software Engineering (TU Delft, 2023, 2024, 2025, 2026)
 
-### General description
+### ML4SE General description
 **Goal**: CS4570 aims to give students a hands-on approach to applying deep neural networks and modern NLP techniques, especially large language models (LLMs) based on the Transformer architecture to solve existing SE problems.
 
 Software analytics and big data have transformed software development by leveraging vast repositories of engineering data—such as source code, bug reports, execution traces, and historical changes—to enhance software quality, maintainability, and evolution. The rise of machine and deep learning, particularly transformers and large language models (LLMs), has further expanded these capabilities, enabling automated code generation, bug detection, anomaly identification, type inference, refactoring, code summarization, and program repair. These AI-driven techniques not only boost developer productivity and reduce technical debt but also facilitated development workflows, marking a shift toward AI-driven software engineering. 
