@@ -4,7 +4,7 @@ Scientific Developer and Research Assistant
 
 <ul>
 {% for pub in site.scholar.publications %}
-  {% if pub.author contains coauthor_id %}
+  {% if pub.author_id contains coauthor_id %}
     <li>{% include scholar/publication.html entry=pub %}</li>
   {% endif %}
 {% endfor %}
