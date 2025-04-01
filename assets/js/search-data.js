@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "CS4570 - Machine Learning for Software Engineering (Graduate course at TU Delft, Editions in 2023, 2024, 2025, 2026)",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
