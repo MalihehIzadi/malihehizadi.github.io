@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Research
+permalink: /research/
 description: Current collection of our cool projects at AISE.
 nav: true
 nav_order: 2
