@@ -3,11 +3,15 @@ Scientific Developer and Research Assistant
 
 {% assign coauthor_id = "rkoohestani" %}
 
-<ul>
+<!--ul>
 {% for pub in site.scholar.publications %}
   {% if pub.author_id contains coauthor_id %}
     <li>{% include scholar/publication.html entry=pub %}</li>
   {% endif %}
 {% endfor %}
-</ul>
+</ul-->
+
+<div class="publications">
+  {% bibliography --group_by none --query @*[pub.author_id contains coauthor_id]* %}
+</div>
 
