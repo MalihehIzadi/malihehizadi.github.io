@@ -696,12 +696,10 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
-  width: 100vw; // full viewport width
+  width: 100%;
   position: relative;
   left: 50%;
   right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
   padding-left: 2rem;
   padding-right: 2rem;
   
