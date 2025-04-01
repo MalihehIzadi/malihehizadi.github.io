@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Team
+title: AISE Team
 description: Current list of our members at AISE
 nav: true
 nav_order: 4
