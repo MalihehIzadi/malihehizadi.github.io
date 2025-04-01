@@ -1,11 +1,7 @@
+"rkoohestani":
+  - firstname: ["Roham", "R.", "R. K.", "Roham Koohestani"]
+    url: http://rohamkoohestani.com/
+
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"rkoohestani":
-  - firstname: ["Roham", "R.", "R. K.", "Roham Koohestani"]
-    # url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-    # name: John Doe
-    # url: https://johndoe.com
-    # affiliation: University of Somewhere
-    # email: john@doe.com
