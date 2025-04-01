@@ -1,4 +1,4 @@
-<h1>Publications with John Doe</h1>
+Scientific Developer and Research Assistant
 
 {% assign coauthor_id = "rkoohestani" %}
 
