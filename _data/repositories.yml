@@ -1,14 +1,22 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - malihehizadi
+  - AISE-TUDelft
+  - code4me-me
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - code4me-me/code4me
+  - AISE-TUDelft/AI4SE-benchmarks
+  - AISE-TUDelft/Stackless
+  - AISE-TUDelft/LLM4Code-memtune
+  - AISE-TUDelft/STACC
+  - AISE-TUDelft/Capybara-BinT5
+  - AISE-TUDelft/curating-code-completions
+  - AISE-TUDelft/LLM4Code-extraction
+  - AISE-TUDelft/CodeLicensingExploration
+  - AISE-TUDelft/HaskellCCEval
+  - AISE-TUDelft/Code4MeEvaluation
+  - AISE-TUDelft/PLSimilarity
+  - AISE-TUDelft/ContextualDataCodeCompletion
+  - AISE-TUDelft/nlbse23_reading_list
