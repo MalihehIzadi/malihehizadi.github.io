@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "Our AISE repositories.",
+          description: "AISE repositories.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
