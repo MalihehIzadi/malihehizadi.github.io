@@ -31,24 +31,6 @@ layout: page
           {% endif %}
         </div>
 
-        <div class="publications">
-          {% bibliography --group_by none --query @*[selected=true]* %}
-        </div>
-
-        <div class="clearfix">
-          {% assign person_id = page.author_id %}
-          <h2>Publications</h2>
-          {% for pub in site.data.publications %}
-            {% if pub.author_id contains person_id %}
-              <div class="publication">
-                <h3>{{ pub.title }}</h3>
-                <p>{{ pub.author }}</p>
-                <!-- Add more publication details as needed -->
-              </div>
-            {% endif %}
-          {% endfor %}
-        </div>
-
       {% endfor %}
     {% endif %}
   </article>
