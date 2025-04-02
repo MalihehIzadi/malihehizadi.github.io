@@ -10,11 +10,7 @@ Scientific Developer and Research Assistant
   {% endfor %}
 </div>
 
-one author
-<div class="publications">
-  {% bibliography --group_by none --query @*[author_id=rkoohestani]* %}
-</div>
-many authors
+testing
 <div class="publications">
   {% bibliography --group_by none --query @*[author_id contains rkoohestani]* %}
 </div>
