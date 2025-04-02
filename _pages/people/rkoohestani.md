@@ -12,5 +12,5 @@ Scientific Developer and Research Assistant
 
 testing
 <div class="publications">
-  {% bibliography --group_by none --query @*[author_id=rkoohestani]* %}
+  {% bibliography --group_by none --query @*[author_id contains rkoohestani]* %}
 </div>
