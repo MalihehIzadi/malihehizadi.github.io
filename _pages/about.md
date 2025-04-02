@@ -7,12 +7,10 @@ subtitle: Assistant Professor, Delft University of Technology, The Netherlands.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>EEMCS Department</p>
-    <p>VMB6, 2628 XE</p>
-    <p>Delft, The Netherlands</p>
-    <p>m.izadi[AT_tudelft_DOT_nl]</p>
+    <p>TU Delft, The Netherlands</p>
+    <p>m[DOT]izadi[AT]tudelft[DOT]nl</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
