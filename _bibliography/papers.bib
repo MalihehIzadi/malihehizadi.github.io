@@ -48,7 +48,7 @@
  number = {},
  pages = {},
  publisher = {},
- title = {Long code arena: a set of benchmarks for long-context code models},
+ title = {Long Code Arena: a Set of Benchmarks for Long-context Code Models},
  volume = {},
  year = {2025},
  selected = {true}
@@ -83,7 +83,7 @@
 @inproceedings{salerno2025msr,
  abstract = {Code language models, while widely popular, are often trained on unsanitized source code gathered from across the Internet. Previous work revealed that pre-trained models can remember the content of their training data and regurgitate them through data extraction attacks. Due to the large size of current models, only a few entities have the resources for pre-training such models. However, fine-tuning requires fewer resources and is increasingly used by both small and large entities for its effectiveness on specialized data. Such small curated data for fine-tuning might contain sensitive information or proprietary assets. In this study, we attack both pre-trained and fine-tuned code language models to investigate the extent of data extractability. We first develop a custom benchmark to assess the vulnerability of both pre-training and fine-tuning samples to extraction attacks. Our findings reveal that 54.9% of extractable pre-training data could be retrieved from StarCoder2-15B, whereas this number decreased to 23.5% after fine-tuning. This indicates that fine-tuning reduces the extractability of pre-training data. However, compared to larger models, fine-tuning smaller models increases their vulnerability to data extraction attacks on fine-tuning data. Given the potential sensitivity of fine-tuning data, this can lead to more severe consequences. Lastly, we also manually analyzed 2000 extractable samples before and after fine-tuning. We also found that data carriers and licensing information are the most likely data categories to be memorized from pre-trained and fine-tuned models, while the latter is the most likely to be forgotten after fine-tuning.},
  author = {Fabio Salerno and Ali Al-Kaswan and Maliheh Izadi},
- booktitle = {2025 IEEE/ACM 22th International Conference on Mining Software Repositories (MSR)},
+ booktitle = {IEEE/ACM 22th International Conference on Mining Software Repositories (MSR)},
  number = {},
  pages = {},
  publisher = {},
@@ -92,10 +92,10 @@
  year = {2025}
 }
 
-@article{cipollone2025llm4code,
+@inproceedings{cipollone2025llm4code,
  abstract = {In today's digital landscape, the importance of timely and accurate vulnerability detection has significantly increased. This paper presents a novel approach that leverages transformer-based models and machine learning techniques to automate the identification of software vulnerabilities by analyzing GitHub issues. We introduce a new dataset specifically designed for classifying GitHub issues relevant to vulnerability detection. We then examine various classification techniques to determine their effectiveness. The results demonstrate the potential of this approach for real-world application in early vulnerability detection, which could substantially reduce the window of exploitation for software vulnerabilities. This research makes a key contribution to the field by providing a scalable and computationally efficient framework for automated detection, enabling the prevention of compromised software usage before official notifications. This work has the potential to enhance the security of open-source software ecosystems.},
  author = {Daniele Cipollone and Changjie Wang and Mariano Scazzariello and Simone Ferlin and Maliheh Izadi and Dejan Kostic and Marco Chiesa},
- journal = {arXiv preprint arXiv:2501.05258},
+ booktitle = {The 2nd International Workshop on LLM4Code, co-located with ICSE},
  number = {},
  pages = {},
  publisher = {},
@@ -104,10 +104,10 @@
  year = {2025}
 }
 
-@inproceedings{Leveraging_large_language_models_for_enhancing_the_understandability_of_generated_unit_tests,
+@inproceedings{deljouyi2025test,
  abstract = {Automated unit test generators, particularly search-based software testing tools like EvoSuite, are capable of generating tests with high coverage. Although these generators alleviate the burden of writing unit tests, they often pose challenges for software engineers in terms of understanding the generated tests. To address this, we introduce UTGen, which combines search-based software testing and large language models to enhance the understandability of automatically generated test cases. We achieve this enhancement through contextualizing test data, improving identifier naming, and adding descriptive comments. Through a controlled experiment with 32 participants from both academia and industry, we investigate how the understandability of unit tests affects a software engineer's ability to perform bug-fixing tasks. We selected bug-fixing to simulate a real-world scenario that emphasizes the importance of understandable test cases. We observe that participants working on assignments with UTGen test cases fix up to 33% more bugs and use up to 20% less time when compared to baseline test cases. From the post-test questionnaire, we gathered that participants found that enhanced test names, test data, and variable names improved their bug-fixing process.},
  author = {Amirhossein Deljouyi and Roham Koohestani and Maliheh Izadi and Andy Zaidman},
- booktitle = {2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)},
+ booktitle = {IEEE/ACM 47th International Conference on Software Engineering (ICSE)},
  number = {},
  pages = {},
  publisher = {},
@@ -121,7 +121,7 @@
 @misc{sergeyuk2025haxreview,
  abstract = {The integration of Artificial Intelligence (AI) into Integrated Development Environments (IDEs) is reshaping software development, fundamentally altering how developers interact with their tools. This shift marks the emergence of Human-AI Experience in Integrated Development Environment (in-IDE HAX), a field that explores the evolving dynamics of Human-Computer Interaction in AI-assisted coding environments. Despite rapid adoption, research on in-IDE HAX remains fragmented which highlights the need for a unified overview of current practices, challenges, and opportunities. To provide a structured overview of existing research, we conduct a systematic literature review of 89 studies, summarizing current findings and outlining areas for further investigation. Our findings reveal that AI-assisted coding enhances developer productivity but also introduces challenges, such as verification overhead, automation bias, and over-reliance, particularly among novice developers. Furthermore, concerns about code correctness, security, and maintainability highlight the urgent need for explainability, verification mechanisms, and adaptive user control. Although recent advances have driven the field forward, significant research gaps remain, including a lack of longitudinal studies, personalization strategies, and AI governance frameworks. This review provides a foundation for advancing in-IDE HAX research and offers guidance for responsibly integrating AI into software development.},
  author = {Agnia Sergeyuk and Ilya Zakharov and Ekaterina Koshchenko and Maliheh Izadi},
- journal = {},
+ journal = {Under review},
  number = {},
  pages = {},
  publisher = {},
@@ -133,29 +133,30 @@
 @article{sergeyuk2024designspace,
  abstract = {Nowadays, integration of AI-driven tools within Integrated Development Environments (IDEs) is reshaping the software development lifecycle. Existing research highlights that users expect these tools to be efficient, context-aware, accurate, user-friendly, customizable, and secure. However, a major gap remains in understanding developers' needs and challenges, particularly when interacting with AI systems in IDEs and from the perspectives of different user groups. In this work, we address this gap through structured interviews with 35 developers from three different groups: Adopters, Churners, and Non-Users of AI in IDEs to create a comprehensive Design Space of in-IDE Human-AI Experience. Our results highlight key areas of Technology Improvement, Interaction, and Alignment in in-IDE AI systems, as well as Simplifying Skill Building and Programming Tasks. Our key findings stress the need for AI systems that are more personalized, proactive, and reliable. We also emphasize the importance of context-aware and privacy-focused solutions and better integration with existing workflows. Furthermore, our findings show that while Adopters appreciate advanced features and non-interruptive integration, Churners emphasize the need for improved reliability and privacy. Non-Users, in contrast, focus on skill development and ethical concerns as barriers to adoption. Lastly, we provide recommendations for industry practitioners aiming to enhance AI integration within developer workflows.},
  author = {Agnia Sergeyuk and Ekaterina Koshchenko and Ilya Zakharov and Timofey Bryksin and Maliheh Izadi},
- journal = {arXiv preprint arXiv:2410.08676},
+ journal = {Under review},
  number = {},
  pages = {},
  publisher = {},
  title = {The Design Space of in-IDE Human-AI Experience},
  volume = {},
- year = {2024}
+ year = {2024},
+ selected = {true}
 }
 
-@misc{katzy2024forge,
+@inproceedings{katzy2024forge,
  abstract = {Does the training of large language models potentially infringe upon code licenses? Furthermore, are there any datasets available that can be safely used for training these models without violating such licenses? In our study, we assess the current trends in the field and the importance of incorporating code into the training of large language models. Additionally, we examine publicly available datasets to see whether these models can be trained on them without the risk of legal issues in the future. To accomplish this, we compiled a list of 53 large language models trained on file-level code. We then extracted their datasets and analyzed how much they overlap with a dataset we created, consisting exclusively of strong copyleft code.Our analysis revealed that every dataset we examined contained license inconsistencies, despite being selected based on their associated repository licenses. We analyzed a total of …},
  author = {Jonathan Katzy and Razvan Popescu and Arie Van Deursen and Maliheh Izadi},
- journal = {},
+ booktitle = {The 2nd ACM international conference on AI Foundation Models and Software Engineering (FORGE)},
  number = {},
  pages = {74-85},
  publisher = {},
- title = {An exploratory investigation into code license infringements in large language model training datasets},
+ title = {An Exploratory Investigation into Code License Infringements in Large Language Model Training Datasets},
  volume = {},
  year = {2024}
 }
 
 @misc{remco2024thesis,
- abstract = {LLM (Large Language Model) powered AI (Artificial Intelligence) assistants are a popular tool used by programmers, but what impact do they have? In this thesis we investigate two such tools designed by JetBrains: AI Assistant and FLCC (Full Line Code Completion). We collected over 40 million actionsincluding editing, code executions, and typing-in the form of metric data spread out over 26 thousand users. With this data, we look at how user behavior changes when assisted by AI Assistant or FLCC.Users spent more time in their IDEs (Integrated Development Environment) and typed more when assisted. In most cases, we see a decline in (manual) testing, or at best an equivalent level. And how do multi-programming language benchmarks reflect acceptance rates by users for these respective languages? There seems to be no real correlation between these benchmark results and what users accept in their generations, but the available benchmarks are also limited.},
+ abstract = {LLM-powered AI assistants are a popular tool used by programmers, but what impact do they have? In this thesis we investigate two such tools designed by JetBrains: AI Assistant and FLCC (Full Line Code Completion). We collected over 40 million actionsincluding editing, code executions, and typing-in the form of metric data spread out over 26 thousand users. With this data, we look at how user behavior changes when assisted by AI Assistant or FLCC.Users spent more time in their IDEs (Integrated Development Environment) and typed more when assisted. In most cases, we see a decline in (manual) testing, or at best an equivalent level. And how do multi-programming language benchmarks reflect acceptance rates by users for these respective languages? There seems to be no real correlation between these benchmark results and what users accept in their generations, but the available benchmarks are also limited.},
  author = {Remco Schrijver and Pouria Derakhshanfar and Annibale Panichella and Arie van Deursen and Maliheh Izadi},
  journal = {},
  number = {},
@@ -163,20 +164,22 @@
  publisher = {},
  title = {Beyond Acceptance Rates: The Impact of JetBrains AI Assistant and FLCC},
  volume = {},
- year = {2024}
+ year = {2024},
+ abbr = {thesis}
 }
 
 @inproceedings{koohestani2025hyperseq,
  abstract = {In the rapidly evolving world of software development, the surge in developers' reliance on AI-driven tools has transformed Integrated Development Environments into powerhouses of advanced features. This transformation, while boosting developers' productivity to unprecedented levels, comes with a catch: increased hardware demands for software development. Moreover, the significant economic and environmental toll of using these sophisticated models necessitates mechanisms that reduce unnecessary computational burdens. We propose HyperSeq - Hyper-Adaptive Representation for Predictive Sequencing of States - a novel, resource-efficient approach designed to model developers' cognitive states. HyperSeq facilitates precise action sequencing and enables real-time learning of user behavior. Our preliminary results show how HyperSeq excels in forecasting action sequences and achieves remarkable prediction accuracies that go beyond 70%. Notably, the model's online-learning capability allows it to substantially enhance its predictive accuracy in a majority of cases and increases its capability in forecasting next user actions with sufficient iterations for adaptation. Ultimately, our objective is to harness these predictions to refine and elevate the user experience dynamically within the IDE.},
  author = {Roham Koohestani and Maliheh Izadi},
- booktitle={2025 ACM International Conference on the Foundations of Software Engineering (FSE)},
+ booktitle={ACM International Conference on the Foundations of Software Engineering (FSE)},
  number = {},
  pages = {},
  publisher = {},
  title = {HyperSeq: A Hyper-Adaptive Representation for Predictive Sequencing of States},
  volume = {},
  year = {2025},
- selected = {true}
+ selected = {true},
+ keywords = {rkoohestani, mizadi}
 }
 
 @article{russo2024manifesto,
@@ -193,7 +196,7 @@
 @misc{jackson2024creativity,
  abstract = {Creativity has always been considered a major differentiator to separate the good from the great, and we believe the importance of creativity for software development will only increase as GenAI becomes embedded in developer tool-chains and working practices. This paper uses the McLuhan tetrad alongside scenarios of how GenAI may disrupt software development more broadly, to identify potential impacts GenAI may have on creativity within software development. The impacts are discussed along with a future research agenda comprising six connected themes that consider how individual capabilities, team capabilities, the product, unintended consequences, society, and human aspects can be affected.},
  author = {Victoria Jackson and Bogdan Vasilescu and Daniel Russo and Paul Ralph and Maliheh Izadi and Rafael Prikladnicki and Sarah D'Angelo and Sarah Inman and Anielle Lisboa and Andre van der Hoek},
- journal = {},
+ journal = {ACM Transactions on Software Engineering (TOSEM)},
  number = {},
  pages = {},
  publisher = {},
@@ -203,14 +206,14 @@
  selected = {true}
 }
 
-@misc{ademoor2024aiware,
+@inproceedings{ademoor2024aiware,
  abstract = {Transformer-based language models are highly effective for code completion, with much research dedicated to enhancing the content of these completions. Despite their effectiveness, these models come with high operational costs and can be intrusive, especially when they suggest too often and interrupt developers who are concentrating on their work. Current research largely overlooks how these models interact with developers in practice and neglects to address when a developer should receive completion suggestions. To tackle this issue, we developed a machine learning model that can accurately predict when to invoke a code completion tool given the code context and available telemetry data.   To do so, we collect a dataset of 200k developer interactions with our cross-IDE code completion plugin and train several invocation filtering models. Our results indicate that our small-scale transformer model …},
  author = {Aral de Moor and Arie van Deursen and Maliheh Izadi},
- journal = {},
+ booktitle = {1st ACM International Conference on AI-powered Software (AIware)},
  number = {},
  pages = {28-37},
  publisher = {},
- title = {A transformer-based approach for smart invocation of automatic code completion},
+ title = {A Transformer-based Approach for Smart Invocation of Automatic Code Completion},
  volume = {},
  year = {2024},
  selected = {true},
@@ -221,7 +224,7 @@
 @inproceedings{sergeyuk2024ide,
  abstract = {Integrated Development Environments (IDEs) have become central to modern software development, especially with the integration of Artificial Intelligence (AI) to enhance programming efficiency and decision-making. The study of in-IDE Human-AI Experience is critical in understanding how these AI tools are transforming the software development process, impacting programmer productivity, and influencing code quality.We conducted a literature review to study the current state of in-IDE Human-AI Experience research, bridging a gap in understanding the nuanced interactions between programmers and AI assistants within IDEs. By analyzing 36 selected papers, our study illustrates three primary research branches: Design, Impact, and Quality of Interaction.The trends, challenges, and opportunities identified in this paper emphasize the evolving landscape of software development and inform future …},
  author = {Agnia Sergeyuk and Sergey Titov and Maliheh Izadi},
- booktitle = {2024 The 1st Workshop on Integrated Development Environments (IDE)},
+ booktitle = {The 1st Workshop on Integrated Development Environments (IDE)},
  number = {},
  pages = {95-100},
  publisher = {},
@@ -233,7 +236,7 @@
 @inproceedings{vandam2024forge,
  abstract = {Language model-based code completion models have quickly grown in use, helping thousands of developers write code in many different programming languages. However, research on code completion models typically focuses on imperative languages such as Python and JavaScript, which results in a lack of representation for functional programming languages. Consequently, these models often perform poorly on functional languages such as Haskell. To investigate whether this can be alleviated, we evaluate the performance of two language models for code, CodeGPT and UniXcoder, on the functional programming language Haskell. We fine-tune and evaluate the models on Haskell functions sourced from a publicly accessible Haskell dataset on HuggingFace. Additionally, we manually evaluate the models using our novel translated HumanEval dataset. Our automatic evaluation shows that knowledge of …},
  author = {Tim Van Dam and Frank Van der Heijden and Philippe De Bekker and Berend Nieuwschepen and Marc Otten and Maliheh Izadi},
- booktitle = {2024 The 1st ACM international conference on AI Foundation Models and Software Engineering (FORGE)},
+ booktitle = {The 1st ACM international conference on AI Foundation Models and Software Engineering (FORGE)},
  number = {},
  pages = {91-102},
  publisher = {},
@@ -245,7 +248,7 @@
 @inproceedings{izadi2024code4me,
  abstract = {Transformer-based language models for automatic code completion have shown great promise so far, yet the evaluation of these models rarely uses real data. This study provides both quantitative and qualitative assessments of three public code language models when completing real-world code. We first developed an open-source IDE extension, Code4Me, for the online evaluation of the models. We collected real auto-completion usage data for over a year from more than 1200 users, resulting in over 600K valid completions. These models were then evaluated using six standard metrics across twelve programming languages. Next, we conducted a qualitative study of 1690 real-world completion requests to identify the reasons behind the poor model performance. A comparative analysis of the models' performance in online and offline settings was also performed, using benchmark synthetic datasets and two …},
  author = {Maliheh Izadi and Jonathan Katzy and Tim Van Dam and Marc Otten and Razvan Mihai Popescu and Arie Van Deursen},
- booktitle = {2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)},
+ booktitle = {IEEE/ACM 46th International Conference on Software Engineering (ICSE)},
  number = {},
  pages = {1-13},
  publisher = {},
@@ -260,11 +263,11 @@
 @inproceedings{alkaswan2024memorization,
  abstract = {Large language models have gained significant popularity because of their ability to generate human-like text and potential applications in various fields, such as Software Engineering. Large language models for code are commonly trained on large unsanitised corpora of source code scraped from the internet. The content of these datasets is memorised and can be extracted by attackers with data extraction attacks. In this work, we explore memorisation in large language models for code and compare the rate of memorisation with large language models trained on natural language. We adopt an existing benchmark for natural language and construct a benchmark for code by identifying samples that are vulnerable to attack. We run both benchmarks against a variety of models, and perform a data extraction attack. We find that large language models for code are vulnerable to data extraction attacks, like their …},
  author = {Ali Al-Kaswan and Maliheh Izadi and Arie Van Deursen},
- booktitle = {2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)},
+ booktitle = {IEEE/ACM 46th International Conference on Software Engineering (ICSE)},
  number = {},
  pages = {1-12},
  publisher = {},
- title = {Traces of memorisation in large language models for code},
+ title = {Traces of Memorisation in Large Language Models for Code},
  volume = {},
  year = {2024},
  selected = {true}
@@ -273,7 +276,7 @@
 @inproceedings{keshani2024icsme,
  abstract = {MAVEN is a popular dependency management tool and ecosystem used by millions of developers. However, the over-whelming amount of available open-source software and the lack of proper ecosystem governance pose risks to the security and effectiveness of the ecosystem. This necessitates a comprehensive understanding of the ecosystem to guide future decision-making and promote effective practices. Despite numerous studies on aspects of Maven,such as vulnerabilities, breaking changes, and bloated dependencies, a knowledge gap concerning its overall state and health still exists. This gap impedes the adoption of effective practices, potentially impacting the productivity and efficiency of projects and the ecosystem as a whole. This paper explores the fundamental aspects of the Mavenecosystem. We investigate the packaging practices of Mavenlibraries with a focus on the content of the libraries, their …},
  author = {Mehdi Keshani and Gideon Bot and Priyam Rungta and Maliheh Izadi and Arie Van Deursen and Sebastian Proksch},
- booktitle = {2024 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+ booktitle = {IEEE International Conference on Software Maintenance and Evolution (ICSME)},
  journal = {},
  number = {},
  pages = {50-62},
@@ -298,7 +301,7 @@
 @misc{izadi2024msrmessage,
  abstract = {The MSR 2024 Industry Track is the venue to present and learn about the opportunities, challenges, and cutting-edge technology related to using data from software repositories in practice. For a long time, academic researchers in software engineering have been looking to learn and collaborate with practitioners. Our goal for the Industry Track is to be the space for a productive dialogue between software engineering researchers and practitioners, particularly those building tools for other software professionals.In this third edition of the Industry Track, we were looking to minimize the known barriers to industry participation in software engineering research conferences. We invited practitioners to submit an abstract, maximum one page long (plus up to one page of references), outlining a talk or a poster presentation.},
  author = {Maliheh Izadi and Laura Moreno},
- journal = {2024 IEEE/ACM 21th International Conference on Mining Software Repositories (MSR)},
+ journal = {IEEE/ACM 21th International Conference on Mining Software Repositories (MSR)},
  number = {},
  pages = {},
  publisher = {},
@@ -314,7 +317,7 @@
  number = {},
  pages = {3637-3661},
  publisher = {Springer US},
- title = {The potential of an adaptive computerized dynamic assessment tutor in diagnosing and assessing learners’ listening comprehension},
+ title = {The Potential of an Adaptive Computerized Dynamic Assessment Tutor in Diagnosing and Assessing Learners’ Listening Comprehension},
  volume = {29},
  year = {2024}
 }
@@ -322,7 +325,7 @@
 @misc{jackson2024creativityworkshop,
  abstract = {As GenAI becomes embedded in developer toolchains and practices, and routine code is increasingly generated, human creativity will be increasingly important for generating competitive advantage. This paper uses the McLuhan tetrad alongside scenarios of how GenAI may disrupt software development more broadly, to identify potential impacts GenAI may have on creativity within software development. The impacts are discussed along with a future research agenda comprising five connected themes that consider how individual capabilities, team capabilities, the product, unintended consequences, and society. can be affected.},
  author = {Victoria Jackson and Bogdan Vasilescu and Daniel Russo and Paul Ralph and Maliheh Izadi and Rafael Prikladnicki and Sarah D’angelo and Sarah Inman and Anielle Andrade and André van der Hoek},
- journal = {},
+ journal = {2030 Software Engineering Vision Workshop, Co-located with FSE},
  number = {},
  pages = {},
  publisher = {ACM},
@@ -334,12 +337,12 @@
 @inproceedings{katzy2023scam,
  abstract = {The recent advancements in Transformer-based Language Models have demonstrated significant potential in enhancing the multilingual capabilities of these models. The remarkable progress made in this domain not only applies to natural language tasks but also extends to the domain of programming languages. Despite the ability of these models to learn from multiple languages, evaluations typically focus on particular combinations of the same languages. In this study, we evaluate the similarity of programming languages by analyzing their representations using a CodeBERT-based model. Our experiments reveal that token representation in languages such as C++, Python, and Java exhibit proximity to one another, whereas the same tokens in languages such as Mathematica and R display significant dissimilarity. Our findings suggest that this phenomenon can potentially result in performance challenges …},
  author = {Jonathan Katzy and Maliheh Izadi and Arie Van Deursen},
- booktitle = {2023 IEEE 23rd International Working Conference on Source Code Analysis and Manipulation (SCAM)},
+ booktitle = {IEEE 23rd International Working Conference on Source Code Analysis and Manipulation (SCAM)},
  journal = {},
  number = {},
  pages = {271-276},
  publisher = {IEEE},
- title = {On the impact of language selection for training and evaluating programming language models},
+ title = {On the Impact of Language Selection for Training and Evaluating Programming Language Models},
  volume = {},
  year = {2023}
 }
@@ -347,12 +350,12 @@
 @inproceedings{vandam2023msr,
  abstract = {Transformer-based pre-trained models have recently achieved great results in solving many software engineering tasks including automatic code completion which is a staple in a developer’s toolkit. While many have striven to improve the code-understanding abilities of such models, the opposite – making the code easier to understand – has not been properly investigated. In this study, we aim to answer whether making code easier to understand through using contextual data improves the performance of pre-trained code language models for the task of code completion. We consider type annotations and comments as two common forms of additional contextual information that often help developers understand code better. For the experiments, we study code completion in two granularity levels; token and line completion and take three recent and large-scale language models for source code: UniXcoder …},
  author = {Tim van Dam and Maliheh Izadi and Arie van Deursen},
- booktitle = {2023 IEEE/ACM 20th International Conference on Mining Software Repositories (MSR)},
+ booktitle = {IEEE/ACM 20th International Conference on Mining Software Repositories (MSR)},
  journal = {},
  number = {},
  pages = {170-182},
  publisher = {IEEE},
- title = {Enriching source code with contextual data for code completion models: An empirical study},
+ title = {Enriching Source Code with Contextual Data for Code Completion Models: An Empirical Study},
  volume = {},
  year = {2023}
 }
@@ -360,12 +363,12 @@
 @inproceedings{alkaswan2023binary,
  abstract = {Binary reverse engineering is used to understand and analyse programs for which the source code is unavailable. Decompilers can help, transforming opaque binaries into a more readable source code-like representation. Still, reverse engineering is difficult and costly, involving considering effort in labelling code with helpful summaries. While the automated summarisation of decompiled code can help reverse engineers understand and analyse binaries, current work mainly focuses on summarising source code, and no suitable dataset exists for this task. In this work, we extend large pre-trained language models of source code to summarise de-compiled binary functions. Further-more, we investigate the impact of input and data properties on the performance of such models. Our approach consists of two main components; the data and the model. We first build CAPYBARA, a dataset of 214K decompiled function …},
  author = {Ali Al-Kaswan and Toufique Ahmed and Maliheh Izadi and Anand Ashok Sawant and Premkumar Devanbu and Arie van Deursen},
- booktitle = {2023 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)},
+ booktitle = {IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)},
  journal = {},
  number = {},
  pages = {260-271},
  publisher = {IEEE},
- title = {Extending source code pre-trained language models to summarise decompiled binaries},
+ title = {Extending Source Code Pre-trained Language Models to Summarise Decompiled Binaries},
  volume = {},
  year = {2023}
 }
@@ -378,7 +381,7 @@
  number = {},
  pages = {50},
  publisher = {Springer US},
- title = {Semantically-enhanced topic recommendation systems for software projects},
+ title = {Semantically-enhanced Topic Recommendation Systems for Software Projects},
  volume = {28},
  year = {2023},
  selected = {true}
@@ -388,14 +391,16 @@
 @inproceedings{alkaswan2023stacc,
  abstract = {Code comments are a key resource for information about software artefacts. Depending on the use case, only some types of comments are useful. Thus, automatic approaches to clas-sify these comments have been proposed. In this work, we address this need by proposing, STACC, a set of SentenceTransformers- based binary classifiers. These lightweight classifiers are trained and tested on the NLBSE Code Comment Classification tool competition dataset, and surpass the baseline by a significant margin, achieving an average Fl score of 0.74 against the baseline of 0.31, which is an improvement of 139%. A replication package, as well as the models themselves, are publicly available.},
  author = {Ali Al-Kaswan and Maliheh Izadi and Arie Van Deursen},
- booktitle = {2023 IEEE/ACM 2nd International Workshop on Natural Language-Based Software Engineering (NLBSE)},
+ booktitle = {IEEE/ACM 2nd International Workshop on Natural Language-Based Software Engineering (NLBSE)},
  journal = {},
  number = {},
  pages = {28-31},
  publisher = {IEEE},
- title = {Stacc: Code comment classification using sentencetransformers},
+ title = {Stacc: Code comment Classification using Sentencetransformers},
  volume = {},
- year = {2023}
+ year = {2023},
+ award={We won the first place in the NLBSE competition.},
+ award_name={Best Tool Award}
 }
 
 @inproceedings{alkaswan2023attackchallenge,
@@ -406,20 +411,22 @@
  number = {},
  pages = {},
  publisher = {},
- title = {Targeted Attack on GPT-Neo for the SATML Language Model Data Extraction Challenge [PRESENTATION]},
+ title = {Targeted Attack on GPT-Neo for the SATML Language Model Data Extraction Challenge},
  volume = {},
- year = {2023}
+ year = {2023},
+ award={We received the first place in the SaTML competition.},
+ award_name={Best Attack}
 }
 
 @inproceedings{alkaswan2023position,
  abstract = {In recent years, Large Language Models (LLMs) have gained significant popularity due to their ability to generate human-like text and their potential applications in various fields, such as Software Engineering. LLMs for Code are commonly trained on large unsanitized corpora of source code scraped from the Internet. The content of these datasets is memorized and emitted by the models, often in a verbatim manner. In this work, we will discuss the security, privacy, and licensing implications of memorization. We argue why the use of copyleft code to train LLMs is a legal and ethical dilemma. Finally, we provide four actionable recommendations to address this issue.},
  author = {Ali Al-Kaswan and Maliheh Izadi},
- booktitle = {2023 IEEE/ACM 2nd International Workshop on Natural Language-Based Software Engineering (NLBSE)},
+ booktitle = {IEEE/ACM 2nd International Workshop on Natural Language-Based Software Engineering (NLBSE)},
  journal = {},
  number = {},
  pages = {9-10},
  publisher = {IEEE},
- title = {The (ab) use of open source code to train large language models},
+ title = {The (ab) Use of Open Source Code to Train Large Language Models},
  volume = {},
  year = {2023}
 }
@@ -427,7 +434,7 @@
 @inproceedings{izadi2022codefill,
  abstract = {Code completion is an essential feature of IDEs, yet current auto-completers are restricted to either grammar-based or NLP-based single token completions. Both approaches have significant drawbacks: grammar-based autocompletion is restricted in dynamically-typed language environments, whereas NLP-based autocompleters struggle to understand the semantics of the programming language and the developer's code context.In this work, we present CodeFill, a language model for autocompletion that combines learned structure and naming information. Using a parallel Transformer architecture and multi-task learning, CodeFill consumes sequences of source code token names and their equivalent AST token types. Uniquely, CodeFill is trained both for single-token and multi-token (statement) prediction, which enables it to learn long-range dependencies among grammatical and naming elements. We train …},
  author = {Maliheh Izadi and Roberta Gismondi and Georgios Gousios},
- booktitle = {2022 IEEE/ACM 44th International Conference on Software Engineering (ICSE)},
+ booktitle = {IEEE/ACM 44th International Conference on Software Engineering (ICSE)},
  journal = {},
  number = {},
  pages = {401-412},
@@ -437,7 +444,7 @@
  year = {2022},
  google_scholar_id = {rCzfLUpcSPoC},
  html={https://dl.acm.org/doi/abs/10.1145/3510003.3510172},
-abbr={ICSE}
+ abbr={ICSE}
 }
 
 @article{izadi2022issues,
@@ -447,20 +454,19 @@ abbr={ICSE}
  number = {},
  pages = {50},
  publisher = {Springer US},
- title = {Predicting the objective and priority of issue reports in software repositories},
+ title = {Predicting the Objective and Priority of Issue Reports in Software Repositories},
  volume = {27},
- year = {2022},
- selected = {true}
+ year = {2022}
 }
 
 @article{izadi2022linkformer,
  abstract = {To enhance documentation and maintenance practices, developers conventionally establish links between related software artifacts manually. Empirical research has revealed that developers frequently overlook this practice, resulting in significant information loss. To address this issue, automatic link recovery techniques have been proposed. However, these approaches primarily focused on improving prediction accuracy on randomly-split datasets, with limited attention given to the impact of data leakage and the generalizability of the predictive models. LinkFormer seeks to address these limitations. Our approach not only preserves and improves the accuracy of existing predictions but also enhances their alignment with real-world settings and their generalizability. First, to better utilize contextual information for prediction, we employ the Transformer architecture and fine-tune multiple pre-trained models on both textual and metadata information of issues and commits. Next, to gauge the effect of time on model performance, we employ two splitting policies during both the training and testing phases; randomly- and temporally-split datasets. Finally, in pursuit of a generic model that can demonstrate high performance across a range of projects, we undertake additional fine-tuning of LinkFormer within two distinct transfer-learning settings. Our findings support that to simulate real-world scenarios effectively, researchers must maintain the temporal flow of data when training models. Furthermore, the results demonstrate that LinkFormer outperforms existing methodologies by a significant margin, achieving a 48% improvement in F1-measure within a …},
  author = {Maliheh Izadi and Pooya Rostami Mazrae and Tom Mens and Arie van Deursen},
- journal = {arXiv preprint arXiv:2211.00381},
+ journal = {Under review},
  number = {},
  pages = {},
  publisher = {},
- title = {An empirical study on data leakage and generalizability of link prediction models for issues and commits},
+ title = {An Empirical Study on Data Leakage and Generalizability of Link Prediction Models for Issues and Commits},
  volume = {},
  year = {2022}
 }
@@ -468,20 +474,22 @@ abbr={ICSE}
 @inproceedings{izadi2022catiss,
  abstract = {Users use Issue Tracking Systems to keep track and manage issue reports in their repositories. An issue is a rich source of software information that contains different reports including a problem, a request for new features, or merely a question about the software product. As the number of these issues increases, it becomes harder to manage them manually. Thus, automatic approaches are proposed to help facilitate the management of issue reports. This paper describes CatIss, an automatic Categorizer of Issue reports which is built upon the Transformer-based pre-trained RoBERTa model. CatIss classifies issue reports into three main categories of Bug report, Enhancement/feature request, and Question. First, the datasets provided for the NLBSE tool competition are cleaned and preprocessed. Then, the pre-trained RoBERTa model is fine-tuned on the preprocessed dataset. Evaluating CatIss on about 80 …},
  author = {Maliheh Izadi},
- booktitle = {2022 IEEE/ACM 1st International Workshop on Natural Language-Based Software Engineering (NLBSE)},
+ booktitle = {IEEE/ACM 1st International Workshop on Natural Language-Based Software Engineering (NLBSE)},
  journal = {},
  number = {},
  pages = {44-47},
  publisher = {IEEE Computer Society},
  title = {CatIss: An Intelligent Tool for Categorizing Issues Reports using Transformers},
  volume = {},
- year = {2022}
+ year = {2022},
+ award={I won the first place in the NLBSE competition.},
+ award_name={Best Tool Award}
 }
 
 @inproceedings{izadi2022evaluation,
  abstract = {NLP-based models have been increasingly incorporated to address SE problems. These models are either employed in the SE domain with little to no change, or they are greatly tailored to source code and its unique characteristics. Many of these approaches are considered to be outperforming or complementing existing solutions. However, an important question arises here: Are these models evaluated fairly and consistently in the SE community?. To answer this question, we reviewed how NLP-based models for SE problems are being evaluated by researchers. The findings indicate that currently there is no consistent and widely-accepted protocol for the evaluation of these models. While different aspects of the same task are being assessed in different studies, metrics are defined based on custom choices, rather than a system, and finally, answers are collected and interpreted case by case. Consequently, there …},
  author = {Maliheh Izadi and Matin Nili Ahmadabadi},
- booktitle = {2022 IEEE/ACM 1st International Workshop on Natural Language-Based Software Engineering (NLBSE)},
+ booktitle = {IEEE/ACM 1st International Workshop on Natural Language-Based Software Engineering (NLBSE)},
  journal = {},
  number = {},
  pages = {48-50},
@@ -494,12 +502,12 @@ abbr={ICSE}
 @inproceedings{rostami2021icsme,
  abstract = {An issue report documents the discussions around required changes in issue-tracking systems, while a commit contains the change itself in the version control systems. Recovering links between issues and commits can facilitate many software evolution tasks such as bug localization, defect prediction, software quality measurement, and software documentation. A previous study on over half a million issues from GitHub reports only about 42.2% of issues are manually linked by developers to their pertinent commits. Automating the linking of commit-issue pairs can contribute to the improvement of the said tasks. By far, current state-of-the-art approaches for automated commit-issue linking suffer from low precision, leading to unreliable results, sometimes to the point that imposes human supervision on the predicted links. The low performance gets even more severe when there is a lack of textual information in either …},
  author = {Pooya Rostami Mazrae and Maliheh Izadi and Abbas Heydarnoori},
- booktitle = {2021 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+ booktitle = {IEEE International Conference on Software Maintenance and Evolution (ICSME)},
  journal = {},
  number = {},
  pages = {263-273},
  publisher = {IEEE},
- title = {Automated recovery of issue-commit links leveraging both textual and non-textual data},
+ title = {Automated Recovery of Issue-commit Links Leveraging both Textual and Non-textual Data},
  volume = {},
  year = {2021}
 }
@@ -512,10 +520,9 @@ abbr={ICSE}
  number = {},
  pages = {93},
  publisher = {Springer US},
- title = {Topic recommendation for software repositories using multi-label classification algorithms},
+ title = {Topic Recommendation for Software Repositories using Multi-label Classification Algorithms},
  volume = {26},
- year = {2021},
- selected = {true}
+ year = {2021}
 }
 
 @article{aghamohammadi2020summarization,
@@ -525,7 +532,7 @@ abbr={ICSE}
  number = {},
  pages = {110800},
  publisher = {Elsevier},
- title = {Generating summaries for methods of event-driven programs: An Android case study},
+ title = {Generating Summaries for Methods of Event-driven Programs: An Android Case Study},
  volume = {170},
  year = {2020}
 }
@@ -533,12 +540,12 @@ abbr={ICSE}
 @inproceedings{tavakoli2020stackoverflow,
  abstract = {Community Question Answering platforms such as Stack Overflow help a wide range of users solve their challenges on-line. As the popularity of these communities has grown over the years, both the number of members and posts have escalated. Also, due to the diverse backgrounds, skills, expertise, and viewpoints of users, each question may obtain more than one answer. Therefore, the focus has changed toward producing posts that have a set of answers more valuable for the community as a whole, not just one accepted-answer aimed at satisfying only the question-asker. Same as every universal community, a large number of low-quality posts on Stack Overflow require improvement. We call these posts "deficient", and define them as posts with questions that either have no answer yet or can be improved by other ones. In this paper, we propose an approach to automate the identification process of such posts …},
  author = {Mohammadreza Tavakoli and Maliheh Izadi and Abbas Heydarnoori},
- booktitle = {2020 46th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)},
+ booktitle = {46th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)},
  journal = {},
  number = {},
  pages = {504-512},
  publisher = {IEEE},
- title = {Improving quality of a post’s set of answers in stack overflow},
+ title = {Improving Quality of a Post’s Set of Answers in Stack Overflow},
  volume = {},
  year = {2020}
 }
@@ -550,7 +557,7 @@ abbr={ICSE}
  number = {},
  pages = {74003-74024},
  publisher = {IEEE},
- title = {Evaluating collaborative filtering recommender algorithms: a survey},
+ title = {Evaluating Collaborative Filtering Recommender Algorithms: a Survey},
  volume = {6},
  year = {2018}
 }
@@ -570,11 +577,11 @@ abbr={ICSE}
 @misc{javari2015bookchapter,
  abstract = {Recommender systems has become increasingly important in online community for providing personalized services and products to users. Traditionally, performance of recommender algorithms has been evaluated based on accuracy and the focus of the research was on providing accurate recommendation lists. However, recently diversity and novelty of recommendation lists have been introduced as key issues in designing recommender systems. In general, novelty/diversity and accuracy do not go hand in hand. Therefore, designing models answering novelty/diversity-accuracy dilemma is one of the challenging problems in the context of practical recommender systems. In this paper, we first introduce the diversity-accuracy challenge in recommender systems, and then present two recommendation algorithms which approach the problem from two perspectives. The first model is a filtering algorithm to …},
  author = {Amin Javari and Maliheh Izadi and Mahdi Jalili},
- journal = {},
+ journal = {Book Chapter},
  number = {},
  pages = {423-438},
  publisher = {Springer Berlin Heidelberg},
- title = {Recommender systems for social networks analysis and mining: precision versus diversity},
+ title = {Recommender Systems for Social Networks Analysis and Mining: Precision versus Diversity},
  volume = {},
  year = {2015}
 }
@@ -582,11 +589,11 @@ abbr={ICSE}
 @article{izadi2014mscthesis,
  abstract = {Recommender systems are among the most popular tools used by online community these days. Traditionally, recommender techniques were evaluated using accuracy-based metrics such as precision; however, gradually the need for other qualities including more novel and diverse items emerged. Consequently, researchers started to evaluate their finding with different and often inconsistent metrics and made it nearly impossible to compare the existing approaches properly. It is clear that we need a more unified approach to assess the results of new techniques, and to the best of our knowledge, this problem has not been answered yet in previous studies. In this paper, we proposed a novel and extensible framework for evaluation of recommender systems using maximum bounds of possible measures in different datasets. Finally we provided the results of applying this framework on a set of different recommender algorithms.},
  author = {Maliheh Izadi and Amin Javari and Mahdi Jalilii},
- journal = {Proceedings RecSys Conference, REDD Workshop},
+ journal = {REDD Workshop, co-located with RecSys},
  number = {},
  pages = {},
  publisher = {},
- title = {Unifying inconsistent evaluation metrics in recommender systems},
+ title = {Unifying Inconsistent Evaluation Metrics in Recommender Systems},
  volume = {},
  year = {2014}
 }
