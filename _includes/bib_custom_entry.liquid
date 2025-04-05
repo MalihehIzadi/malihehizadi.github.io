@@ -1,0 +1,10 @@
+{% capture reference %}
+<strong>{{ entry.title }}</strong><br/>
+{% if entry.journal %}
+  <em>{{ entry.journal }}</em>,
+{% elsif entry.booktitle %}
+  <em>{{ entry.booktitle }}</em>,
+{% endif %}
+{{ entry.year }}
+{% endcapture %}
+{{ reference }}
