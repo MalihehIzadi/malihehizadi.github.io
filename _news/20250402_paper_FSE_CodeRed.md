@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper on _Code Red! On the Harmfulness of Applying Off-the-shelf Large Language Models to Programming Tasks_ accepted at the ACM **FSE 2025** (Main Track).
+New paper on _Benchmarking Harmfulness in LLM4Code Generations_ accepted at the ACM **FSE 2025** (Main Track).
