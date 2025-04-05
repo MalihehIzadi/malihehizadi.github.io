@@ -17,4 +17,4 @@ Scientific Developer and Research Assistant
 </div>
 % bibliography --group_by none --query @*[keywords~=rkoohestani]* %}-->
 
-{% bibliography --template bib_custom_entry_people --group_by none --query @*[keywords~=rkoohestani]* %}
+{% bibliography --template bib_custom_entry --group_by none --query @*[keywords~=rkoohestani]* %}
