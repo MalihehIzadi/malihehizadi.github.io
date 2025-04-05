@@ -15,6 +15,20 @@ Scientific Developer and Research Assistant
 <div class="publications">
   {% bibliography --group_by none --query @*[author_id contains rkoohestani]* %}
 </div>
-% bibliography --group_by none --query @*[keywords~=rkoohestani]* %}-->
+% bibliography --group_by none --query @*[keywords~=rkoohestani]* %}
+{% bibliography --template bib_custom_entry --group_by none --query @*[keywords~=rkoohestani]* %}-->
 
-{% bibliography --template bib_custom_entry --group_by none --query @*[keywords~=rkoohestani]* %}
+<ul>
+{% assign pubs = site.bibliography | where_exp:"item", "item.keywords contains 'rkoohestani'" %}
+{% for entry in pubs %}
+  <li>
+    <strong>{{ entry.title }}</strong><br/>
+    {% if entry.journal %}
+      <em>{{ entry.journal }}</em>,
+    {% elsif entry.booktitle %}
+      <em>{{ entry.booktitle }}</em>,
+    {% endif %}
+    {{ entry.year }}
+  </li>
+{% endfor %}
+</ul>
