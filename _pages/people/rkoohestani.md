@@ -1,6 +1,6 @@
 <h2>Roham Koohestani</h2>
 Scientific Developer and Research Assistant
-
+<!--
 {% assign coauthor_id = "rkoohestani" %}
 {% assign selected_pubs = site.bibliography | where_exp: "pub", "pub.author_id contains coauthor_id" %}
 
@@ -10,11 +10,13 @@ Scientific Developer and Research Assistant
   {% endfor %}
 </div>
 
-one author
 <div class="publications">
   {% bibliography --group_by none --query @*[author_id=rkoohestani]* %}
 </div>
-many authors
 <div class="publications">
   {% bibliography --group_by none --query @*[author_id contains rkoohestani]* %}
 </div>
+
+-->
+
+{% bibliography --group_by none --query @*[keywords~=rkoohestani]* %}
