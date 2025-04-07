@@ -17,7 +17,7 @@ profiles:
       <strong>Dr. Maliheh Izadi</strong>
       <p>Lab director</p>
   - align: right
-    image: profile_male.jpg
+    image: people/aalkaswan.jpg
     content: people/aalkaswan.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -25,7 +25,7 @@ profiles:
       <p>PhD candidate (2022)</p>
       <p>Privacy/Security in LLMs</p>
   - align: right
-    image: profile_male.jpg
+    image: people/jkatzy.jpeg
     content: people/jkatzy.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -33,7 +33,7 @@ profiles:
       <p>PhD candidate (2023)</p>
       <p>Multilinguality in LLMs</p>
   - align: right
-    image: profile_male.jpg
+    image: people/ebogomolov.jpg
     content: people/ebogomolov.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -41,7 +41,7 @@ profiles:
       <p>PhD candidate</p>
       <p>Evaluation in LLMs</p>
   - align: right
-    image: profile_female.jpg
+    image: people/asergeyuk.jpg
     content: people/asergeyuk.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -49,7 +49,7 @@ profiles:
       <p>PhD candidate (2024)</p>
       <p>Human/AI in IDE</p>
   - align: right
-    image: profile_male.jpg
+    image: people/dcipollone.jpg
     content: people/dcipollone.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -57,7 +57,7 @@ profiles:
       <p>PhD candidate (2024)</p>
       <p>LLM Integration in IDE</p>
   - align: right
-    image: profile_male.jpg
+    image: people/zli.jpeg
     content: people/zli.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -65,7 +65,7 @@ profiles:
       <p>PhD candidate (2024)</p>
       <p>AI/AI Interaction in IDE</p>
   - align: right
-    image: profile_male.jpg
+    image: people/rpopescu.jpeg
     content: people/rpopescu.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -73,7 +73,7 @@ profiles:
       <p>PhD candidate (2025)</p>
       <p>Robust Datasets for LLM4Code</p>
   - align: right
-    image: rkoohestani.jpeg
+    image: people/rkoohestani.jpeg
     content: people/rkoohestani.md
     image_circular: false # crops the image to make it circular
     more_info: >
