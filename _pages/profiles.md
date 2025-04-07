@@ -2,26 +2,26 @@
 layout: profiles
 permalink: /people/
 title: AISE Team
-description: Current list of our members at AISE (Sorted based on role and in reverse chronological order)
+description: Lab's research area and current list of members (sorted based on role and in reverse chronological order)
 nav: true
 nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: left
+  - align: right
     image: prof_pic.jpg
     content: people/mizadi.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Dr. Maliheh Izadi</p>
+      <strong>Dr. Maliheh Izadi</strong>
       <p>Lab director</p>
   - align: right
     image: profile_male.jpg
     content: people/aalkaswan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Ali Al-kaswan</p>
+      <strong>Ali Al-kaswan</strong>
       <p>PhD candidate (2022)</p>
       <p>Privacy/Security in LLMs</p>
   - align: right
@@ -29,7 +29,7 @@ profiles:
     content: people/jkatzy.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Jonathan Katzy</p>
+      <strong>Jonathan Katzy</strong>
       <p>PhD candidate (2023)</p>
       <p>Multilinguality in LLMs</p>
   - align: right
@@ -37,7 +37,7 @@ profiles:
     content: people/ebogomolov.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Egor Bogomolov</p>
+      <strong>Egor Bogomolov</strong>
       <p>PhD candidate</p>
       <p>Evaluation in LLMs</p>
   - align: right
@@ -45,7 +45,7 @@ profiles:
     content: people/asergeyuk.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Agnia Sergeyuk</p>
+      <strong>Agnia Sergeyuk</strong>
       <p>PhD candidate (2024)</p>
       <p>Human/AI in IDE</p>
   - align: right
@@ -53,7 +53,7 @@ profiles:
     content: people/dcipollone.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Daniele Cipollone</p>
+      <strong>Daniele Cipollone</strong>
       <p>PhD candidate (2024)</p>
       <p>LLM Integration in IDE</p>
   - align: right
@@ -61,7 +61,7 @@ profiles:
     content: people/zli.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Ziyou Li</p>
+      <strong>Ziyou Li</strong>
       <p>PhD candidate (2024)</p>
       <p>AI/AI Interaction in IDE</p>
   - align: right
@@ -69,15 +69,15 @@ profiles:
     content: people/rpopescu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Razvan Popescu</p>
+      <strong>Razvan Popescu</strong>
       <p>PhD candidate (2025)</p>
       <p>Robust Datasets for LLM4Code</p>
-  - align: left
+  - align: right
     image: rkoohestani.jpeg
     content: people/rkoohestani.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Roham Koohestani (2024)</p>
+      <strong>Roham Koohestani (2024)</strong>
       <p>Scientific Developer and RA</p>
       <p>Guaranties in GenAI</p>
 ---
