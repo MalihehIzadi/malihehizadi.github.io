@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-aise-team",
+          title: "AISE Team",
+          description: "Current list of our members at AISE (Sorted based on role and in reverse chronological order)",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "",
