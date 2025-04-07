@@ -11,14 +11,14 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: mizadi.md
+    content: people/mizadi.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Dr. Maliheh Izadi</p>
       <p>Lab director</p>
   - align: right
     image: profile_male.jpg
-    content: aalkaswan.md
+    content: people/aalkaswan.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ali Al-kaswan</p>
@@ -26,7 +26,7 @@ profiles:
       <p>Privacy/Security in LLMs</p>
   - align: right
     image: profile_male.jpg
-    content: jkatzy.md
+    content: people/jkatzy.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Jonathan Katzy</p>
@@ -34,7 +34,7 @@ profiles:
       <p>Multilinguality in LLMs</p>
   - align: right
     image: profile_male.jpg
-    content: ebogomolov.md
+    content: people/ebogomolov.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Egor Bogomolov</p>
@@ -42,7 +42,7 @@ profiles:
       <p>Evaluation in LLMs</p>
   - align: right
     image: profile_female.jpg
-    content: asergeyuk.md
+    content: people/asergeyuk.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Egor Bogomolov</p>
@@ -50,7 +50,7 @@ profiles:
       <p>Human/AI in IDE</p>
   - align: right
     image: profile_female.jpg
-    content: dcipollone.md
+    content: people/dcipollone.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Daniele Cipollone</p>
@@ -58,7 +58,7 @@ profiles:
       <p>LLM Integration in IDE</p>
   - align: right
     image: profile_male.jpg
-    content: zli.md
+    content: people/zli.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ziyou Li</p>
@@ -66,7 +66,7 @@ profiles:
       <p>AI/AI Interaction in IDE</p>
   - align: right
     image: profile_male.jpg
-    content: rpopescu.md
+    content: people/rpopescu.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Razvan Popescu</p>
