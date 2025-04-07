@@ -18,7 +18,7 @@ Scientific Developer and Research Assistant
 % bibliography --group_by none --query @*[keywords~=rkoohestani]* %}
 {% bibliography --template bib_custom_entry --group_by none --query @*[keywords~=rkoohestani]* %}-->
 
-<ul>
+<!--<ul>
 {% assign pubs = site.bibliography | where_exp:"item", "item.keywords contains 'rkoohestani'" %}
 {% for entry in pubs %}
   <li>
@@ -31,4 +31,7 @@ Scientific Developer and Research Assistant
     {{ entry.year }}
   </li>
 {% endfor %}
-</ul>
+</ul>-->
+
+{% bibliography --group_by none --query @*[keywords~=rkoohestani]* --template author_publication %}
+
