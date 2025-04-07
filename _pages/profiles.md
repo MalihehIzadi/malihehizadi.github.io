@@ -18,7 +18,7 @@ profiles:
       <p>Lab director</p>
   - align: right
     image: profile_male.jpg
-    content: people/aalkaswan.md
+    content: {% bibliography --group_by none --query @*[keywords~=aalkaswan]* --template author_publication %}
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ali Al-kaswan</p>
