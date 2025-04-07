@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-aise-team",
           title: "AISE Team",
-          description: "Current list of our members at AISE (Sorted based on role and in reverse chronological order)",
+          description: "Lab&#39;s research area and current list of members (sorted based on role and in reverse chronological order)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
