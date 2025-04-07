@@ -80,7 +80,7 @@ profiles:
       <strong>Roham Koohestani (Jan 2024)</strong>
       <p>Scientific Developer + Intern</p>
       <p>Guaranties in GenAI</p>
+---
 
 <h1>Alumni</h1>
 
----
