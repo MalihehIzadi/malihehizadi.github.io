@@ -6,7 +6,7 @@
 @article{koohestani2025benchmarks,
  abstract = {Benchmarks are essential for consistent evaluation and reproducibility. The integration of Artificial Intelligence into Software Engineering (AI4SE) has given rise to numerous benchmarks for tasks such as code generation and bug fixing. However, this surge presents challenges: (1) scattered benchmark knowledge across tasks, (2) difficulty in selecting relevant benchmarks, (3) the absence of a uniform standard for benchmark development, and (4) limitations of existing benchmarks. In this paper, we review 173 studies and identify 204 AI4SE benchmarks. We classify these benchmarks, analyze their limitations, and expose gaps in practices. Based on our review, we created BenchScout, a semantic search tool to find relevant benchmarks, using automated clustering of the contexts from associated studies. We conducted a user study with 22 participants to evaluate BenchScout's usability, effectiveness, and intuitiveness which resulted in average scores of 4.5, 4.0, and 4.1 out of 5. To advance benchmarking standards, we propose BenchFrame, a unified method to enhance benchmark quality. As a case study, we applied BenchFrame to the HumanEval benchmark and addressed its main limitations. This led to HumanEvalNext, featuring (1) corrected errors, (2) improved language conversion, (3) expanded test coverage, and (4) increased difficulty. We then evaluated ten state-of-the-art code language models on HumanEval, HumanEvalPlus, and HumanEvalNext. On HumanEvalNext, models showed a pass@1 score reduction of 31.22% and 19.94% compared to HumanEval and HumanEvalPlus, respectively.},
  author = {Roham Koohestani and Philippe de Bekker and Maliheh Izadi},
- journal = {},
+ journal = {under review},
  title = {Benchmarking AI Models in Software Engineering: A Review, Search Tool, and Enhancement Protocol},
  year = {2025},
  keywords={rkoohestani and mizadi},
@@ -52,12 +52,9 @@
 @article{bogomolov2025longcodearena,
  abstract = {Nowadays, the fields of code and natural language processing are evolving rapidly. In particular, models become better at processing long context windows - supported context sizes have increased by orders of magnitude over the last few years. However, there is a shortage of benchmarks for code processing that go beyond a single file of context, while the most popular ones are limited to a single method. With this work, we aim to close this gap by introducing Long Code Arena, a suite of six benchmarks for code processing tasks that require project-wide context. These tasks cover different aspects of code processing: library-based code generation, CI builds repair, project-level code completion, commit message generation, bug localization, and module summarization. For each task, we provide a manually verified dataset for testing, an evaluation suite, and open-source baseline solutions based on popular LLMs to showcase the usage of the dataset and to simplify adoption by other researchers. We publish the benchmark page on HuggingFace Spaces with the leaderboard, links to HuggingFace Hub for all the datasets, and link to the GitHub repository with baselines: https://huggingface.co/spaces/JetBrains-Research/long-code-arena.},
  author = {Egor Bogomolov and Aleksandra Eliseeva and Timur Galimzyanov and Evgeniy Glukhov and Anton Shapkin and Maria Tigina and Yaroslav Golubev and Alexander Kovrigin and Arie van Deursen and Maliheh Izadi and Timofey Bryksin},
- journal = {Under review},
- number = {},
- pages = {},
+ journal = {under review},
  publisher = {},
  title = {Long Code Arena: a Set of Benchmarks for Long-context Code Models},
- volume = {},
  year = {2025},
  selected = {true},
  keywords={ebogomolov and mizadi}
@@ -105,6 +102,26 @@
  keywords={dcipollone and mizadi}
 }
 
+@inproceedings{cipollone2025ds,
+ abstract = {Large language models have emerged as one of the most impactful applications in software engineering. However, their integration into the software development ecosystem remains fragmented and suboptimal. This study aims to bridge this gap by adapting and fine-tuning existing large language models for real-world software development scenarios. Rather than building new models from scratch, our approach leverages advanced techniques that allow Large Language Models to interact seamlessly with existing development tools and Integrated Development Environments (IDEs). This research, conducted in collaboration with JetBrains, focuses on personalizing code generation by adjusting the model to the unique features of a project and the individual coding style of each developer.},
+ author = {Daniele Cipollone},
+ booktitle = {ACM International Conference on the Foundations of Software Engineering (FSE), Doctoral Symposium},
+ publisher = {},
+ title = {Enhancing Large Language Model Integration in Integrated Development Environments},
+ year = {2025},
+ keywords={dcipollone}
+}
+
+@inproceedings{li2025ds,
+ abstract = {Large Language Model (LLM)-based autonomous agents provide state-of-the-art performance in various tasks throughout the software development lifecycle. Though the applications employing the agents can be implemented in Integrated Development Environments (IDEs), the standalone applications is not optimal for human programmers’ utilization. This doctoral project proposes a framework of an mediator agent acting as the sole medium between programmer, IDE tools, agentic tools, and external multi-agent systems. The framework aims to simplify tool usage and automate management of in-IDE tools and other agentic tools that can be implemented in the future. By implementing a unified mediator agent, this project expects to set the stage of human-computer interaction in the era of LLM-based autonomous agents, enhance programmer productivity, and advance in software engineering automation.},
+ author = {Ziyou Li},
+ booktitle = {ACM International Conference on the Foundations of Software Engineering (FSE), Doctoral Symposium},
+ publisher = {},
+ title = {Mediating between Human Programmers and Integrated Development Environments using LLM-based Agents},
+ year = {2025},
+ keywords={zli}
+}
+
 @inproceedings{deljouyi2025test,
  abstract = {Automated unit test generators, particularly search-based software testing tools like EvoSuite, are capable of generating tests with high coverage. Although these generators alleviate the burden of writing unit tests, they often pose challenges for software engineers in terms of understanding the generated tests. To address this, we introduce UTGen, which combines search-based software testing and large language models to enhance the understandability of automatically generated test cases. We achieve this enhancement through contextualizing test data, improving identifier naming, and adding descriptive comments. Through a controlled experiment with 32 participants from both academia and industry, we investigate how the understandability of unit tests affects a software engineer's ability to perform bug-fixing tasks. We selected bug-fixing to simulate a real-world scenario that emphasizes the importance of understandable test cases. We observe that participants working on assignments with UTGen test cases fix up to 33% more bugs and use up to 20% less time when compared to baseline test cases. From the post-test questionnaire, we gathered that participants found that enhanced test names, test data, and variable names improved their bug-fixing process.},
  author = {Amirhossein Deljouyi and Roham Koohestani and Maliheh Izadi and Andy Zaidman},
@@ -115,10 +132,10 @@
  keywords = {rkoohestani and mizadi and adeljouyi and azaidman},
 }
 
-@misc{sergeyuk2025haxreview,
+@article{sergeyuk2025haxreview,
  abstract = {The integration of Artificial Intelligence (AI) into Integrated Development Environments (IDEs) is reshaping software development, fundamentally altering how developers interact with their tools. This shift marks the emergence of Human-AI Experience in Integrated Development Environment (in-IDE HAX), a field that explores the evolving dynamics of Human-Computer Interaction in AI-assisted coding environments. Despite rapid adoption, research on in-IDE HAX remains fragmented which highlights the need for a unified overview of current practices, challenges, and opportunities. To provide a structured overview of existing research, we conduct a systematic literature review of 89 studies, summarizing current findings and outlining areas for further investigation. Our findings reveal that AI-assisted coding enhances developer productivity but also introduces challenges, such as verification overhead, automation bias, and over-reliance, particularly among novice developers. Furthermore, concerns about code correctness, security, and maintainability highlight the urgent need for explainability, verification mechanisms, and adaptive user control. Although recent advances have driven the field forward, significant research gaps remain, including a lack of longitudinal studies, personalization strategies, and AI governance frameworks. This review provides a foundation for advancing in-IDE HAX research and offers guidance for responsibly integrating AI into software development.},
  author = {Agnia Sergeyuk and Ilya Zakharov and Ekaterina Koshchenko and Maliheh Izadi},
- journal = {},
+ journal = {under review},
  title = {Human-AI Experience in Integrated Development Environments: A Systematic Literature Review},
  year = {2025},
  keywords={asergeyuk and mizadi}
@@ -127,7 +144,7 @@
 @article{sergeyuk2024designspace,
  abstract = {Nowadays, integration of AI-driven tools within Integrated Development Environments (IDEs) is reshaping the software development lifecycle. Existing research highlights that users expect these tools to be efficient, context-aware, accurate, user-friendly, customizable, and secure. However, a major gap remains in understanding developers' needs and challenges, particularly when interacting with AI systems in IDEs and from the perspectives of different user groups. In this work, we address this gap through structured interviews with 35 developers from three different groups: Adopters, Churners, and Non-Users of AI in IDEs to create a comprehensive Design Space of in-IDE Human-AI Experience. Our results highlight key areas of Technology Improvement, Interaction, and Alignment in in-IDE AI systems, as well as Simplifying Skill Building and Programming Tasks. Our key findings stress the need for AI systems that are more personalized, proactive, and reliable. We also emphasize the importance of context-aware and privacy-focused solutions and better integration with existing workflows. Furthermore, our findings show that while Adopters appreciate advanced features and non-interruptive integration, Churners emphasize the need for improved reliability and privacy. Non-Users, in contrast, focus on skill development and ethical concerns as barriers to adoption. Lastly, we provide recommendations for industry practitioners aiming to enhance AI integration within developer workflows.},
  author = {Agnia Sergeyuk and Ekaterina Koshchenko and Ilya Zakharov and Timofey Bryksin and Maliheh Izadi},
- journal = {},
+ journal = {under review},
  title = {The Design Space of in-IDE Human-AI Experience},
  year = {2024},
  selected = {true},
@@ -245,8 +262,6 @@
  keywords={jkatzy and rpopescu and tvandam and mizadi}
 }
 
-
-
 @inproceedings{alkaswan2024memorization,
  abstract = {Large language models have gained significant popularity because of their ability to generate human-like text and potential applications in various fields, such as Software Engineering. Large language models for code are commonly trained on large unsanitised corpora of source code scraped from the internet. The content of these datasets is memorised and can be extracted by ers with data extraction attacks. In this work, we explore memorisation in large language models for code and compare the rate of memorisation with large language models trained on natural language. We adopt an existing benchmark for natural language and construct a benchmark for code by identifying samples that are vulnerable to attack. We run both benchmarks against a variety of models, and perform a data extraction attack. We find that large language models for code are vulnerable to data extraction attacks, like their …},
  author = {Ali Al-Kaswan and Maliheh Izadi and Arie Van Deursen},
@@ -271,6 +286,25 @@
  publisher = {IEEE},
  title = {Maven Unzipped: Exploring the Impact of Library Packaging on the Ecosystem},
  year = {2024}
+}
+
+@inproceedings{alkaswan2024ds,
+ abstract = {Large Language Models (LLMs) are gaining popularity in the field of Natural Language Processing (NLP) due to their remarkable accuracy in various NLP tasks. LLMs designed for coding are trained on massive datasets, which enables them to learn the structure and syntax of programming languages. These datasets are scraped from the web and LLMs memorise information in these datasets. LLMs for code are also growing, making them more challenging to execute and making users increasingly reliant on external infrastructure. We aim to explore the challenges faced by LLMs for code and propose techniques to measure and prevent memorisation. Additionally, we suggest methods to compress models and run them locally on consumer hardware.},
+ author = {Ali Al-kaswan},
+ booktitle = {IEEE/ACM 46th International Conference on Software Engineering (ICSE), Doctoral Symposium},
+ publisher = {},
+ title = {Towards Safe, Secure, and Usable LLMs4Code},
+ year = {2024},
+ keywords={aalkaswan}
+}
+@inproceedings{katzy2024ds,
+ abstract = {Large language models have become increasingly utilized in programming contexts. However, due to the recent emergence of this trend, some aspects have been overlooked. We propose a research approach that investigates the inner mechanics of transformer networks, on a neuron, layer, and output representation level, to understand whether there is a theoretical limitation that prevents large language models from performing optimally in a multilingual setting. We propose to approach the investigation into the theoretical limitations, by addressing open problems in machine learning for the software engineering community. This will contribute to a greater understanding of large language models for programming-related tasks, making the findings more approachable to practitioners, and simply their implementation in future models.},
+ author = {Jonathan Katzy},
+ booktitle = {IEEE/ACM 46th International Conference on Software Engineering (ICSE), Doctoral Symposium},
+ publisher = {},
+ title = {Programming Language Models in Multilingual Settings},
+ year = {2024},
+ keywords={jkatzy}
 }
 
 @misc{izadi2024nlbsemessage,
@@ -346,12 +380,9 @@
  abstract = {Binary reverse engineering is used to understand and analyse programs for which the source code is unavailable. Decompilers can help, transforming opaque binaries into a more readable source code-like representation. Still, reverse engineering is difficult and costly, involving considering effort in labelling code with helpful summaries. While the automated summarisation of decompiled code can help reverse engineers understand and analyse binaries, current work mainly focuses on summarising source code, and no suitable dataset exists for this task. In this work, we extend large pre-trained language models of source code to summarise de-compiled binary functions. Further-more, we investigate the impact of input and data properties on the performance of such models. Our approach consists of two main components; the data and the model. We first build CAPYBARA, a dataset of 214K decompiled function …},
  author = {Ali Al-Kaswan and Toufique Ahmed and Maliheh Izadi and Anand Ashok Sawant and Premkumar Devanbu and Arie van Deursen},
  booktitle = {IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)},
- journal = {},
- number = {},
  pages = {260-271},
  publisher = {IEEE},
  title = {Extending Source Code Pre-trained Language Models to Summarise Decompiled Binaries},
- volume = {},
  year = {2023},
  keywords={aalkaswan and mizadi}
 }
@@ -376,12 +407,9 @@
  abstract = {Code comments are a key resource for information about software artefacts. Depending on the use case, only some types of comments are useful. Thus, automatic approaches to clas-sify these comments have been proposed. In this work, we address this need by proposing, STACC, a set of SentenceTransformers- based binary classifiers. These lightweight classifiers are trained and tested on the NLBSE Code Comment Classification tool competition dataset, and surpass the baseline by a significant margin, achieving an average Fl score of 0.74 against the baseline of 0.31, which is an improvement of 139%. A replication package, as well as the models themselves, are publicly available.},
  author = {Ali Al-Kaswan and Maliheh Izadi and Arie Van Deursen},
  booktitle = {IEEE/ACM 2nd International Workshop on Natural Language-Based Software Engineering (NLBSE)},
- journal = {},
- number = {},
  pages = {28-31},
  publisher = {IEEE},
  title = {Stacc: Code comment Classification using SentenceTransformers},
- volume = {},
  year = {2023},
  award={We won the first place in the NLBSE competition.},
  award_name={Best Tool Award &#127942;},
@@ -442,7 +470,7 @@
 @article{izadi2022linkformer,
  abstract = {To enhance documentation and maintenance practices, developers conventionally establish links between related software artifacts manually. Empirical research has revealed that developers frequently overlook this practice, resulting in significant information loss. To address this issue, automatic link recovery techniques have been proposed. However, these approaches primarily focused on improving prediction accuracy on randomly-split datasets, with limited attention given to the impact of data leakage and the generalizability of the predictive models. LinkFormer seeks to address these limitations. Our approach not only preserves and improves the accuracy of existing predictions but also enhances their alignment with real-world settings and their generalizability. First, to better utilize contextual information for prediction, we employ the Transformer architecture and fine-tune multiple pre-trained models on both textual and metadata information of issues and commits. Next, to gauge the effect of time on model performance, we employ two splitting policies during both the training and testing phases; randomly- and temporally-split datasets. Finally, in pursuit of a generic model that can demonstrate high performance across a range of projects, we undertake additional fine-tuning of LinkFormer within two distinct transfer-learning settings. Our findings support that to simulate real-world scenarios effectively, researchers must maintain the temporal flow of data when training models. Furthermore, the results demonstrate that LinkFormer outperforms existing methodologies by a significant margin, achieving a 48% improvement in F1-measure within a …},
  author = {Maliheh Izadi and Pooya Rostami Mazrae and Tom Mens and Arie van Deursen},
- journal = {Under review},
+ journal = {},
  number = {},
  pages = {},
  publisher = {},
