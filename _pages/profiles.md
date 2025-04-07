@@ -78,9 +78,22 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <strong>Roham Koohestani (Jan 2024)</strong>
-      <p>Scientific Developer + Intern</p>
+      <p>Scientific Developer</p>
       <p>Guaranties in GenAI</p>
+  - align: right
+    image: people/profile_male.jpeg
+    content: people/ademoor.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <strong>Aral De Moor (Sep 2023)</strong>
+      <p>Scientific Developer</p>
+      <p>Smart Trigger Models</p>
+  - align: right
+    image: people/profile_male.jpeg
+    content: people/fsalerno.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <strong>Fabio Salerno (Mar 2023)</strong>
+      <p>Visiting Msc student</p>
+      <p>Memorization in LLM4sCode</p>
 ---
-
-<h1>Alumni</h1>
-
