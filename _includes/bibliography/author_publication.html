@@ -1,0 +1,13 @@
+{% if entry.title %}
+<strong>{{ entry.title }}</strong><br>
+{% endif %}
+{% if entry.author %}
+{{ entry.author }}<br>
+{% endif %}
+{% if entry.journal %}
+<i>{{ entry.journal }}</i><br>
+{% elsif entry.booktitle %}
+<i>{{ entry.booktitle }}</i><br>
+{% elsif entry.publisher %}
+<i>{{ entry.publisher }}</i><br>
+{% endif %}
