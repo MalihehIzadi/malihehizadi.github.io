@@ -1,13 +1,13 @@
 {% if entry.title %}
-<strong>{{ entry.title }}</strong><br>
-{% endif %}
-{% if entry.author %}
-{{ entry.author }}<br>
+<strong>{{ entry.title }}</strong>, 
 {% endif %}
 {% if entry.journal %}
-<i>{{ entry.journal }}</i><br>
+<i>{{ entry.journal }}</i>, 
 {% elsif entry.booktitle %}
-<i>{{ entry.booktitle }}</i><br>
+<i>{{ entry.booktitle }}</i>, 
 {% elsif entry.publisher %}
-<i>{{ entry.publisher }}</i><br>
+<i>{{ entry.publisher }}</i>, 
+{% endif %}
+{% if entry.year %}
+({{ entry.year }})
 {% endif %}
