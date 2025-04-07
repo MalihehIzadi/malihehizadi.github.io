@@ -9,7 +9,7 @@ nav_order: 4
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
+  - align: left
     image: prof_pic.jpg
     content: people/mizadi.md
     image_circular: false # crops the image to make it circular
@@ -45,11 +45,11 @@ profiles:
     content: people/asergeyuk.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Egor Bogomolov</p>
+      <p>Agnia Sergeyuk</p>
       <p>PhD candidate (2024)</p>
       <p>Human/AI in IDE</p>
   - align: right
-    image: profile_female.jpg
+    image: profile_male.jpg
     content: people/dcipollone.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -72,7 +72,7 @@ profiles:
       <p>Razvan Popescu</p>
       <p>PhD candidate (2025)</p>
       <p>Robust Datasets for LLM4Code</p>
-  - align: right
+  - align: left
     image: rkoohestani.jpeg
     content: people/rkoohestani.md
     image_circular: false # crops the image to make it circular
