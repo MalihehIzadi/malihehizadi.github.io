@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: AISE Team
+title: AISE
 description: Lab's research area and current list of members (sorted based on role and in reverse chronological order)
 nav: true
 nav_order: 4
@@ -10,18 +10,16 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: people/aise_group_gen.png
     content: people/mizadi.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
-      <strong>Dr. Maliheh Izadi</strong>
-      <p>Lab director</p>
   - align: right
     image: people/aalkaswan.jpg
     content: people/aalkaswan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <strong>Ali Al-kaswan</strong>
+      <strong>Ali Al-kaswan</strong></br>
       <p>PhD candidate (Sep'22)</p>
       <p>Former Msc student</p>
       <p>Privacy/Security in LLMs</p>
@@ -30,7 +28,7 @@ profiles:
     content: people/jkatzy.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <strong>Jonathan Katzy</strong>
+      <strong>Jonathan Katzy</strong></br>
       <p>PhD candidate (Jan'23)</p>
       <p>Multilinguality in LLMs</p>
   - align: right
@@ -38,7 +36,7 @@ profiles:
     content: people/ebogomolov.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <strong>Egor Bogomolov</strong>
+      <strong>Egor Bogomolov</strong></br>
       <p>PhD candidate (Mar'24)</p>
       <p>Evaluation in LLMs</p>
   - align: right
@@ -46,7 +44,7 @@ profiles:
     content: people/asergeyuk.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <strong>Agnia Sergeyuk</strong>
+      <strong>Agnia Sergeyuk</strong></br>
       <p>PhD candidate (Apr'24)</p>
       <p>Human-AI Interaction in IDE</p>
   - align: right
@@ -62,7 +60,7 @@ profiles:
     content: people/zli.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <strong>Ziyou Li</strong>
+      <strong>Ziyou Li</strong></br>
       <p>PhD candidate (Dec'24)</p>
       <p>AI/AI Interaction in IDE</p>
   - align: right
@@ -70,7 +68,7 @@ profiles:
     content: people/rpopescu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <strong>Razvan Popescu</strong>
+      <strong>Razvan Popescu</strong></br>
       <p>PhD candidate (Feb'25)</p>
       <p>Former BSc/Msc student</p>
       <p>Robust Datasets for LLM4Code</p>
@@ -79,42 +77,57 @@ profiles:
     content: people/rkoohestani.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <strong>Roham Koohestani</strong>
-      <p>Scientific Developer (Jan'24)</p>
+      <strong>Roham Koohestani</strong></br>
+      <p>Scientific Dev (Jan'24)</p>
       <p>BSc student</p>
       <p>Guaranties in GenAI</p>
+  # - align: right
+  #   image: people/nkuo.jpeg
+  #   content: people/nkuo.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: >
+  #     <strong>Nadine Kuo</strong></br>
+  #     <p>BSc/MSc student</p>
+  #     <p>Autonmous Agents</p>
   - align: right
-    image: people/profile_male.jpeg
+    image: people/aionescu.jpeg
+    content: people/aionescu.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <strong>Andrei Ionescu</strong></br>
+      <p>Former BSc/MSc student</p>
+      <p>Onboarding Agents</p>
+  - align: right
+    image: people/ademoor.jpeg
     content: people/ademoor.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <strong>Aral De Moor (Sep'23)</strong>
-      <p>Scientific Developer</p>
+      <strong>Aral De Moor</strong></br>
+      <p>Scientific Dev (Sep'23)</p>
       <p>Former BSc student</p>
       <p>Smart Trigger Models</p>
   - align: right
-    image: people/profile_male.jpeg
+    image: people/fsalerno.jpeg
     content: people/fsalerno.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <strong>Fabio Salerno (Mar'23)</strong>
+      <strong>Fabio Salerno</strong></br>
       <p>Visiting Msc student</p>
       <p>Memorization in LLM4sCode</p>
----
-
-
-# About the Lab
-Dr. Maliheh Izadi directs AISE research lab which explores several exciting areas at the intersection of AI and Software Engineering, including:
-
-- **LLMs for Code Generation, Summarization, Refactoring, and Bug Fixing**: Leverage LLMs to accelerate various development tasks.
-- **Human-AI Collaboration in IDEs**: Design intuitive IDE interfaces and workflows that foster seamless collaboration between developers and GenAI assistants, maximizing productivity and usability.
-- **Explainability in Code LLMs**: Improve the transparency of LLM-generated suggestions to enhance developer trust and facilitate understanding of model behavior.
-- **Mitigating Memorization and Hallucination**: Investigate strategies to reduce factual inaccuracies, hallucinated code, and overfitting in LLM outputs, ensuring reliability in practical applications.
-- **Domain-Specific Adaptation of LLMs**: Fine-tune models to specific domains or codebases to improve contextual relevance, precision, and performance.
-- **Longitudinal Evaluation and Benchmarking of Code LLMs**: Study the long-term performance of LLMs across languages, tools, and developer workflows. Develop comprehensive benchmarks to assess and compare LLM effectiveness in diverse software engineering tasks.
-- **Autonomous Software Engineering Agents**: Build intelligent, task-driven agents capable of independently executing and managing software engineering workflows.
-- **Automated Issue-Commit Linking**: Develop techniques to automatically associate commits with relevant issues, enhancing traceability and project maintainability.
-- **Intelligent Issue Report Management**: Automate issue triaging, assignment, and resolution support using LLMs to streamline project workflows and boost developer efficiency.
-- **Automated Documentation Generation**: Use LLMs to synthesize high-quality, human-readable documentation from codebases, commit history, and other project artifacts.
-
+  - align: right
+    image: people/tvandam.jpeg
+    content: people/tvandam.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <strong>Tim van Dam</strong></br>
+      <p>Former BSc/MSc student</p>
+      <p>AutoCompletion via LLMs</p>
+  - align: right
+    image: people/fvanderheijden.jpeg
+    content: people/fvanderheijden.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <strong>Frank van der Heijden</strong></br>
+      <p>Former BSc/MSc student</p>
+      <p>AutoCompletion via LLMs</p>
 ---
