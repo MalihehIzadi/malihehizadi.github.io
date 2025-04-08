@@ -30,33 +30,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-aise-team",
-          title: "AISE Team",
+        },{id: "nav-aise",
+          title: "AISE",
           description: "Lab&#39;s research area and current list of members (sorted based on role and in reverse chronological order)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-teaching",
-              title: "Teaching",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/teaching/";
-              },
-            },{id: "dropdown-repositories",
+        },{id: "nav-education",
+          title: "Education",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "nav-service",
+          title: "Service",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/leadership/";
+          },
+        },{id: "dropdown-repositories",
               title: "Repositories",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/repositories/";
               },
-            },{id: "dropdown-teaching",
-              title: "Teaching",
+            },{id: "dropdown-blog",
+              title: "Blog",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/teaching/";
+                window.location.href = "/blog/";
               },
             },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -422,11 +429,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-new-paper-on-multi-agent-onboarding-assistant-accepted-at-fse-2025-demo-track",
           title: 'New paper on Multi-agent Onboarding Assistant accepted at FSE 2025 (Demo Track).',
           description: "",
