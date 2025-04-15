@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-awards",
           title: "Awards",
-          description: "Current collection of our cool projects at AISE.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/awards/";
@@ -37,28 +37,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-education",
-          title: "Education",
+        },{id: "nav-teaching",
+          title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/education/";
+            window.location.href = "/teaching/";
           },
-        },{id: "nav-leadership",
-          title: "Leadership",
+        },{id: "nav-roles",
+          title: "Roles",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/leadership/";
+            window.location.href = "/roles/";
           },
-        },{id: "dropdown-repositories",
-              title: "Repositories",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/repositories/";
-              },
-            },{id: "dropdown-blog",
+        },{id: "dropdown-blog",
               title: "Blog",
               description: "",
               section: "Dropdown",
@@ -66,11 +59,18 @@ ninja.data = [{
                 window.location.href = "/blog/";
               },
             },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+              title: "Bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/books/";
+              },
+            },{id: "dropdown-repositories",
+              title: "Repositories",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/repositories/";
               },
             },{id: "post-a-post-with-image-galleries",
       
