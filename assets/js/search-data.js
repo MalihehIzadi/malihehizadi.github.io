@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-aise",
-          title: "AISE",
-          description: "Lab&#39;s research area and current list of members (sorted based on role and in reverse chronological order)",
+        },{id: "nav-aise-lab",
+          title: "AISE lab",
+          description: "Meet our team",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -42,10 +42,10 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/education/";
           },
-        },{id: "nav-service",
-          title: "Service",
+        },{id: "nav-leadership",
+          title: "Leadership",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -438,51 +438,51 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-on-benchmarking-harmfulness-in-llm4code-accepted-at-the-acm-fse-2025-main-track",
           title: 'New paper on Benchmarking Harmfulness in LLM4Code accepted at the ACM FSE 2025...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-llms-for-code",
+          title: 'LLMs for Code',
+          description: "Code Generation, Summarization, Refactoring, and Bug Fixing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/area1_llm4code/";
+            },},{id: "projects-evals-for-llms",
+          title: 'Evals for LLMs',
+          description: "LLM4Code evaluations and Benchmarking",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/area2_evals/";
+            },},{id: "projects-llm-agents",
+          title: 'LLM Agents',
+          description: "Autonomous Agents in Software Engineering",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/area3_agents/";
+            },},{id: "projects-memorization-amp-hallucination",
+          title: 'Memorization &amp;amp; Hallucination',
+          description: "Addressing Challeneges of LLMs4Code",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/area4_memorization/";
+            },},{id: "projects-hax-in-ide",
+          title: 'HAX in IDE',
+          description: "Human-AI Collaboration",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/area5_hax/";
+            },},{id: "projects-explainability-amp-multilinguality",
+          title: 'Explainability &amp;amp; Multilinguality',
+          description: "Low-resource natural and programming languages",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/projects/area6_explainability/";
+            },},{id: "projects-domain-adaptation",
+          title: 'Domain Adaptation',
+          description: "Personalization and Adaptaion",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+              window.location.href = "/projects/area7_adaptation/";
+            },},{id: "projects-repository-management",
+          title: 'Repository Management',
+          description: "Repo recommenders, issue management and mautomated minatenance",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/projects/area8_repomanagement/";
+            },},{id: "projects-reading-club",
+          title: 'Reading Club',
+          description: "AISE reading club 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/fun_readingclub/";
             },},{
         id: 'social-email',
         title: 'email',
