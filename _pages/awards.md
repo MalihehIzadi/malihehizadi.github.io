@@ -2,7 +2,7 @@
 layout: page
 title: Awards
 permalink: /awards/
-description: Current collection of our cool projects at AISE.
+description: 
 nav: true
 nav_order: 2
 horizontal: false

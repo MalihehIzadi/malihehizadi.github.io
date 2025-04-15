@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Leadership
-permalink: /leadership/
+title: Roles
+permalink: /roles/
 description: 
 nav: true
 nav_order: 6
