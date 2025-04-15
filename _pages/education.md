@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /education/
 title: Education
 description: 
 nav: true
@@ -8,7 +8,7 @@ nav_order: 5
 ---
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. Organize your courses by years, topics, or universities, however you like!-->
 
-## Courses
+### Courses
   ---
 * Graduate course: **CS4570 - Machine Learning for Software Engineering** (Editions: TA/lecturer in 2020 to 2022, responsible professor for 2023, 2024, and 2025), ~100 students, TU Delft.
 * Undergraduate course: **TI3115TU - Databases and Software Engineering minor** (Editions: lecturer for 2024,  responsible professor for 2022 and 2025), ~160-220 students, TU Delft.
@@ -18,9 +18,68 @@ nav_order: 5
   <br/>
 
 
-## Supervised Thesis List
+### Thesis Supervision
+I have supervised 41 Msc/Bsc, and many of my studnets have graduated _cum laude_ (top 5%) of class.
+
+#### Msc Level
   ---
 
+| # | Degree | Year | University | Student | Title |
+|:-:|:------|:----|:-----------|:---------|:------|
+| 11 | MSc | 2025 | TUDelft | R. Popescu | Dataset Development for LLMs4Code: Licensing, Contamination, and Reproducibility Challenges |
+| 10 | MSc | 2024 | TUDelft | A.C. Ionescu | Meet Your Onboarding Buddy: A Smart, Adaptive, and Conversational LLM Assistant |
+| 9 | MSc | 2024 | TUDelft | R. Schrijver | Beyond Acceptance Rates: The Impact of JetBrains AI Assistant and FLCC |
+| 8 | MSc | 2024 | TUDelft | T. van Dam | Black-box Context-Aware Code Completion |
+| 7 | MSc | 2024 | TUDelft | P. de Bekker | AI for Software Engineering: Reviewing and Improving Benchmarking Practices |
+| 6 | MSc | 2024 | TUDelft | F. van der Heijden | Interactive & Adaptive LLMs: Building and Evaluating an LLM-based Code Completion Plugin |
+| 5 | MSc | 2024 | U. of Milano-Bicocca | F. Salerno | Extracting Training Data from Fine-tuned Large Language Models |
+| 4 | MSc | 2022 | TUDelft | A. Al-Kaswan | Limits of Binary Code Summarization with Transformers |
+| 3 | MSc | 2021 | Sharif | M. Nejati | Missing Software Tag Recommendation |
+| 2 | MSc | 2021 | Sharif | P. rostami | Issue Commit Linking |
+| 1 | MSc | 2020 | Sharif | K. Akbari | Isure Report Classificatio |
+
+<br/>
+
+#### BSc Level
+---
+
+| Counter | Degree | Year | University | Student | Title |
+|:-------:|:------|:----|:-----------|:--------|:------|
+| 30 | BSc | 2024 | TUDelft | B. Koc | Implications of LLMs4Code on Copyright Infringement |
+| 29 | BSc | 2024 | TUDelft | P. Deatc | Red Teaming LLMs for Dangerous and Unfair Software Applications |
+| 28 | BSc | 2024 | TUDelft | C. Ionescu | Red-Teaming Code LLMs for Malware Generation |
+| 27 | BSc | 2024 | TUDelft | F. Ignijic | Evaluating Adaptive Activation Functions in Language Models |
+| 26 | BSc | 2024 | TUDelft | Y. Wu | Sparse Transformers are (in)Efficient Learners |
+| 25 | BSc | 2024 | TUDelft | R. Mota Borges | Tokenization Matters: Training Your Tokenizer Right |
+| 24 | BSc | 2024 | TUDelft | P. Loizides | LLM of Babel: Evaluation of LLMs on Code (Greek Focus) |
+| 23 | BSc | 2024 | TUDelft | G. Panchu | LLM of Babel: Java Code Summarization in Dutch |
+| 22 | BSc | 2024 | TUDelft | M. Ziemlewski | LLM of Babel: Code Summarization in Polish |
+| 21 | BSc | 2024 | TUDelft | S. Vermeulen | Evaluating CodeGemma-7B for Dutch Code Comment Generation |
+| 20 | BSc | 2024 | TUDelft | Y. Huang | LLM of Babel: Broader Multilingual Evaluation |
+| 19 | BSc | 2024 | TUDelft | I. Vasiliauskas | Detecting Weaknesses in LLM Generated Code |
+| 18 | BSc | 2024 | TUDelft | I. Moruz | How Can LLMs Harm Privacy? Red-Teaming Exploration |
+| 17 | BSc | 2024 | TUDelft | K. Gulamov | Speed/Quality Trade-offs in Attention Mechanisms |
+| 16 | BSc | 2023 | TUDelft | D. Sochirca | Compressing Code Generation Language Models on CPUs |
+| 15 | BSc | 2023 | TUDelft | M. Keeler | Cross-Lingual Evaluation of CodeGen in Code Completion |
+| 14 | BSc | 2023 | TUDelft | E. Malmsten | Distil-CodeGPT: Distilling Code-Generation Models |
+| 13 | BSc | 2023 | TUDelft | M. Storti | Efficient Transformer Quantization for CodeGPT |
+| 12 | BSc | 2023 | TUDelft | H. Kuo | Cross-Lingual Performance of CodeGPT in Completion Tasks |
+| 11 | BSc | 2023 | TUDelft | E. Malmsten | Distil-CodeGPT: Distilling Code-Generation Models |
+| 10 | BSc | 2023 | TUDelft | A. de Moor | Compressing CodeGPT via Layer Reduction and Quantisation |
+| 9 | BSc | 2023 | TUDelft | R. Popescu | Common Code Structures Impact on CodeParrot Completion |
+| 8 | BSc | 2022 | TUDelft | T. van Dam | Performance Analysis of UniXcoder |
+| 7 | BSc | 2022 | TUDelft | F. van der Heijden | Analysis of InCoder on Statement Prediction |
+| 6 | BSc | 2022 | TUDelft | M. Turk | Improving Source Code Conversion for Code Completion |
+| 5 | BSc | 2022 | TUDelft | J. de Weerdt | User Evaluation of UniXcoder with Statement Completion |
+| 4 | BSc | 2022 | TUDelft | M. Otten | User Evaluation of InCoder with Statement Completion |
+| 3 | BSc | 2022 | TUDelft | A.C. Ionescu | Repository Recommender System Using Tag Hierarchies |
+| 2 | BSc | 2022 | TUDelft | C. Botocan | Duplicate Stack Overflow Detection Using Tags and Text |
+| 1 | BSc | 2022 | TUDelft | A. van der Rande | Improving GitHub Tag Recommenders Using Tag Hierarchies |
+
+
+
+
+<!-- 
 | # | Degree | Year | Student | Title |
 |:-:|:------|:----|:---------|:------|
 | 38 | Master | 2025 | R. Popescu | Dataset Development for LLMs4Code: Licensing, Contamination, and Reproducibility Challenges |
@@ -60,13 +119,13 @@ nav_order: 5
 | 4 | Bachelor | 2022 | M.J.C. Otten | User Evaluation of InCoder Based on Statement Completion |
 | 3 | Bachelor | 2022 | A.C. Ionescu | Time is Money: A Similar Repository Recommender System that Saves Development Time Using Tag Hierarchies |
 | 2 | Bachelor | 2022 | C.A. Botocan | Detecting Duplicate Stack Overflow Questions Exploiting the Textual Information, and a Semantic-based Tag Hierarchy |
-| 1 | Bachelor | 2022 | A.C. van der Rande | Improving GitHub Tag Recommender Systems Using Tag Hierarchies |
+| 1 | Bachelor | 2022 | A.C. van der Rande | Improving GitHub Tag Recommender Systems Using Tag Hierarchies | -->
 
 ---
 
 <br/>
 
-## ML4SE General description
+### ML4SE General description
 **Goal**: CS4570 aims to give students a hands-on approach to applying deep neural networks and modern NLP techniques, especially large language models (LLMs) based on the Transformer architecture to solve existing SE problems.
 
 Software analytics and big data have transformed software development by leveraging vast repositories of engineering data—such as source code, bug reports, execution traces, and historical changes—to enhance software quality, maintainability, and evolution. The rise of machine and deep learning, particularly transformers and large language models (LLMs), has further expanded these capabilities, enabling automated code generation, bug detection, anomaly identification, type inference, refactoring, code summarization, and program repair. These AI-driven techniques not only boost developer productivity and reduce technical debt but also facilitated development workflows, marking a shift toward AI-driven software engineering. 

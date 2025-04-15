@@ -194,11 +194,12 @@ ul.task-list input[type="checkbox"] {
 
 .profile {
   width: 100%;
+  font-size: small;
 
   .more-info {
-    margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: lato;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    font-family: roboto;
 
     p {
       display: inline-block;

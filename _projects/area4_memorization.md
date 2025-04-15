@@ -1,13 +1,14 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
+title: Memorization & Hallucination
+description: Addressing Challeneges of LLMs4Code
+img: assets/img/7.jpg
+redirect: https://unsplash.com
+importance: 4
 category: work
-giscus_comments: true
 ---
 
+<!-- a project that redirects to another website -->
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.

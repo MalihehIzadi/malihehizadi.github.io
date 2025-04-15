@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Service
+title: Leadership
 permalink: /leadership/
 description: 
 nav: true
@@ -8,33 +8,27 @@ nav_order: 6
 horizontal: false
 ---
 
-### Chair
+---
 
-- Co-chair for the ACM International Conference on the Foundations of Software Engineering (Workshop track) [(FSE'26, Canada)]()
-- Co-chair for the 33rd International Conference on Software Analysis, Evolution and Reengineering (Demo Track) [(SANER'26, Cyprus)]()
+### Organizer
+
+- Co-organizer for the 11th Dutch Symposium on Software Engineering [(SEN) 2025](https://www.sen-symposium.nl/)
+- Co-organizer for the 4th International NLBSE Workshop co-located with ICSE'25 [(NLBSE’24, Portugal)](https://nlbse2025.github.io/)
+- Co-organizer for the 3rd International NLBSE Workshop co-located with ICSE'24 [(NLBSE’24, Portugal)](https://nlbse2024.github.io/)
+- Thesis Award Committee (Judge), [Best MSc and PhD Thesis Award, VERSEN, The Netherlands](https://www.versen.nl/contents/procedure-thesis-award)
+
+
+### Chair/Editor
+
+- Co-chair for the ACM International Conference on the Foundations of Software Engineering, Workshop track (FSE'26, Canada)
+- Co-chair for the 33rd International Conference on Software Analysis, Evolution and Reengineering (Demo Track) (SANER'26, Cyprus)
 - Co-chair for the 32nd International Conference on Software Analysis, Evolution and Reengineering (Workshop Track) [(SANER'25, Canada)](https://conf.researchr.org/home/saner-2025)
 - Co-chair for the 21st International Conference on Mining Software Repositories (Industry Track) [(MSR'24, Portugal)](https://conf.researchr.org/home/msr-2024)
-- Co-chair for the 3rd International NLBSE Workshop co-located with ICSE'24 [(NLBSE’24, Portugal)](https://nlbse2024.github.io/)
 - Co-chair for the Tool Competition in the 2nd International NLBSE Workshop co-located with ICSE'23 [(NLBSE’23, Australia)](https://nlbse2023.github.io/)
-
-
-### Editor
-
 - Guest editor for the special issue on the NLP-based models for software engineering in the SCICO Journal
 
-### Thesis Award Committee
 
-- Judge, [Best MSc and PhD Thesis Award, VERSEN, The Netherlands](https://www.versen.nl/contents/procedure-thesis-award)
-
-### Journal Reviewer
-
-- Reviewer for the [IEEE Transactions on Software Engineering Journal (IEEE TSE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
-- Reviewer for the [IEEE Transactions on Reliability Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
-- Reviewer for the [ACM Transactions on Software Engineering and Methodology Journal (ACM TOSEM)](https://dl.acm.org/journal/tosem)
-- Reviewer for the [Empirical Software Engineering Journal (Springer EMSE)](https://www.springer.com/journal/10664)
-- Reviewer for the [Journal of Systems and Software (Elsevier JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software)
-- Co-Reviewer for the [Science Journal](https://www.science.org/)
-- Reviewer for the [Journal of Science of Computer Programming (SCICO)](https://www.sciencedirect.com/journal/science-of-computer-programming)
+---
 
 ### Conference Reviewer
 
@@ -55,3 +49,14 @@ horizontal: false
 - Co-Reviewer for the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering [(ESEC/FSE’20)](https://2020.esec-fse.org/)
 - Co-Reviewer for the International Conference on Software Analysis, Evolution and Reengineering [(SANER'18)](http://saner.unimol.it/)
 - Co-Reviewer for the Iranian Conference of Electrical Engineering (ICEE’15)
+
+
+### Journal Reviewer
+
+- Reviewer for the [IEEE Transactions on Software Engineering Journal (IEEE TSE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+- Reviewer for the [IEEE Transactions on Reliability Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
+- Reviewer for the [ACM Transactions on Software Engineering and Methodology Journal (ACM TOSEM)](https://dl.acm.org/journal/tosem)
+- Reviewer for the [Empirical Software Engineering Journal (Springer EMSE)](https://www.springer.com/journal/10664)
+- Reviewer for the [Journal of Systems and Software (Elsevier JSS)](https://www.journals.elsevier.com/journal-of-systems-and-software)
+- Co-Reviewer for the [Science Journal](https://www.science.org/)
+- Reviewer for the [Journal of Science of Computer Programming (SCICO)](https://www.sciencedirect.com/journal/science-of-computer-programming)

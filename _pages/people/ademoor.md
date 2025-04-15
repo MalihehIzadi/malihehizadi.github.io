@@ -1,1 +1,1 @@
-{% bibliography --group_by none --query @*[keywords~=ademoor]* --template author_publication %}
+<!-- {% bibliography --group_by none --query @*[keywords~=ademoor]* --template author_publication %} -->

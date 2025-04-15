@@ -1,2 +1,2 @@
-{% bibliography --group_by none --query @*[keywords~=dcipollone]* --template author_publication %}
+<!-- {% bibliography --group_by none --query @*[keywords~=dcipollone]* --template author_publication %} -->
 
