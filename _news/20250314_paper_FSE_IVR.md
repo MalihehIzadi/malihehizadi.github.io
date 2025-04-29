@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper on [_Predictive Sequencing of States_](https://arxiv.org/abs/2503.10254) accepted at **FSE 2025** (New Ideas and Vision Track).
+New paper on [Predictive Sequencing of States](https://arxiv.org/abs/2503.10254) accepted at ACM **FSE 2025**.

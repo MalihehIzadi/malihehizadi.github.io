@@ -218,59 +218,58 @@ I have (co)-supervised 41 Msc/Bsc, and many of my studnets have graduated _cum l
 #### Msc Level
   ---
 
-| # | Degree | Year | University | Student | Title |
-|:-:|:------|:----|:-----------|:---------|:------|
-| 11 | MSc | 2025 | TUDelft | R. Popescu | Dataset Development for LLMs4Code: Licensing, Contamination, and Reproducibility Challenges |
-| 10 | MSc | 2024 | TUDelft | A.C. Ionescu | Meet Your Onboarding Buddy: A Smart, Adaptive, and Conversational LLM Assistant |
-| 9 | MSc | 2024 | TUDelft | R. Schrijver | Beyond Acceptance Rates: The Impact of JetBrains AI Assistant and FLCC |
-| 8 | MSc | 2024 | TUDelft | T. van Dam | Black-box Context-Aware Code Completion |
-| 7 | MSc | 2024 | TUDelft | P. de Bekker | AI for Software Engineering: Reviewing and Improving Benchmarking Practices |
-| 6 | MSc | 2024 | TUDelft | F. van der Heijden | Interactive & Adaptive LLMs: Building and Evaluating an LLM-based Code Completion Plugin |
-| 5 | MSc | 2024 | U. of Milano-Bicocca | F. Salerno | Extracting Training Data from Fine-tuned Large Language Models |
-| 4 | MSc | 2022 | TUDelft | A. Al-Kaswan | Limits of Binary Code Summarization with Transformers |
-| 3 | MSc | 2021 | Sharif | M. Nejati | Missing Software Tag Recommendation |
-| 2 | MSc | 2021 | Sharif | P. rostami | Issue Commit Linking |
-| 1 | MSc | 2020 | Sharif | K. Akbari | Isure Report Classificatio |
+| # | Year | University | Student | Title |
+|:-:|:----|:-----------|:---------|:------|
+| 11 | 2025 | TUDelft | R. Popescu | Dataset Development for LLMs4Code: Licensing, Contamination, and Reproducibility Challenges |
+| 10 | 2024 | TUDelft | A.C. Ionescu | Meet Your Onboarding Buddy: A Smart, Adaptive, and Conversational LLM Assistant |
+| 9 | 2024 | TUDelft | R. Schrijver | Beyond Acceptance Rates: The Impact of JetBrains AI Assistant and FLCC |
+| 8 | 2024 | TUDelft | T. van Dam | Black-box Context-Aware Code Completion |
+| 7 | 2024 | TUDelft | P. de Bekker | AI for Software Engineering: Reviewing and Improving Benchmarking Practices |
+| 6 | 2024 | TUDelft | F. van der Heijden | Interactive & Adaptive LLMs: Building and Evaluating an LLM-based Code Completion Plugin |
+| 5 | 2024 | UMB | F. Salerno | Extracting Training Data from Fine-tuned Large Language Models |
+| 4 | 2022 | TUDelft | A. Al-Kaswan | Limits of Binary Code Summarization with Transformers |
+| 3 | 2021 | Sharif | M. Nejati | Missing Software Tag Recommendation |
+| 2 | 2021 | Sharif | P. rostami | Issue Commit Linking |
+| 1 | 2020 | Sharif | K. Akbari | Isure Report Classificatio |
+
 
 <br/>
 
 #### BSc Level
 ---
 
-| Counter | Degree | Year | University | Student | Title |
-|:-------:|:------|:----|:-----------|:--------|:------|
-| 30 | BSc | 2024 | TUDelft | B. Koc | Implications of LLMs4Code on Copyright Infringement |
-| 29 | BSc | 2024 | TUDelft | P. Deatc | Red Teaming LLMs for Dangerous and Unfair Software Applications |
-| 28 | BSc | 2024 | TUDelft | C. Ionescu | Red-Teaming Code LLMs for Malware Generation |
-| 27 | BSc | 2024 | TUDelft | F. Ignijic | Evaluating Adaptive Activation Functions in Language Models |
-| 26 | BSc | 2024 | TUDelft | Y. Wu | Sparse Transformers are (in)Efficient Learners |
-| 25 | BSc | 2024 | TUDelft | R. Mota Borges | Tokenization Matters: Training Your Tokenizer Right |
-| 24 | BSc | 2024 | TUDelft | P. Loizides | LLM of Babel: Evaluation of LLMs on Code (Greek Focus) |
-| 23 | BSc | 2024 | TUDelft | G. Panchu | LLM of Babel: Java Code Summarization in Dutch |
-| 22 | BSc | 2024 | TUDelft | M. Ziemlewski | LLM of Babel: Code Summarization in Polish |
-| 21 | BSc | 2024 | TUDelft | S. Vermeulen | Evaluating CodeGemma-7B for Dutch Code Comment Generation |
-| 20 | BSc | 2024 | TUDelft | Y. Huang | LLM of Babel: Broader Multilingual Evaluation |
-| 19 | BSc | 2024 | TUDelft | I. Vasiliauskas | Detecting Weaknesses in LLM Generated Code |
-| 18 | BSc | 2024 | TUDelft | I. Moruz | How Can LLMs Harm Privacy? Red-Teaming Exploration |
-| 17 | BSc | 2024 | TUDelft | K. Gulamov | Speed/Quality Trade-offs in Attention Mechanisms |
-| 16 | BSc | 2023 | TUDelft | D. Sochirca | Compressing Code Generation Language Models on CPUs |
-| 15 | BSc | 2023 | TUDelft | M. Keeler | Cross-Lingual Evaluation of CodeGen in Code Completion |
-| 14 | BSc | 2023 | TUDelft | E. Malmsten | Distil-CodeGPT: Distilling Code-Generation Models |
-| 13 | BSc | 2023 | TUDelft | M. Storti | Efficient Transformer Quantization for CodeGPT |
-| 12 | BSc | 2023 | TUDelft | H. Kuo | Cross-Lingual Performance of CodeGPT in Completion Tasks |
-| 11 | BSc | 2023 | TUDelft | E. Malmsten | Distil-CodeGPT: Distilling Code-Generation Models |
-| 10 | BSc | 2023 | TUDelft | A. de Moor | Compressing CodeGPT via Layer Reduction and Quantisation |
-| 9 | BSc | 2023 | TUDelft | R. Popescu | Common Code Structures Impact on CodeParrot Completion |
-| 8 | BSc | 2022 | TUDelft | T. van Dam | Performance Analysis of UniXcoder |
-| 7 | BSc | 2022 | TUDelft | F. van der Heijden | Analysis of InCoder on Statement Prediction |
-| 6 | BSc | 2022 | TUDelft | M. Turk | Improving Source Code Conversion for Code Completion |
-| 5 | BSc | 2022 | TUDelft | J. de Weerdt | User Evaluation of UniXcoder with Statement Completion |
-| 4 | BSc | 2022 | TUDelft | M. Otten | User Evaluation of InCoder with Statement Completion |
-| 3 | BSc | 2022 | TUDelft | A.C. Ionescu | Repository Recommender System Using Tag Hierarchies |
-| 2 | BSc | 2022 | TUDelft | C. Botocan | Duplicate Stack Overflow Detection Using Tags and Text |
-| 1 | BSc | 2022 | TUDelft | A. van der Rande | Improving GitHub Tag Recommenders Using Tag Hierarchies |
-
-
+| Counter | Year | University | Student | Title |
+|:-------:|:----:|:-----------|:--------|:------|
+| 30 | 2024 | TUDelft | B. Koc | Implications of LLMs4Code on Copyright Infringement |
+| 29 | 2024 | TUDelft | P. Deatc | Red Teaming LLMs for Dangerous and Unfair Software Applications |
+| 28 | 2024 | TUDelft | C. Ionescu | Red-Teaming Code LLMs for Malware Generation |
+| 27 | 2024 | TUDelft | F. Ignijic | Evaluating Adaptive Activation Functions in Language Models |
+| 26 | 2024 | TUDelft | Y. Wu | Sparse Transformers are (in)Efficient Learners |
+| 25 | 2024 | TUDelft | R. Mota Borges | Tokenization Matters: Training Your Tokenizer Right |
+| 24 | 2024 | TUDelft | P. Loizides | LLM of Babel: Evaluation of LLMs on Code (Greek Focus) |
+| 23 | 2024 | TUDelft | G. Panchu | LLM of Babel: Java Code Summarization in Dutch |
+| 22 | 2024 | TUDelft | M. Ziemlewski | LLM of Babel: Code Summarization in Polish |
+| 21 | 2024 | TUDelft | S. Vermeulen | Evaluating CodeGemma-7B for Dutch Code Comment Generation |
+| 20 | 2024 | TUDelft | Y. Huang | LLM of Babel: Broader Multilingual Evaluation |
+| 19 | 2024 | TUDelft | I. Vasiliauskas | Detecting Weaknesses in LLM Generated Code |
+| 18 | 2024 | TUDelft | I. Moruz | How Can LLMs Harm Privacy? Red-Teaming Exploration |
+| 17 | 2024 | TUDelft | K. Gulamov | Speed/Quality Trade-offs in Attention Mechanisms |
+| 16 | 2023 | TUDelft | D. Sochirca | Compressing Code Generation Language Models on CPUs |
+| 15 | 2023 | TUDelft | M. Keeler | Cross-Lingual Evaluation of CodeGen in Code Completion |
+| 14 | 2023 | TUDelft | E. Malmsten | Distil-CodeGPT: Distilling Code-Generation Models |
+| 13 | 2023 | TUDelft | M. Storti | Efficient Transformer Quantization for CodeGPT |
+| 12 | 2023 | TUDelft | H. Kuo | Cross-Lingual Performance of CodeGPT in Completion Tasks |
+| 11 | 2023 | TUDelft | E. Malmsten | Distil-CodeGPT: Distilling Code-Generation Models |
+| 10 | 2023 | TUDelft | A. de Moor | Compressing CodeGPT via Layer Reduction and Quantisation |
+| 9 | 2023 | TUDelft | R. Popescu | Common Code Structures Impact on CodeParrot Completion |
+| 8 | 2022 | TUDelft | T. van Dam | Performance Analysis of UniXcoder |
+| 7 | 2022 | TUDelft | F. van der Heijden | Analysis of InCoder on Statement Prediction |
+| 6 | 2022 | TUDelft | M. Turk | Improving Source Code Conversion for Code Completion |
+| 5 | 2022 | TUDelft | J. de Weerdt | User Evaluation of UniXcoder with Statement Completion |
+| 4 | 2022 | TUDelft | M. Otten | User Evaluation of InCoder with Statement Completion |
+| 3 | 2022 | TUDelft | A.C. Ionescu | Repository Recommender System Using Tag Hierarchies |
+| 2 | 2022 | TUDelft | C. Botocan | Duplicate Stack Overflow Detection Using Tags and Text |
+| 1 | 2022 | TUDelft | A. van der Rande | Improving GitHub Tag Recommenders Using Tag Hierarchies |
 
 
 <!-- 
