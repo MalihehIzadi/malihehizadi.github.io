@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I won an **Amazon Research Award** for my proposal on [Addressing Memorization in Code LLMs](https://www.amazon.science/research-awards/recipients/maliheh-izadi). &#x1f3c5;
+I won an &#x2728;  **Amazon Research Award** &#x2728;  for my proposal on [Addressing Memorization in Code LLMs](https://www.amazon.science/research-awards/recipients/maliheh-izadi).
