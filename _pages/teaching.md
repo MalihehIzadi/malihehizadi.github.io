@@ -14,7 +14,14 @@ nav_order: 5
 * Undergraduate course: **TI3115TU - Databases and Software Engineering minor** (Editions: lecturer for 2024,  responsible professor for 2022 and 2025), ~160-220 students, TU Delft.
 * Undergraduate course: **Software Engineering Methods** (lecturer for 2024 edition), ~500 students, TU Delft.
 * Undergraduate course: **Mentorate** (Mentor for 2023 edition), ~30 students, TU Delft.
-  
+
+2013 - 2020
+* Teaching Assistant for ML4SE course (Graduate course), Delft University of Technology.
+* Head Teaching Assistant for Software Evolution (Graduate course), Sharif University of Technology.
+* Head Teaching Assistant for Complex Dynamic Networks (Graduate course), Sharif University of Technology.
+* Head Teaching Assistant for Database Design (Under-graduate course), Sharif University of Technology.
+* Head Teaching Assistant for System Analysis and Design (Undergraduate course), Sharif University of Technology.
+* Instructor for Computer Workshop (Spring and Fall editions, Undergraduate course), Sharif University of Technology.
   <br/>
 
 

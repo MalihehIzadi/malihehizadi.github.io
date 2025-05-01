@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /team/
+permalink: /aise/
 title: AISE lab
 description: Meet our team
 nav: true
