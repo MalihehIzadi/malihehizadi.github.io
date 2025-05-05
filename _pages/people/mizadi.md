@@ -1,13 +1,14 @@
 AISE research explores several topics at the intersection of AI and Software Engineering, including:
 
-- <a href='../projects/area1_llm4code/'>LLMs for Code Generation, Summarization, Refactoring, and Bug Fixing</a>: Leverage LLMs to accelerate various development tasks.
-- <a href='../projects/area2_evals/'>Longitudinal Evaluation and Benchmarking of Code LLMs</a>: Study the long-term performance of LLMs across languages, tools, and developer workflows. Develop comprehensive benchmarks to assess and compare LLM effectiveness in diverse software engineering tasks.
-- <a href='../projects/area3_agents/'>Autonomous Software Engineering Agents</a>: Build intelligent, task-driven agents capable of independently executing and managing software engineering workflows.
-- <a href='../projects/area4_memorization/'>Mitigating Memorization and Hallucination</a>: Investigate strategies to reduce factual inaccuracies, hallucinated code, and overfitting in LLM outputs, ensuring reliability in practical applications.
-- <a href='../projects/area5_hax/'>Human-AI Collaboration in IDEs</a>: Design intuitive IDE interfaces and workflows that foster seamless collaboration between developers and GenAI assistants, maximizing productivity and usability.
-- <a href='../projects/area6_explainability/'>Explainability in Code LLMs</a>: Improve the transparency of LLM-generated suggestions to enhance developer trust and facilitate understanding of model behavior.
-- <a href='../projects/area7_adaptation/'>Domain Adaptation and Personalization</a>: Fine-tune models to specific domains or codebases to improve contextual relevance, precision, and performance.
-- <a href='../projects/area8_repomanagement/'>Repository Management</a>: Develop techniques to automatically associate commits with relevant issues, triage, assignment, and resolve issues or create human-readable documentation from codebases, commit history, and other project artifacts.
+**Intelligent systems for software creation with large language models**: Exploring how generative technologies can support and transform key aspects of software development workflows across diverse contexts and coding tasks inclduing code generation, summarization, refactoring, and bug fixing.
+
+**Trust, Transparency, and Model Behavior**: Investigating challenges around explainability, hallucination, memroization, and aligned behavior in learning-based systems as they integrate into developer-facing tools.
+
+**Evaluating Generative Capabilities in Practice**: Developing strategies to assess evolving generative systems across tasks, time, and toolchains, with a focus on actionable insights and practical relevance.
+
+**Hybrid Intelligence in Development Environments**: Designing future collaboration paradigms between human developers and adaptive, assistive systems—ranging from conversational interfaces to agentic behavior.
+
+**Learning from software histories at scale**: Using large-scale project data to uncover patterns, enable automation, and shape more intelligent development support systems including issue report management, triage, and automated documentation.
 
 
 <!-- {% bibliography --group_by none --query @*[keywords~=thesis]* --template author_publication %} -->
