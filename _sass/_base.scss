@@ -810,7 +810,12 @@ footer.sticky-bottom {
           }
         }
         a.award.btn {
-          border-color: var(--global-highlight-color);
+          //Mali on May'25: 
+          //changed from highlight color (red) to theme color (purple), added bg color to award button
+          //also added text color white
+          border-color: var(--global-theme-color);
+          background-color: var(--global-theme-color);
+          color: white;
         }
       }
 

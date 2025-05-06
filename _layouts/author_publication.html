@@ -1,13 +1,15 @@
 {% if entry.title %}
 <strong>{{ entry.title }}</strong>, 
 {% endif %}
-{% if entry.journal %}
-<i>{{ entry.journal }}</i>, 
-{% elsif entry.booktitle %}
-<i>{{ entry.booktitle }}</i>, 
-{% elsif entry.publisher %}
-<i>{{ entry.publisher }}</i>, 
+{% if entry.journal %}<i>{{ entry.journal }}</i>, 
+{% elsif entry.booktitle %}<i>{{ entry.booktitle }}</i>, 
+{% elsif entry.publisher %}<i>{{ entry.publisher }}</i>, 
 {% endif %}
 {% if entry.year %}
-{{ entry.year }}
+{{ entry.year }}{% if entry.award %},{% endif %}
+{% endif %}
+{% if entry.award %}
+ <strong style="color: var(--global-theme-color);">
+   {{ entry.award_name | default: 'Awarded' }}
+ </strong>
 {% endif %}

@@ -28,7 +28,6 @@ horizontal: false
 - 2024: Gave an invited talk at the Software Engineering and Technology cluster of the **Eindhoven University of Technology (TU/e)**.								
 - 2024: Gave an invited talk at <a href="https://events.bits-chips.nl/bitschips-event/">**Bits&Chips 2024**</a> (Exhibition and conference on challenges in complex software engineering, AI in high-tech and system architecture).								
 - 2024: Gave an invited talk at **Google Research**.
-- 2024: We won an <b>ACM Distinguished Paper Award</b> for our study on smart invocation of autocompletion systems at AIWare'24.
 - 2024: Gave an invited talk at the <a href="https://fmse.io/">**FM+SE Summit**</a> in Tokyo.
 - 2024: Attended a **Shonan meeting** on Foundational Models for Software Engineering in Japan.
 - 2023: I was invited and attended the **Dagstuhl seminar** on Programming Language Processing organized by Pradel et al., Germany.

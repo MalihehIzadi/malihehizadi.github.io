@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /aise/
 title: AISE lab
-description: Meet our team
+description:
 nav: true
 nav_order: 4
 
@@ -32,7 +32,7 @@ profile_groups:
         more_info: >
           <p>PhD candidate (Sep'22)</p>
           <p>Former Msc student</p>
-          <p>Privacy/Security in LLMs</p>
+          <p>Privacy-preserving LLMs</p>
       - align: right
         name: Jonathan Katzy
         website: https://jkatzy.nl/
@@ -213,15 +213,15 @@ profile_groups:
 
 ---
 ### Thesis Supervision
-I have (co)-supervised 41 Msc/Bsc, and many of my studnets have graduated _cum laude_ (top 5% of class).
+In AISE, we have (co)-supervised 42 Msc/Bsc, and many of our studnets have graduated _cum laude_ (top 5% of class).
 
 #### Msc Level
   ---
 
 | # | Year | University | Student | Title |
 |:-:|:----|:-----------|:---------|:------|
-| 11 | 2025 | TUDelft | R. Popescu | Dataset Development for LLMs4Code: Licensing, Contamination, and Reproducibility Challenges |
-| 10 | 2024 | TUDelft | A.C. Ionescu | Meet Your Onboarding Buddy: A Smart, Adaptive, and Conversational LLM Assistant |
+| 11 | 2025 | TUDelft | R. Popescu | Dataset Development for LLMs4Code: Licensing, Contamination, & Reproducibility |
+| 10 | 2024 | TUDelft | A.C. Ionescu | Meet Your Onboarding Buddy: A Smart, Adaptive, & Conversational LLM Assistant |
 | 9 | 2024 | TUDelft | R. Schrijver | Beyond Acceptance Rates: The Impact of JetBrains AI Assistant and FLCC |
 | 8 | 2024 | TUDelft | T. van Dam | Black-box Context-Aware Code Completion |
 | 7 | 2024 | TUDelft | P. de Bekker | AI for Software Engineering: Reviewing and Improving Benchmarking Practices |
@@ -238,80 +238,38 @@ I have (co)-supervised 41 Msc/Bsc, and many of my studnets have graduated _cum l
 #### BSc Level
 ---
 
-| Counter | Year | University | Student | Title |
-|:-------:|:----:|:-----------|:--------|:------|
-| 30 | 2024 | TUDelft | B. Koc | Implications of LLMs4Code on Copyright Infringement |
-| 29 | 2024 | TUDelft | P. Deatc | Red Teaming LLMs for Dangerous and Unfair Software Applications |
-| 28 | 2024 | TUDelft | C. Ionescu | Red-Teaming Code LLMs for Malware Generation |
-| 27 | 2024 | TUDelft | F. Ignijic | Evaluating Adaptive Activation Functions in Language Models |
-| 26 | 2024 | TUDelft | Y. Wu | Sparse Transformers are (in)Efficient Learners |
-| 25 | 2024 | TUDelft | R. Mota Borges | Tokenization Matters: Training Your Tokenizer Right |
-| 24 | 2024 | TUDelft | P. Loizides | LLM of Babel: Evaluation of LLMs on Code (Greek Focus) |
-| 23 | 2024 | TUDelft | G. Panchu | LLM of Babel: Java Code Summarization in Dutch |
-| 22 | 2024 | TUDelft | M. Ziemlewski | LLM of Babel: Code Summarization in Polish |
-| 21 | 2024 | TUDelft | S. Vermeulen | Evaluating CodeGemma-7B for Dutch Code Comment Generation |
-| 20 | 2024 | TUDelft | Y. Huang | LLM of Babel: Broader Multilingual Evaluation |
-| 19 | 2024 | TUDelft | I. Vasiliauskas | Detecting Weaknesses in LLM Generated Code |
-| 18 | 2024 | TUDelft | I. Moruz | How Can LLMs Harm Privacy? Red-Teaming Exploration |
-| 17 | 2024 | TUDelft | K. Gulamov | Speed/Quality Trade-offs in Attention Mechanisms |
-| 16 | 2023 | TUDelft | D. Sochirca | Compressing Code Generation Language Models on CPUs |
-| 15 | 2023 | TUDelft | M. Keeler | Cross-Lingual Evaluation of CodeGen in Code Completion |
-| 14 | 2023 | TUDelft | E. Malmsten | Distil-CodeGPT: Distilling Code-Generation Models |
-| 13 | 2023 | TUDelft | M. Storti | Efficient Transformer Quantization for CodeGPT |
-| 12 | 2023 | TUDelft | H. Kuo | Cross-Lingual Performance of CodeGPT in Completion Tasks |
-| 11 | 2023 | TUDelft | E. Malmsten | Distil-CodeGPT: Distilling Code-Generation Models |
-| 10 | 2023 | TUDelft | A. de Moor | Compressing CodeGPT via Layer Reduction and Quantisation |
-| 9 | 2023 | TUDelft | R. Popescu | Common Code Structures Impact on CodeParrot Completion |
-| 8 | 2022 | TUDelft | T. van Dam | Performance Analysis of UniXcoder |
-| 7 | 2022 | TUDelft | F. van der Heijden | Analysis of InCoder on Statement Prediction |
-| 6 | 2022 | TUDelft | M. Turk | Improving Source Code Conversion for Code Completion |
-| 5 | 2022 | TUDelft | J. de Weerdt | User Evaluation of UniXcoder with Statement Completion |
-| 4 | 2022 | TUDelft | M. Otten | User Evaluation of InCoder with Statement Completion |
-| 3 | 2022 | TUDelft | A.C. Ionescu | Repository Recommender System Using Tag Hierarchies |
-| 2 | 2022 | TUDelft | C. Botocan | Duplicate Stack Overflow Detection Using Tags and Text |
-| 1 | 2022 | TUDelft | A. van der Rande | Improving GitHub Tag Recommenders Using Tag Hierarchies |
-
-
-<!-- 
-| # | Degree | Year | Student | Title |
-|:-:|:------|:----|:---------|:------|
-| 38 | Master | 2025 | R. Popescu | Dataset Development for LLMs4Code: Licensing, Contamination, and Reproducibility Challenges |
-| 37 | Master | 2024 | A.C. Ionescu | Meet Your Onboarding Buddy: A Smart, Adaptive, and Conversational LLM Assistant to Smooth Your Software Onboarding Journey |
-| 36 | Master | 2024 | R. Schrijver | Beyond Acceptance Rates: The Impact of JetBrains AI Assistant and FLCC |
-| 35 | Master | 2024 | T.O. van Dam | Black-box Context-Aware Code Completion |
-| 34 | Master | 2024 | P.M. de Bekker | AI for Software Engineering: Reviewing and Improving Benchmarking Practices |
-| 33 | Master | 2024 | F.N.M. van der Heijden | Interactive & Adaptive LLMs: Building and Evaluating an LLM-based Code Completion Plugin |
-| 32 | Master | 2024 | F. Salerno | An Approach for Extracting Training Data from fine-tuned Large Language Models for |
-| 31 | Bachelor | 2024 | B. Koc | Implications of LLMs4Code on Copyright Infringement: An Exploratory Study Through Red Teaming |
-| 30 | Bachelor | 2024 | P.S. Deatc | Red Teaming Large Language Models for Code: Exploring Dangerous and Unfair Software Applications |
-| 29 | Bachelor | 2024 | C. Ionescu | Red-Teaming Code LLMs for Malware Generation |
-| 28 | Bachelor | 2024 | F. Ignijic | Evaluating Adaptive Activation Functions in Language Models |
-| 27 | Bachelor | 2024 | Y. Wu | Sparse Transformers are (in)Efficient Learners: Comparing Sparse Feedforward Layers |
-| 26 | Bachelor | 2024 | R. Braga Medeiros Mota Borges | Tokenization Matters: Training your Tokenizer Right |
-| 25 | Bachelor | 2024 | P. Loizides | LLM of Babel: Evaluation of LLMs on Code for Non-English Use-Cases (Greek Focus) |
-| 24 | Bachelor | 2024 | G.G.S. Panchu | LLM of Babel: Java Code Summarization in Dutch |
-| 23 | Bachelor | 2024 | M. Ziemlewski | LLM of Babel: Code Summarization in Polish |
-| 22 | Bachelor | 2024 | S.R. Vermeulen | Evaluating CodeGemma-7B for Dutch Code Comment Generation |
-| 21 | Bachelor | 2024 | Y. Huang | LLM of Babel: Broader Multilingual Evaluation |
-| 20 | Bachelor | 2024 | I. Vasiliauskas | Exploring the Generation and Detection of Weaknesses in LLM Generated Code |
-| 19 | Bachelor | 2024 | I. Moruz | How can Large Language Models for code be used to harm the privacy of users? Red-Teaming Large Language Models |
-| 18 | Bachelor | 2024 | K. Gulamov | Exploring Speed/Quality Trade-offs in Dimensionality of Attention Mechanism: Optimization with Grouped Query Attention and Diverse Key-Query-Value Dimensionalities |
-| 17 | Bachelor | 2023 | D. Sochirca | Compressing Code Generation Language Models on CPUs |
-| 16 | Bachelor | 2023 | M.L. Keeler | A Cross-Lingual Evaluation of CodeGen’s Performance in Code Completion |
-| 15 | Bachelor | 2023 | E.L. Malmsten | Distil-CodeGPT: Distilling Code-Generation Models for Local Use |
-| 14 | Bachelor | 2023 | M. Storti | Leveraging Efficient Transformer Quantization for CodeGPT: A Post-Training Analysis |
-| 13 | Bachelor | 2023 | H.N. Kuo | Cross-Lingual Performance of CodeGPT on the Code Completion Task |
-| 12 | Bachelor | 2023 | E.L. Malmsten | Distil-CodeGPT: Distilling Code-Generation Models for Local Use |
-| 11 | Bachelor | 2023 | Aral de Moor | CodeGPT on XTC: Compressing a CodeGPT Model Using Hybrid Layer Reduction and Extreme Quantisation through Knowledge Distillation |
-| 10 | Bachelor | 2023 | R. Popescu | A Study on the Impact of Common Code Structures on CodeParrot’s Autocompletion Performance |
-| 9 | Master | 2022 | A. Al-Kaswan | An Empirical Assessment on the Limits of Binary Code Summarization with Transformer-based Models |
-| 8 | Bachelor | 2022 | T.O. van Dam | An Empirical Analysis on the Performance of UniXcoder |
-| 7 | Bachelor | 2022 | F.N.M. van der Heijden | An Empirical Analysis of InCoder on the Statement Prediction Task |
-| 6 | Bachelor | 2022 | M.J. Turk | Improvement of Source Code Conversion for Code Completion |
-| 5 | Bachelor | 2022 | J.C.H.P. de Weerdt | A User Evaluation of UniXcoder Using Statement Completion in a Real-World Setting |
-| 4 | Bachelor | 2022 | M.J.C. Otten | User Evaluation of InCoder Based on Statement Completion |
-| 3 | Bachelor | 2022 | A.C. Ionescu | Time is Money: A Similar Repository Recommender System that Saves Development Time Using Tag Hierarchies |
-| 2 | Bachelor | 2022 | C.A. Botocan | Detecting Duplicate Stack Overflow Questions Exploiting the Textual Information, and a Semantic-based Tag Hierarchy |
-| 1 | Bachelor | 2022 | A.C. van der Rande | Improving GitHub Tag Recommender Systems Using Tag Hierarchies | -->
+|  #  | Year | University | Student | Title |
+|:---:|:----:|:-----------|:--------|:------|
+| 31 | 2024 | TUDelft | B. Koc | Implications of LLMs4Code on Copyright Infringement |
+| 30 | 2024 | TUDelft | P. Deatc | Red Teaming LLMs for Dangerous and Unfair Software Applications |
+| 29 | 2024 | TUDelft | C. Ionescu | Red-Teaming Code LLMs for Malware Generation |
+| 28 | 2024 | TUDelft | F. Ignijic | Evaluating Adaptive Activation Functions in Language Models |
+| 27 | 2024 | TUDelft | Y. Wu | Sparse Transformers are (in)Efficient Learners |
+| 26 | 2024 | TUDelft | R. Mota Borges | Tokenization Matters: Training Your Tokenizer Right |
+| 25 | 2024 | TUDelft | P. Loizides | LLM of Babel: Evaluation of LLMs on Code (Greek Focus) |
+| 24 | 2024 | TUDelft | G. Panchu | LLM of Babel: Java Code Summarization in Dutch |
+| 23 | 2024 | TUDelft | M. Ziemlewski | LLM of Babel: Code Summarization in Polish |
+| 22 | 2024 | TUDelft | S. Vermeulen | Evaluating CodeGemma-7B for Dutch Code Comment Generation |
+| 21 | 2024 | TUDelft | Y. Huang | LLM of Babel: Broader Multilingual Evaluation |
+| 20 | 2024 | TUDelft | I. Vasiliauskas | Detecting Weaknesses in LLM Generated Code |
+| 19 | 2024 | TUDelft | I. Moruz | How Can LLMs Harm Privacy? Red-Teaming Exploration |
+| 18 | 2024 | TUDelft | K. Gulamov | Speed/Quality Trade-offs in Attention Mechanisms |
+| 17 | 2023 | TUDelft | D. Sochirca | Compressing Code Generation Language Models on CPUs |
+| 16 | 2023 | TUDelft | M. Keeler | Cross-Lingual Evaluation of CodeGen in Code Completion |
+| 15 | 2023 | TUDelft | E. Malmsten | Distil-CodeGPT: Distilling Code-Generation Models |
+| 14 | 2023 | TUDelft | M. Storti | Efficient Transformer Quantization for CodeGPT |
+| 13 | 2023 | TUDelft | H. Kuo | Cross-Lingual Performance of CodeGPT in Completion Tasks |
+| 12 | 2023 | TUDelft | E. Malmsten | Distil-CodeGPT: Distilling Code-Generation Models |
+| 11 | 2023 | TUDelft | A. de Moor | Compressing CodeGPT via Layer Reduction and Quantisation |
+| 10 | 2023 | TUDelft | R. Popescu | Common Code Structures Impact on CodeParrot Completion |
+|  9 | 2022 | TUDelft | T. van Dam | Performance Analysis of UniXcoder |
+|  8 | 2022 | TUDelft | F. van der Heijden | Analysis of InCoder on Statement Prediction |
+|  7 | 2022 | TUDelft | M. Turk | Improving Source Code Conversion for Code Completion |
+|  6 | 2022 | TUDelft | J. de Weerdt | User Evaluation of UniXcoder with Statement Completion |
+|  5 | 2022 | TUDelft | M. Otten | User Evaluation of InCoder with Statement Completion |
+|  4 | 2022 | TUDelft | A.C. Ionescu | Repository Recommender System Using Tag Hierarchies |
+|  3 | 2022 | TUDelft | C. Botocan | Duplicate Stack Overflow Detection Using Tags and Text |
+|  2 | 2022 | TUDelft | A. van der Rande | Improving GitHub Tag Recommenders Using Tag Hierarchies |
+|  1 | 2022 | TUDelft | P.M. Roozendaal | Categorizing Stack Overflow Questions With A Tag Hierarchy |
 
 ---
