@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-aise-lab",
           title: "AISE lab",
-          description: "Meet our team",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/aise/";
