@@ -115,7 +115,7 @@ profile_groups:
         author_keyword: yhuang
         image_circular: false
         more_info: >
-          <p>Research Assistant</p>
+          <p>Honours Student</p>
           <p>BSc/MSc student</p>
           <p>Refactoring via LLMs</p>
   - headline: "MSc Students"
