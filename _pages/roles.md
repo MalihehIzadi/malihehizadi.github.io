@@ -32,8 +32,9 @@ horizontal: false
 
 ### Conference Program Committee member
 
-- ACM International Conference on the Foundations of Software Engineering (FSE) [(Main Track, FSE'26)](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers)
 - The 48th IEEE/ACM International Conference on Software Engineering [(Main Track, ICSE'26)](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
+- ACM International Conference on the Foundations of Software Engineering (FSE) [(Main Track, FSE'26)](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers)
+- The 40th IEEE/ACM International Conference on Automated Software Engineering [(Main Track, ASE'25)](https://conf.researchr.org/track/ase-2025/ase-2025-papers)
 - IEEE International Conference on Software Analysis, Evolution and Reengineering [(ERA Track, SANER'26)](https://conf.researchr.org/track/saner-2026/saner-2026-early-research-achievement-era--track)
 - International Workshop on Language Models and Programming Languages [(LMPL)](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025) at SPLASH 2025
 - ACM International Conference on the Foundations of Software Engineering (FSE) [(Main Track, FSE'25)](https://conf.researchr.org/track/fse-2025/fse-2025-research-papers)
