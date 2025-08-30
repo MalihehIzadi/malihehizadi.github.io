@@ -11,16 +11,18 @@ horizontal: false
 ---
 
 ### Organizer/Judge
-- Co-organizer for the first International Workshop on Agents in Software Engineering (AgenticSE), 2025
-- Co-organizer for the 11th Dutch Symposium on Software Engineering [(SEN)](https://www.sen-symposium.nl/), 2025
-- Co-organizer for the 4th International NLBSE Workshop co-located with ICSE'25 [(NLBSE’25)](https://nlbse2025.github.io/)
-- Co-organizer for the 3rd International NLBSE Workshop co-located with ICSE'24 [(NLBSE’24)](https://nlbse2024.github.io/)
-- Thesis Award Committee (Judge), [Best MSc and PhD Thesis Award, VERSEN](https://www.versen.nl/contents/procedure-thesis-award), The Netherlands
+- Co-organizer for the first International Workshop on Agents in Software Engineering [**(AgenticSE)**](https://agenticse.github.io/), November 2025
+- Co-organizer for the [**AIWare Bootcamp - Europe**](https://www.aiwarebootcamp.io/aiware-bootcamp-europe-2025) co-located with AI-Dev led by Linux Foundation, August 2025
+- Co-organizer for the 11th Dutch Symposium on Software Engineering [**(SEN)**](https://www.sen-symposium.nl/), May 2025
+- Co-organizer for the 4th International NLBSE Workshop co-located with ICSE'25 [**(NLBSE’25)**](https://nlbse2025.github.io/)
+- Co-organizer for the 3rd International NLBSE Workshop co-located with ICSE'24 [**(NLBSE’24)**](https://nlbse2024.github.io/)
+- Thesis Award Committee (Judge), [**Best MSc and PhD Thesis Award, VERSEN**](https://www.versen.nl/contents/procedure-thesis-award), The Netherlands
 
 ---
 ### Chair/Editor
 
 - Co-chair for the ACM International Conference on the Foundations of Software Engineering, [(Workshop track, FSE'26)](https://conf.researchr.org/home/fse-2026)
+- Co-chair for The 2nd ACM International Conference on AI-powered Software [(Arxiv track, AIWare)](https://2025.aiwareconf.org/track/aiware-2025-arxiv-track)
 - Co-chair for the International Conference on Software Analysis, Evolution and Reengineering [(Demo Track, SANER'26)](https://conf.researchr.org/track/saner-2026/saner-2026-tool-demo-track)
 - Co-chair for the International Conference on Software Analysis, Evolution and Reengineering [(Workshop Track, SANER'25)](https://conf.researchr.org/home/saner-2025)
 - Co-chair for the 21st International Conference on Mining Software Repositories [(Industry Track, MSR'24)](https://conf.researchr.org/home/msr-2024)
