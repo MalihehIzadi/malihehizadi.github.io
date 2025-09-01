@@ -25,15 +25,15 @@ horizontal: false
 
 
 ## Latest Invited Talks and Visits &#x1F3A4;
-- 2025: Gave a tutorial at the **AIWare bootcamp** on the [LLMs for Software Development; An Evaluation Perspective](https://www.aiwarebootcamp.io/aiware-bootcamp-europe-2025), the Netherlands. 
+- 2025 (Netherlands): Gave a tutorial at the **AIWare bootcamp** on the [LLMs for Software Development; An Evaluation Perspective](https://www.aiwarebootcamp.io/aiware-bootcamp-europe-2025). 
 Also served as a panelist on the "Agentic SE & Open Source in the FMware Era – Toward Trustworthy, Context-Aware FMware" panel.
-- 2025: Gave an invited tutorial for the **ING Bank** on [LLMs and Autonomous Agents for Software Development](https://www.ing.nl/particulier), the Netherlands.	
-- Served as a panelist at the **AI-Augmeneted SDLC workshop** on [GenAI and Software: The Rodmap Ahead](https://www.sei.cmu.edu/events/ai-augmented-sdlc/), co-located with FSE 2025, Norway.
-- 2025: Gave an invited talk at the **French National Centre for Scientific Research's (CNRS)** open seminar on [Software Development in the Era of Generative AI](https://www.csi-ins2i.cnrs.fr/content/s%C3%A9minaire-ia-g%C3%A9n%C3%A9ratives-promesses-et-d%C3%A9fis) in France. 
+- 2025 (Netherlands): Gave an invited tutorial for the **ING Bank** on [LLMs and Autonomous Agents for Software Development](https://www.ing.nl/particulier).	
+- 2025 (Norway): Served as a panelist at the **AI-Augmeneted SDLC workshop** on [GenAI and Software: The Rodmap Ahead](https://www.sei.cmu.edu/events/ai-augmented-sdlc/), co-located with FSE conference.
+- 2025 (France): Gave an invited talk at the **French National Centre for Scientific Research's (CNRS)** open seminar on [Software Development in the Era of Generative AI](https://www.csi-ins2i.cnrs.fr/content/s%C3%A9minaire-ia-g%C3%A9n%C3%A9ratives-promesses-et-d%C3%A9fis). 
 Also served as a panelist on the round table on "scientific challenges of GenAI and our Social responsibilities".					
-- 2024: Gave an invited talk at the Software Engineering and Technology cluster of the **Eindhoven University of Technology**.								
-- 2024: Gave an invited talk at **Bits&Chips 2024** (Exhibition and conference on challenges in complex software engineering, AI in high-tech and system architecture) on [Benchmakring LLMs for Software](https://events.bits-chips.nl/bitschips-event/).								
-- 2024: Gave an invited talk at **Google Research** on Buildng and Assessing Large Language Models.
-- 2024: Gave an invited talk at the **FM+SE Summit** [Challenges of LLMs for Code](https://fmse.io/), Japan.
-- 2024: Invited to the **Shonan meeting** on Foundational Models for Software Engineering organized by Hassan et al., Japan.
-- 2023: Invited to the **Dagstuhl seminar** on Programming Language Processing organized by Pradel et al., Germany.
+- 2024 (Netherlands): Gave an invited talk at the Software Engineering and Technology cluster of the **Eindhoven University of Technology**.								
+- 2024 (Netherlands): Gave an invited talk at **Bits&Chips 2024** (Exhibition and conference on challenges in complex software engineering, AI in high-tech and system architecture) on [Benchmakring LLMs for Software](https://events.bits-chips.nl/bitschips-event/).								
+- 2024 (Remote): Gave an invited talk at **Google Research** on Buildng and Assessing Large Language Models.
+- 2024 (Japan): Gave an invited talk at the **FM+SE Summit** [Challenges of LLMs for Code](https://fmse.io/).
+- 2024 (Japan): Invited to the **Shonan meeting** on Foundational Models for Software Engineering organized by Ahmed E. Hassan et al.
+- 2023 (Germany): Invited to the **Dagstuhl seminar** on Programming Language Processing organized by Michael Pradel et al.
