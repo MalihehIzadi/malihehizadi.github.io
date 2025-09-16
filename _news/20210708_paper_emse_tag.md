@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper on [tag recommendation](https://link.springer.com/article/10.1007/s10664-021-09976-2) accepted at the Springer **EMSE**.
+New paper on [tag recommendation](https://link.springer.com/article/10.1007/s10664-021-09976-2) accepted in **EMSE** journal.

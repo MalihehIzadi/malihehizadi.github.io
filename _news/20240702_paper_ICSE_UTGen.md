@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper on [Enhanced understandability of tests via LLMs](https://arxiv.org/abs/2408.11710) accepted at the IEEE/ACM **ICSE 2025**.
+New paper on [Enhanced understandability of tests via LLMs](https://arxiv.org/abs/2408.11710) accepted @ **ICSE 2025**.

@@ -8,12 +8,12 @@ nav_order: 2
 horizontal: false
 ---
 
-## Latest Awards and Approved Grants &#127942;
+## Awards and Fundings &#127942;
 - 2025: I won a &#x2728; **Google Research Scholar Award** &#x2728; for my proposal on [tackling LLM hallucinations](https://research.google/programs-and-events/research-scholar-program/recipients/) (_Personal Grant_).
 - 2025: Recieved an **ACM SIGSOFT Distinguished Paper Award** for our work on  [How Much Code LLMs Remember?](https://2025.msrconf.org/details/msr-2025-technical-papers/17/How-Much-Do-Code-Language-Models-Remember-An-Investigation-on-Data-Extraction-Attack) at MSR.
 - 2024: Recieved an **ACM SIGSOFT Distinguished Paper Award** for our work on [Smart AutoCompletion Invocation](https://dl.acm.org/doi/abs/10.1145/3664646.3664760) at AIWare.
 - 2024: I won an &#x2728; **Amazon Research Award** &#x2728; for my porposal on [addressing memorization in LLMs](https://www.amazon.science/research-awards/recipients/maliheh-izadi) (_Personal Grant_).
-- 2023: My grant proposals for **two fully-funded PhD positions** on #LLMs4code are approved by [JetBrains Research](https://se.ewi.tudelft.nl/ai4se/).
+- 2023: **JetBrains Research** approved two of grant proposals for [two fully-funded PhD positions](https://se.ewi.tudelft.nl/ai4se/) on LLMs4code.
 - 2023: Received **one fully-funded PhD** as part of my starting package for my new role as the assistant professor, TU Delft.
 - 2023: Received the **ACM Distinguished Service Award** for co-chairing the NLBSE competition on issue classification.
 - 2023: Our tool for classifying code comments won first place in the <a href="https://nlbse2023.github.io/">**NLBSE'23**</a> tool competition.
@@ -24,7 +24,7 @@ horizontal: false
 ---
 
 
-## Latest Invited Talks and Visits &#x1F3A4;
+## Invited Talks and Visits &#x1F3A4;
 - 2025 (Netherlands): Gave a tutorial at the **AIWare bootcamp** on the [LLMs for Software Development; An Evaluation Perspective](https://www.aiwarebootcamp.io/aiware-bootcamp-europe-2025). 
 Also served as a panelist on the "Agentic SE & Open Source in the FMware Era – Toward Trustworthy, Context-Aware FMware" panel.
 - 2025 (Netherlands): Gave an invited tutorial for the **ING Bank** on [LLMs and Autonomous Agents for Software Development](https://www.ing.nl/particulier).	

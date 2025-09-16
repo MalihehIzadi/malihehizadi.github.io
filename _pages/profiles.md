@@ -13,7 +13,7 @@ profile_groups:
         name: Director Dr. Maliheh Izadi
         website: https://malihehizadi.github.io/
         image: aise_logo_bg.png
-        content: people/mizadi.md
+        content: people/aise.md
         author_keyword:
         image_circular: true
         more_info: >
@@ -142,6 +142,17 @@ profile_groups:
   - headline: "Alumni"
     profiles:
       - align: right
+        name: Yash Mundhra
+        website: 
+        image: people/ymundhra.jpeg
+        content:
+        author_keyword: ymundhra
+        image_circular: false
+        more_info: >
+          <p>Former MSc student</p>
+          <p>LLMs at ASML</p>
+          <p>Next: IT Consultant @ BCG</p>
+      - align: right
         name: Andrei Ionescu
         website: https://nl.linkedin.com/in/andrei-ionescu-72712221b
         image: people/aionescu.jpeg
@@ -213,24 +224,27 @@ profile_groups:
 
 ---
 ### Thesis Supervision
-In AISE, we have (co)-supervised 42 Msc/Bsc, and many of our studnets have graduated _cum laude_ (top 5% of class).
+In AISE, we have (co)-supervised 49 Msc/Bsc, and many of our studnets have graduated _cum laude_ (top 5% of class).
 
 #### Msc Level
   ---
 
 | # | Year | University | Student | Title |
 |:-:|:----|:-----------|:---------|:------|
+| 14 | 2025 | TUDelft | V. Pocheva | Enhancing Issue Tracking Efficiency with AI-Driven Natural Language Processing |
+| 13 | 2025 | TUDelft | N. Kuo | Proactive AI in IDEs |
+| 12 | 2025 | TUDelft | Y. Mundhra | LLMs for Domain Specific Code Generation |
 | 11 | 2025 | TUDelft | R. Popescu | Dataset Development for LLMs4Code: Licensing, Contamination, & Reproducibility |
-| 10 | 2024 | TUDelft | A.C. Ionescu | Meet Your Onboarding Buddy: A Smart, Adaptive, & Conversational LLM Assistant |
-| 9 | 2024 | TUDelft | R. Schrijver | Beyond Acceptance Rates: The Impact of JetBrains AI Assistant and FLCC |
-| 8 | 2024 | TUDelft | T. van Dam | Black-box Context-Aware Code Completion |
-| 7 | 2024 | TUDelft | P. de Bekker | AI for Software Engineering: Reviewing and Improving Benchmarking Practices |
-| 6 | 2024 | TUDelft | F. van der Heijden | Interactive & Adaptive LLMs: Building and Evaluating an LLM-based Code Completion Plugin |
-| 5 | 2024 | UMB | F. Salerno | Extracting Training Data from Fine-tuned Large Language Models |
-| 4 | 2022 | TUDelft | A. Al-Kaswan | Limits of Binary Code Summarization with Transformers |
-| 3 | 2021 | Sharif | M. Nejati | Missing Software Tag Recommendation |
-| 2 | 2021 | Sharif | P. rostami | Issue Commit Linking |
-| 1 | 2020 | Sharif | K. Akbari | Isure Report Classificatio |
+| 10 | 2024 | TUDelft | A. Ionescu | Meet Your Onboarding Buddy: A Smart, Adaptive, & Conversational LLM Assistant |
+| 9  | 2024 | TUDelft | R. Schrijver | Beyond Acceptance Rates: The Impact of JetBrains AI Assistant and FLCC |
+| 8  | 2024 | TUDelft | T. van Dam | Black-box Context-Aware Code Completion |
+| 7  | 2024 | TUDelft | P. de Bekker | AI for Software Engineering: Reviewing and Improving Benchmarking Practices |
+| 6  | 2024 | TUDelft | F. vd Heijden | Building and Evaluating an LLM-based Code Completion Plugin |
+| 5  | 2024 | UMB     | F. Salerno | Extracting Training Data from Fine-tuned Large Language Models |
+| 4  | 2022 | TUDelft | A. Al-kaswan | Limits of Binary Code Summarization with Transformers |
+| 3  | 2021 | Sharif  | M. Nejati | Missing Software Tag Recommendation |
+| 2  | 2021 | Sharif  | P. Rostami | Issue Commit Linking |
+| 1  | 2020 | Sharif  | K. Akbari | Isure Report Classificatio |
 
 
 <br/>
@@ -240,6 +254,10 @@ In AISE, we have (co)-supervised 42 Msc/Bsc, and many of our studnets have gradu
 
 |  #  | Year | University | Student | Title |
 |:---:|:----:|:-----------|:--------|:------|
+| 35 | 2024 | TUDelft | S. Minkov | Analyzing Boilerplate Code Data Smell on Large Code Datasets |
+| 34 | 2024 | TUDelft | B. Annink | Linking Educational Value to LLM Code Completion Performance During Inference |
+| 33 | 2024 | TUDelft | L. Witte | Analyzing the Impact of Self-Admitted Technical Debt on the Code Completion |
+| 32 | 2024 | TUDelft | B. Buzatu | Analysing non-English data smells in large code datasets |
 | 31 | 2024 | TUDelft | B. Koc | Implications of LLMs4Code on Copyright Infringement |
 | 30 | 2024 | TUDelft | P. Deatc | Red Teaming LLMs for Dangerous and Unfair Software Applications |
 | 29 | 2024 | TUDelft | C. Ionescu | Red-Teaming Code LLMs for Malware Generation |

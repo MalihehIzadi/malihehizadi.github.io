@@ -32,12 +32,12 @@ latest_posts:
 
 **Research**: I research the intersection of deep learning and source code analysis, focusing on **Large Language Models (LLMs)** for automating and enhancing software engineering tasks such as code understanding, generation, and documentation. My interests include developing **language models for source code**, creating **intelligent development tools**, and exploring **autonomous agents** that support **developer productivity**. I also work on **evaluations and benchmarking** techniques to rigorously assess the capabilities of these models in real-world programming contexts. 
 My work, published in top venues such as
-IEEE/ACM **ICSE**, <strong>FSE</strong>, <strong>TOSEM</strong>, <strong>EMSE</strong>, <strong>MSR</strong>, <strong>ICSME</strong>, <strong>SANER</strong>, and <strong>JSS</strong>.
+IEEE/ACM **ICSE**, <strong>FSE</strong>, <strong>ASE</strong>, <strong>TOSEM</strong>, <strong>EMSE</strong>, <strong>MSR</strong>, <strong>ICSME</strong>, <strong>SANER</strong>, and <strong>JSS</strong>.
 
 **Education**: I hold a PhD in Software Engineering and an MSc in IT Engineering from Sharif UNiversity of Technology. My PhD research explored mining version control data to automate developer reports like release notes. My MSc focused on enhancing recommender system evaluation.
 
 **Vacancy**: If you're working at the intersection of NLP/ML and SE and are interested in my work, feel free to reach out to explore collaborations. A postdoc position is availabe on improving dev tools and SE processes using #LLMs4code. Please include your CV and a brief intro with your research interests.
 
-**BSc/MSc students**:
-TU Delft students interested in LLMs and Software Engineering are welcome to join my lab for thesis projects, internships, or research. Contact me by email to schedule a meeting.
+**TU Delft BSc/MSc students**:
+TU Delft students interested in LLMs and Software Engineering are welcome to join my lab for thesis projects, internships, or research. Contact me via email to schedule a meeting.
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper on [Practical evaluation of LLMs4Code](https://dl.acm.org/doi/abs/10.1145/3597503.3639138) accepted at the IEEE/ACM **ICSE 2024**.
+New paper on [Practical evaluation of LLMs4Code](https://dl.acm.org/doi/abs/10.1145/3597503.3639138) accepted @ **ICSE 2024**.

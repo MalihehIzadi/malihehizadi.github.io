@@ -14,8 +14,46 @@
  html = {https://evalpro.online/}
  }
 
+@inproceedings{li2025pwm,
+ abstract = {Large language models have shown impressive performance in various domains, including code generation across diverse open-source domains. However, their applicability in proprietary industrial settings, where domain-specific constraints and code interdependencies are prevalent, remains largely unexplored. We present a case study conducted in collaboration with the leveling department at ASML to investigate the performance of LLMs in generating functional, maintainable code within a closed, highly specialized software environment. We developed an evaluation framework tailored to ASML’s proprietary codebase and introduced a new benchmark. Additionally, we proposed a new evaluation metric, build@k, to assess whether LLM-generated code successfully compiles and integrates within real industrial repositories. We investigate various prompting techniques, compare the performance of generic and code-specific LLMs, and examine the impact of model size on code generation capabilities, using both match-based and execution-based metrics. The findings reveal that prompting techniques and model size have a significant impact on output quality, with few-shot and chain-of-thought prompting yielding the highest build success rates. The difference in performance between the code-specific LLMs and generic LLMs was less pronounced and varied substantially across different model families.},
+ author = {Yash Mundhra and Max Valk and Maliheh Izadi},
+ booktitle = {IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry track},
+ number = {},
+ pages = {},
+ publisher = {IEEE/ACM},
+ title = {Evaluating Large Language Models for Functional and Maintainable Code in Industrial Settings: A Case Study at ASM},
+ year = {2025},
+ keywords={ymundhra and mizadi}
+ }
+
+@inproceedings{li2025pwm,
+ abstract = {Large Language Models are transforming software engineering, yet prompt management in practice remains ad hoc, hindering reliability, reuse, and integration into industrial workflows. We present Prompt-with-Me, a practical solution for structured prompt management embedded directly in the development environment. The system automatically classifies prompts using a four-dimensional taxonomy encompassing intent, author role, software development lifecycle stage, and prompt type. To enhance prompt reuse and quality, Prompt-with-Me suggests language refinements, masks sensitive information, and extracts reusable templates from a developer's prompt library. Our taxonomy study of 1,108 real-world prompts demonstrates that modern LLMs can accurately classify software engineering prompts. Furthermore, our user study with 11 participants shows strong developer acceptance, with high usability (Mean SUS=73), low cognitive load (Mean NASA-TLX=21), and reported gains in prompt quality and efficiency through reduced repetitive effort. Lastly, we offer actionable insights for building the next generation of prompt management and maintenance tools for software engineering workflows.},
+ author = {Ziyou Li and Agnia Sergeyuk and Maliheh Izadi},
+ booktitle = {IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry track},
+ number = {},
+ pages = {},
+ publisher = {IEEE/ACM},
+ title = {Prompt-with-Me: in-IDE Structured Prompt Management for LLM-Driven Software Engineering},
+ year = {2025},
+ keywords={zli and asergeyuk and mizadi}
+ }
+
+@inproceedings{cipollone2025treeranker,
+ abstract = {Token-level code completion is one of the most critical features in modern Integrated Development Environments (IDEs). It assists developers by suggesting relevant identifiers and APIs during coding. While completions are typically derived from static analysis, their usefulness depends heavily on how they are ranked, as correct predictions buried deep in the list are rarely seen by users. Most current systems rely on hand-crafted heuristics or lightweight machine learning models trained on user logs, which can be further improved to capture context information and generalize across projects and coding styles. In this work, we propose a new scoring approach to ranking static completions using language models in a lightweight and model-agnostic way. Our method organizes all valid completions into a prefix tree and performs a single greedy decoding pass to collect token-level scores across the tree. This enables a precise token-aware ranking without needing beam search, prompt engineering, or model adaptations. The approach is fast, architecture-agnostic, and compatible with already deployed models for code completion. These findings highlight a practical and effective pathway for integrating language models into already existing tools within IDEs, and ultimately providing smarter and more responsive developer assistance.},
+ author = {Daniele Cipollone and Egor Bogomolov and Arie van Deursen and Maliheh Izadi},
+ booktitle = {IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry track},
+ number = {},
+ pages = {},
+ publisher = {IEEE/ACM},
+ title = {TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs},
+ year = {2025},
+ html = {https://arxiv.org/pdf/2508.02455},
+ keywords={dcipollone and ebogomolov and mizadi}
+ }
+
+
 @inproceedings{alkaswan2025codered,
- abstract = {Nowadays, developers increasingly rely on solutions powered by Large Language Models (LLM) to assist them with their coding tasks. This makes it crucial to align these tools with human values to prevent malicious misuse. In this paper, we propose a comprehensive framework for assessing the potential harmfulness of LLMs within the software engineering domain. We begin by developing a taxonomy of potentially harmful software engineering scenarios and subsequently, create a dataset of prompts based on this taxonomy. To systematically assess the responses, we design and validate an automatic evaluator that classifies the outputs of a variety of LLMs both open-source and closed-source models, as well as general-purpose and code-specific LLMs. Furthermore, we investigate the impact of models’ size, architecture family, and alignment strategies on their tendency to generate harmful content. The results show significant disparities in the alignment of various LLMs for harmlessness. We find that some models and model families, such as Openhermes, are more harmful than others and that code-specific models do not perform better than their general-purpose counterparts. Notably, some fine-tuned models perform significantly worse than their base-models due to their design choices. On the other side, we find that larger models tend to be more helpful and are less likely to respond with harmful information. These results highlight the importance of targeted alignment strategies tailored to the unique challenges of software engineering tasks and provide a foundation for future work in this critical area.},
+ abstract = {Nowadays, developers increasingly rely on solutions powered by Large Language Models (LLM) to assist them with their coding tasks. This makes it crucial to align these tools with human values to prevent malicious misuse. In this paper, we propose a comprehensive framework for assessing the potential harmfulness of LLMs within the software engineering domain. We begin by developing a taxonomy of potentially harmful software engineering scenarios and subsequently, create a dataset of prompts based on this taxonomy. To systematically assess the responses, we design and validate an automatic evaluator that classifies the outputs of a variety of LLMs both open-source and closed-source models, as well as general-purpose and code-specific LLMs. Furthermore, we investigate the impact of models' size, architecture family, and alignment strategies on their tendency to generate harmful content. The results show significant disparities in the alignment of various LLMs for harmlessness. We find that some models and model families, such as Openhermes, are more harmful than others and that code-specific models do not perform better than their general-purpose counterparts. Notably, some fine-tuned models perform significantly worse than their base-models due to their design choices. On the other side, we find that larger models tend to be more helpful and are less likely to respond with harmful information. These results highlight the importance of targeted alignment strategies tailored to the unique challenges of software engineering tasks and provide a foundation for future work in this critical area.},
  author = {Ali Al-kaswan and Sebastian Deatc and Begum Koc and Arie van Deursen and Maliheh Izadi},
  booktitle = {ACM International Conference on the Foundations of Software Engineering (FSE), main track},
  number = {},
@@ -251,7 +289,7 @@
  number = {},
  pages = {95-100},
  publisher = {},
- title = {In-ide Human-AI Experience in the Era of Large Language Models; a Literature Review},
+ title = {In-IDE Human-AI Experience in the Era of Large Language Models; a Literature Review},
  year = {2024},
  keywords={asergeyuk and mizadi}
 }
