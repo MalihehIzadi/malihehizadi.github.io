@@ -36,7 +36,7 @@ IEEE/ACM **ICSE**, <strong>FSE</strong>, <strong>ASE</strong>, <strong>TOSEM</st
 
 **Education**: I hold a PhD in Software Engineering and an MSc in IT Engineering from Sharif UNiversity of Technology. My PhD research explored mining version control data to automate developer reports like release notes. My MSc focused on enhancing recommender system evaluation.
 
-**Vacancy**: If you're working at the intersection of NLP/ML and SE and are interested in my work, feel free to reach out to explore collaborations. A postdoc position is availabe on improving dev tools and SE processes using #LLMs4code. Please include your CV and a brief intro with your research interests.
+**Vacancy**: If you're working at the intersection of NLP/ML and SE and are interested in my work, feel free to reach out to explore collaborations. A postdoc position is availabe on improving dev tools and SE processes using #LLMs4code. Please include your CV and a brief intro with your research interests. For our newest **PhD Vacancy** see here: [Automated Code Refactroing](https://careers.tudelft.nl/job/Delft-PhD-Position-Automated-Code-Refactoring-at-the-Future-of-Software-Engineering-%28FUSE%29-lab-2628-CD/1332150657/) as part of the Future of Software Engineering (FUSE) lab in collaboration with **Meta**.
 
 **TU Delft BSc/MSc students**:
 TU Delft students interested in LLMs and Software Engineering are welcome to join my lab for thesis projects, internships, or research. Contact me via email to schedule a meeting.

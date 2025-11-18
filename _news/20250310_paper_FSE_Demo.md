@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper on [Multi-agent Onboarding Assistant](https://scholar.google.com/citations?user=F2D5RawAAAAJ&hl=en) accepted @ **FSE 2025**.
+New paper on [Multi-agent Onboarding Assistant](https://scholar.google.com/citations?user=F2D5RawAAAAJ&hl=en) accepted @ **FSE (Demo) 2025**.
