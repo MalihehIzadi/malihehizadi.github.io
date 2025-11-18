@@ -69,13 +69,19 @@ AISE (AI-enabled Software Engineering) research explores several topics at the i
   <div class="album-grid">
     <!-- Card  -->
     <div class="album-card">
+      {% include figure.liquid loading="eager" path="assets/img/aise_ase2025.jpg" class="img-fluid rounded z-depth-1" %}
+      <div class="album-caption">Attending ASE'25 (Seoul)</div>
+    </div>
+    <!-- Card  -->
+    <!-- Card  -->
+    <div class="album-card">
       {% include figure.liquid loading="eager" path="assets/img/aise_fse2025.jpg" class="img-fluid rounded z-depth-1" %}
       <div class="album-caption">Attending FSE'25 (Norway)</div>
     </div>
     <!-- Card  -->
     <div class="album-card">
-      {% include figure.liquid loading="eager" path="assets/img/aise_kbbq2025.jpg" class="img-fluid rounded z-depth-1" %}
-      <div class="album-caption">Team Activity (KBBQ)</div>
+      {% include figure.liquid loading="eager" path="assets/img/aise_padel2025.jpg" class="img-fluid rounded z-depth-1" %}
+      <div class="album-caption">Team Activity (Padel)</div>
     </div>
 
     <!-- Card  -->
