@@ -24,7 +24,9 @@ horizontal: false
 ---
 
 
-## Invited Talks and Visits &#x1F3A4;
+## Invited Talks, Visits, and Events &#x1F3A4;
+- 2025 (South Korea): Successfully organized and held the **First International Workshop on Autonomous Agents in Software Engineering [(AgenticSE 2025)](https://agenticse.github.io/)** along with Satish Chandra (Meta) and Michael Pradel (CISPA).
+- 2025 (Germany): Invited to the **Dagstuhl seminar** on [Creativity, GenAI, and Software Development: A Future Together](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25412).
 - 2025 (Netherlands): Gave a tutorial at the **AIWare bootcamp** on the [LLMs for Software Development; An Evaluation Perspective](https://www.aiwarebootcamp.io/aiware-bootcamp-europe-2025). 
 Also served as a panelist on the "Agentic SE & Open Source in the FMware Era – Toward Trustworthy, Context-Aware FMware" panel.
 - 2025 (Netherlands): Gave an invited tutorial for the **ING Bank** on [LLMs and Autonomous Agents for Software Development](https://www.ing.nl/particulier).	
@@ -35,5 +37,5 @@ Also served as a panelist on the round table on "scientific challenges of GenAI 
 - 2024 (Netherlands): Gave an invited talk at **Bits&Chips 2024** (Exhibition and conference on challenges in complex software engineering, AI in high-tech and system architecture) on [Benchmakring LLMs for Software](https://events.bits-chips.nl/bitschips-event/).								
 - 2024 (Remote): Gave an invited talk at **Google Research** on Buildng and Assessing Large Language Models.
 - 2024 (Japan): Gave an invited talk at the **FM+SE Summit** [Challenges of LLMs for Code](https://fmse.io/).
-- 2024 (Japan): Invited to the **Shonan meeting** on Foundational Models for Software Engineering organized by Ahmed E. Hassan et al.
-- 2023 (Germany): Invited to the **Dagstuhl seminar** on Programming Language Processing organized by Michael Pradel et al.
+- 2024 (Japan): Invited to the **Shonan seminar** on [Foundational Models for Software Engineering](https://shonan.nii.ac.jp/seminars/176/).
+- 2023 (Germany): Invited to the **Dagstuhl seminar** on [Programming Language Processing](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23062).
