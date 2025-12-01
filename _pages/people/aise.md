@@ -69,10 +69,19 @@ AISE (AI-enabled Software Engineering) research explores several topics at the i
   <div class="album-grid">
     <!-- Card  -->
     <div class="album-card">
+      {% include figure.liquid loading="eager" path="assets/img/aise_agenticse2025.jpg" class="img-fluid rounded z-depth-1" %}
+      <div class="album-caption">Organized AgenticSE'25 (Seoul)</div>
+    </div>
+    <!-- Card  -->
+    <div class="album-card">
       {% include figure.liquid loading="eager" path="assets/img/aise_ase2025.jpg" class="img-fluid rounded z-depth-1" %}
       <div class="album-caption">Attending ASE'25 (Seoul)</div>
     </div>
     <!-- Card  -->
+    <div class="album-card">
+      {% include figure.liquid loading="eager" path="assets/img/aise_dagstuhl2025_creativity.jpg" class="img-fluid rounded z-depth-1" %}
+      <div class="album-caption">Dagstuhl on Creativity/GenAI (Germany)</div>
+    </div>
     <!-- Card  -->
     <div class="album-card">
       {% include figure.liquid loading="eager" path="assets/img/aise_fse2025.jpg" class="img-fluid rounded z-depth-1" %}
@@ -83,7 +92,6 @@ AISE (AI-enabled Software Engineering) research explores several topics at the i
       {% include figure.liquid loading="eager" path="assets/img/aise_padel2025.jpg" class="img-fluid rounded z-depth-1" %}
       <div class="album-caption">Team Activity (Padel)</div>
     </div>
-
     <!-- Card  -->
     <div class="album-card">
       {% include figure.liquid loading="eager" path="assets/img/events_aiwarebootcamp2025.jpg" class="img-fluid rounded z-depth-1" %}
@@ -106,6 +114,11 @@ AISE (AI-enabled Software Engineering) research explores several topics at the i
     </div> 
     <!-- Card  -->
     <div class="album-card">
+      {% include figure.liquid loading="eager" path="assets/img/aise_shonan2024_flm.jpg" class="img-fluid rounded z-depth-1" %}
+      <div class="album-caption">Shonan on FLMs'23 (Japan)</div>
+    </div>
+    <!-- Card  -->
+    <div class="album-card">
       {% include figure.liquid loading="eager" path="assets/img/aise_retreat2024.jpg" class="img-fluid rounded z-depth-1" %}
       <div class="album-caption">Team Activity (Karting)</div>
     </div>  
@@ -117,12 +130,17 @@ AISE (AI-enabled Software Engineering) research explores several topics at the i
      <!-- Card  -->
     <div class="album-card">
       {% include figure.liquid loading="lazy" path="assets/img/aise_aiware2024_award.jpg" class="img-fluid rounded z-depth-1" %}
-      <div class="album-caption">ACM Distinguished Paper Award (AIWare'24)</div>
+      <div class="album-caption">ACM Distinguished Paper Award(AIWare'24)</div>
     </div>
     <!-- Card  -->
     <div class="album-card">
       {% include figure.liquid loading="eager" path="assets/img/aise_retreat2023.jpg" class="img-fluid rounded z-depth-1" %}
       <div class="album-caption">Team Activity (Pinball Museum)</div>
+    </div>
+    <!-- Card  -->
+    <div class="album-card">
+      {% include figure.liquid loading="eager" path="assets/img/aise_dagstuhl2023_plm.jpg" class="img-fluid rounded z-depth-1" %}
+      <div class="album-caption">Dagstuhl on PLMs'23 (Germany)</div>
     </div>
     <!-- Card  -->
     <div class="album-card">
