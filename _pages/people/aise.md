@@ -84,6 +84,12 @@ AISE (AI-enabled Software Engineering) research explores several topics at the i
     </div>
     <!-- Card  -->
     <div class="album-card">
+      {% include figure.liquid loading="eager" path="assets/img/aise_metavisit2025.jpg" class="img-fluid rounded z-depth-1" %}
+      <div class="album-caption">Visiting Amsterdam Office of Meta (2025)</div>
+    </div>
+    <!-- Card  -->
+    <!-- Card  -->
+    <div class="album-card">
       {% include figure.liquid loading="eager" path="assets/img/aise_fse2025.jpg" class="img-fluid rounded z-depth-1" %}
       <div class="album-caption">Attending FSE'25 (Norway)</div>
     </div>
