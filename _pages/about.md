@@ -28,16 +28,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
- I am an assistant professor at the Faculty of <a href="https://www.tudelft.nl/en/eemcs">EEMCS</a> at <a href="https://www.tudelft.nl/en/">Delft University of Technology</a> (TU Delft), the Netherlands. I lead the **<a href="https://malihehizadi.github.io/team/">AI-enabled Software Engineering (AISE)</a>** research lab, supervise PhD, MSc, and BSc students, and serve as academic manager for the <a href="https://se.ewi.tudelft.nl/ai4se/">AI4SE</a> ICAI lab. I am also a member of the Software Engineering Research Group (<a href="https://se.ewi.tudelft.nl/">SERG</a>) at TU Delft.
+ I am an assistant professor at the Faculty of <a href="https://www.tudelft.nl/en/eemcs">EEMCS</a> at <a href="https://www.tudelft.nl/en/">Delft University of Technology</a> (TU Delft), the Netherlands. I lead the **<a href="https://malihehizadi.github.io/team/">AI-enabled Software Engineering (AISE)</a>** research lab, supervise PhD, MSc, and BSc students, and serve as scientific manager for the <a href="https://se.ewi.tudelft.nl/ai4se/">AI4SE</a> ICAI lab, a collaboration with JetBrains Research. I am also a member of the Software Engineering Research Group (<a href="https://se.ewi.tudelft.nl/">SERG</a>).
 
-**Research**: I research the intersection of deep learning and source code analysis, focusing on **Large Language Models (LLMs)** for automating and enhancing software engineering tasks such as code understanding, generation, and documentation. My interests include developing **language models for source code**, creating **intelligent development tools**, and exploring **autonomous agents** that support **developer productivity**. I also work on **evaluations and benchmarking** techniques to rigorously assess the capabilities of these models in real-world programming contexts. 
-My work, published in top venues such as
-IEEE/ACM **ICSE**, <strong>FSE</strong>, <strong>ASE</strong>, <strong>IEEE TSE</strong>, <strong>ACM TOSEM</strong>, <strong>EMSE</strong>, <strong>MSR</strong>, <strong>ICSME</strong>, <strong>SANER</strong>, and <strong>JSS</strong>.
+**Research**: My interdisciplinary research focuses on building trustworthy and intelligent AI-enabled developer solutions in real-world workflows to enhance software efficiency and developer productivity.
+I collaborate with various companies such as JetBrains Research, ASML, NXP, Meta, 
+and have recieved competitive inetrnational awards such as 
+the **Amazon Research Award** and the **Google Scholar Research Award**.
+My work is published in premier venues such as
+IEEE/ACM **ICSE**, <strong>FSE</strong>, <strong>ASE</strong>, <strong>IEEE TSE</strong>, <strong>ACM TOSEM</strong>, <strong>EMSE</strong>, <strong>IUI</strong>, <strong>MSR</strong>, <strong>ICSME</strong>, and <strong>SANER</strong>.
 
-**Education**: I hold a PhD in Software Engineering and an MSc in IT Engineering from Sharif UNiversity of Technology. My PhD research explored mining version control data to automate developer reports like release notes. My MSc focused on enhancing recommender system evaluation.
+**Education**: I hold a PhD in Software Engineering and an MSc in IT Engineering from Sharif University of Technology. My PhD research explored mining version control data to automate developer reports like release notes. My MSc focused on enhancing recommender system evaluation.
 
-**Vacancy**: If you're working at the intersection of NLP/ML and SE and are interested in my work, feel free to reach out to explore collaborations. A postdoc position is availabe on improving dev tools and SE processes using #LLMs4code. Please include your CV and a brief intro with your research interests. For our newest **PhD Vacancy** see here: [Automated Code Refactroing](https://careers.tudelft.nl/job/Delft-PhD-Position-Automated-Code-Refactoring-at-the-Future-of-Software-Engineering-%28FUSE%29-lab-2628-CD/1332150657/) as part of the Future of Software Engineering (FUSE) lab in collaboration with **Meta**.
-
-**TU Delft BSc/MSc students**:
-TU Delft students interested in LLMs and Software Engineering are welcome to join my lab for thesis projects, internships, or research. Contact me via email to schedule a meeting.
+**Vacancy/Collaboration/Thesis/Internship**: 
+- For our newest **PhD Vacancy**, see here: [Automated Code Refactoring](https://careers.tudelft.nl/job/Delft-PhD-Position-Automated-Code-Refactoring-at-the-Future-of-Software-Engineering-%28FUSE%29-lab-2628-CD/1332150657/) as part of the Future of Software Engineering (FUSE) lab in collaboration with **Meta**. Please apply directly through the TU Delft portal and do NOT contact me personally, as I do not have the capacity to respond. Only submitted applications will be considered for assessment.
+- If you're working at the intersection of NLP/ML and SE and are interested in my work, feel free to reach out to explore collaborations or a postdoc.
+- **TU Delft BSc/MSc students**: TU Delft students interested in LLMs and Software Engineering are welcome to join my lab for thesis projects, internships, or research. Contact me via email to schedule a meeting.
 

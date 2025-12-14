@@ -138,9 +138,20 @@ profile_groups:
         more_info: >
           <p>Msc student from Italy</p>
           <p>Memorization in LLM4sCode</p>
-          <p>Next: SE @ Stema</p>
+          <p>Next: S.Engineer @ Stema</p>
   - headline: "Alumni"
     profiles:
+      - align: right
+        name: Nadine Kuo
+        website: 
+        image: people/nkuo.jpg
+        content:
+        author_keyword: nkuo
+        image_circular: false
+        more_info: >
+          <p>Former MSc student</p>
+          <p>Proctive AI in IDE @ JetBrains</p>
+          <p>Next: AI Engineer @ JetBrains</p>
       - align: right
         name: Yash Mundhra
         website: 
@@ -150,8 +161,18 @@ profile_groups:
         image_circular: false
         more_info: >
           <p>Former MSc student</p>
-          <p>LLMs at ASML</p>
+          <p>LLMs Adaptation @ ASML</p>
           <p>Next: IT Consultant @ BCG</p>
+      - align: right
+        name: Venekina Pocheva
+        website: 
+        image: people/vpocheva.jpg
+        content:
+        author_keyword: vpocheva
+        image_circular: false
+        more_info: >
+          <p>Former MSc student</p>
+          <p>Ticket Management @ NXP</p>
       - align: right
         name: Andrei Ionescu
         website: https://nl.linkedin.com/in/andrei-ionescu-72712221b
@@ -174,7 +195,7 @@ profile_groups:
           <p>Scientific Dev (Sep'23)</p>
           <p>Former BSc student</p>
           <p>Smart Trigger Models</p>
-          <p>Next: ML engineer @ JetBrains</p>
+          <p>Next: ML Engineer @ JetBrains</p>
       - align: right
         name: Tim van Dam
         website: https://scholar.google.com/citations?user=foxUVFIAAAAJ&hl=nl
@@ -185,7 +206,7 @@ profile_groups:
         more_info: >
           <p>Former BSc/MSc student</p>
           <p>AutoCompletion via LLMs</p>
-          <p>Next: Software Engineer @ Teifi</p>
+          <p>Next: S.Engineer @ Teifi</p>
       - align: right
         name: Frank van der Heijden
         website: https://nl.linkedin.com/in/frankheijden
@@ -207,7 +228,7 @@ profile_groups:
         more_info: >
           <p>Former MSc student</p>
           <p>AI4SE Benchmarking</p>
-          <p>Next: SE @ Booking.com</p>
+          <p>Next: S.Eng @ Booking.com</p>
       - align: right
         name: Remco Schrijver
         website: https://github.com/RemcoSchrijver
@@ -218,7 +239,7 @@ profile_groups:
         more_info: >
           <p>Former MSc student</p>
           <p>AI Assistants Impact</p>
-          <p>Next: SE @ Booking.com</p>
+          <p>Next: S.Eng @ Booking.com</p>
 ---
 
 
