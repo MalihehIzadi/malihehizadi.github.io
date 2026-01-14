@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-New paper on [Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in LLMs]() accepted @ **MSR** 2026.
+New paper on [Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs]() accepted @ **MSR** 2026.
 
