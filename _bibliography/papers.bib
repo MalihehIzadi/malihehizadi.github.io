@@ -41,6 +41,7 @@
  journal = {Empricial Software Engineering Journal (EMSE)},
  title = {Human-AI Experience in Integrated Development Environments: A Systematic Literature Review},
  year = {2026},
+ selected = {true},
  keywords={asergeyuk and mizadi}
 }
 
@@ -51,6 +52,25 @@
   year={2026},
   keywords={nkuo and asergeyuk and mizadi},
 }
+
+@inproceedings{katzy2026attention,
+ abstract = {Large language models have scaled rapidly, but interpretability methods have lagged behind, especially in real-world noisy data that is less controlled than curated benchmarks. Existing approaches focus on fine-grained explanations of individual components, which are resource intensive and struggle to generalize across tasks, domains, and models. To enable broader insights, we analyze and track attention patterns across predictions. We show that vision models offer a promising direction for analyzing attention patterns at scale. To demonstrate this, we introduce the Attention Pattern Masked Autoencoder (AP-MAE), a vision transformer-based model that efficiently reconstructs masked attention patterns. Experiments on StarCoder2 models show that AP-MAE (i) reconstructs masked attention patterns with high accuracy, (ii) generalizes across unseen models with minimal degradation, (iii) reveals recurring patterns across a large number of inferences, (iv) predicts whether a generation will be correct without access to ground truth, with up to 70\% accuracy, and (v) enables targeted interventions that increase accuracy by 13.6\% when applied selectively, but cause rapid collapse when applied excessively. These results establish attention patterns as a scalable signal for interpretability and demonstrate that AP-MAE provides a transferable foundation for both analysis and intervention in large language models. Beyond its standalone value, AP-MAE can also serve as a selection procedure to guide more fine-grained mechanistic approaches toward the most relevant components. We release code and models to support future work in large-scale interpretability.},
+ author = {Jonathan Katzy and Razvan Mihai Popescu and Arie van Deursen and Maliheh Izadi},
+ booktitle = {Transactions on Machine Learning Research Journal (TMLR), also presenetd at NeurIPS' Mechanistic Interpretability Workshop},
+ title = {Automated Attention Pattern Discovery at Scale in Large Language Models},
+ year = {2026},
+ keywords={jkatzy and rpopescu and mizadi}
+}
+
+@inproceedings{alkaswan2026models,
+ abstract = {Large language models are increasingly used for code generation and debugging, but their outputs can still contain bugs, that originate from training data. Distinguishing whether an LLM prefers correct code, or a familiar incorrect version might be influenced by what it's been exposed to during training. We introduce an exposure-aware evaluation framework that quantifies how prior exposure to buggy versus fixed code influences a model's preference. Using the ManySStuBs4J benchmark, we apply Data Portraits for membership testing on the Stack-V2 corpus to estimate whether each buggy and fixed variant was seen during training. We then stratify examples by exposure and compare model preference using code completion as well as multiple likelihood-based scoring metrics We find that most examples (67%) have neither variant in the training data, and when only one is present, fixes are more frequently present than bugs. In model generations, models reproduce buggy lines far more often than fixes, with bug-exposed examples amplifying this tendency and fix-exposed examples showing only marginal improvement. In likelihood scoring, minimum and maximum token-probability metrics consistently prefer the fixed code across all conditions, indicating a stable bias toward correct fixes. In contrast, metrics like the Gini coefficient reverse preference when only the buggy variant was seen. Our results indicate that exposure can skew bug-fix evaluations and highlight the risk that LLMs may propagate memorised errors in practice.},
+ author = {Ali Al-kaswan and Claudio Spiess and Prem Devanbu and Arie van Deursen and Maliheh Izadi},
+ booktitle = {IEEE/ACM 23th International Conference on Mining Software Repositories (MSR)},
+ title = {Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs},
+ year = {2026},
+ keywords={aalkaswan and mizadi}
+}
+
 
 @article{koohestani2025agents,
   title={Are Agents Just Automata? On the Formal Equivalence Between Agentic AI and the Chomsky Hierarchy},
@@ -171,16 +191,6 @@
  year = {2025},
  keywords={jkatzy and yhuang and gpanchu and mizadi}
 }
-
-@inproceedings{katzy2025attention,
- abstract = {},
- author = {Jonathan Katzy and Razvan Mihai Popescu and Arie van Deursen and Maliheh Izadi},
- booktitle = {Mechanistic Interpretability Workshop (co-located with NeurIPS)},
- title = {Automated Attention Pattern Discovery at Scale in Large Language Models},
- year = {2025},
- keywords={jkatzy and rpopescu and mizadi}
-}
-
 
 @article{bogomolov2025longcodearena,
  abstract = {Nowadays, the fields of code and natural language processing are evolving rapidly. In particular, models become better at processing long context windows - supported context sizes have increased by orders of magnitude over the last few years. However, there is a shortage of benchmarks for code processing that go beyond a single file of context, while the most popular ones are limited to a single method. With this work, we aim to close this gap by introducing Long Code Arena, a suite of six benchmarks for code processing tasks that require project-wide context. These tasks cover different aspects of code processing: library-based code generation, CI builds repair, project-level code completion, commit message generation, bug localization, and module summarization. For each task, we provide a manually verified dataset for testing, an evaluation suite, and open-source baseline solutions based on popular LLMs to showcase the usage of the dataset and to simplify adoption by other researchers. We publish the benchmark page on HuggingFace Spaces with the leaderboard, links to HuggingFace Hub for all the datasets, and link to the GitHub repository with baselines: https://huggingface.co/spaces/JetBrains-Research/long-code-arena.},
@@ -503,7 +513,7 @@
 @inproceedings{alkaswan2023attackchallenge,
  abstract = {Previous work has shown that Large Language Models are susceptible to so-called data extraction attacks. This allows an attacker to extract a sample that was contained in the training data, which has massive privacy implications. The construction of data extraction attacks is challenging, current attacks are quite inefficient, and there exists a significant gap in the extraction capabilities of untargeted attacks and memorization. Thus, targeted attacks are proposed, which identify if a given sample from the training data, is extractable from a model. In this work, we apply a targeted data extraction attack to the SATML2023 Language Model Training Data Extraction Challenge. We apply a two-step approach. In the first step, we maximise the recall of the model and are able to extract the suffix for 69% of the samples. In the second step, we use a classifier-based Membership Inference Attack on the generations. Our AutoSklearn classifier achieves a precision of 0.841. The full approach reaches a score of 0.405 recall at a 10% false positive rate, which is an improvement of 34% over the baseline of 0.301.},
  author = {Ali Al-Kaswan and Maliheh Izadi and Arie van Deursen},
- booktitle = {The 1st IEEE Conference on Secure and Trustworthy Machine Learning},
+ booktitle = {The 1st IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)},
  title = {Targeted Attack on GPT-Neo for the SATML Language Model Data Extraction Challenge},
  volume = {},
  year = {2023},

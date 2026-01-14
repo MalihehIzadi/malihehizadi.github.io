@@ -30,7 +30,7 @@ profile_groups:
         author_keyword: aalkaswan
         image_circular: false
         more_info: >
-          <p>PhD candidate (Sep'22)</p>
+          <p>PhD candidate (2022)</p>
           <p>Former Msc student</p>
           <p>Privacy-preserving LLMs</p>
       - align: right
@@ -41,7 +41,7 @@ profile_groups:
         author_keyword: jkatzy
         image_circular: false # crops the image to make it circular
         more_info: >
-          <p>PhD candidate (Jan'23)</p>
+          <p>PhD candidate (2023)</p>
           <p>Multilinguality in LLMs</p>
       - align: right
         name: Egor Bogomolov
@@ -51,7 +51,7 @@ profile_groups:
         author_keyword: ebogomolov
         image_circular: false # crops the image to make it circular
         more_info: >
-          <p>PhD candidate (Mar'24)</p>
+          <p>PhD candidate (2024)</p>
           <p>Evaluation in LLMs</p>
       - align: right
         name: Agnia Sergeyuk
@@ -61,7 +61,7 @@ profile_groups:
         author_keyword: asergeyuk
         image_circular: false # crops the image to make it circular
         more_info: >
-          <p>PhD candidate (Apr'24)</p>
+          <p>PhD candidate (2024)</p>
           <p>Human-AI Interaction in IDE</p>
       - align: right
         name: Daniele Cipollone
@@ -71,7 +71,7 @@ profile_groups:
         author_keyword: dcipollone
         image_circular: false # crops the image to make it circular
         more_info: >
-          <p>PhD candidate (Sep'24)</p>
+          <p>PhD candidate (2024)</p>
           <p>LLM Integration in IDE</p>
       - align: right
         name: Ziyou Li
@@ -81,7 +81,7 @@ profile_groups:
         author_keyword: zli
         image_circular: false # crops the image to make it circular
         more_info: >
-          <p>PhD candidate (Dec'24)</p>
+          <p>PhD candidate (2024)</p>
           <p>AI/AI Interaction in IDE</p>
       - align: right
         name: Razvan Popescu
@@ -91,7 +91,7 @@ profile_groups:
         author_keyword: rpopescu
         image_circular: false # crops the image to make it circular
         more_info: >          
-          <p>PhD candidate (Feb'25)</p>
+          <p>PhD candidate (2025)</p>
           <p>Former BSc/Msc student</p>
           <p>Robust Datasets for LLM4Code</p>
   - headline: "Research Assistants/Honour Students"
