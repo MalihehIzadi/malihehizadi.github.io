@@ -126,8 +126,18 @@ profile_groups:
         author_keyword: 
         image_circular: false 
         more_info: 
-  - headline: "Visitors"
+  - headline: "Visitors" 
     profiles:
+      - align: right
+        name: Ilia Alenabi
+        website: https://www.iliall.com/
+        image: people/ialenabi.jpg
+        content:
+        author_keyword: ialenabi
+        image_circular: false # crops the image to make it circular
+        more_info: >
+          <p>Exchange student from University of Waterloo (Canada)</p>
+          <p>Routing LLMs</p>
       - align: right
         name: Fabio Salerno
         website: https://www.linkedin.com/in/fabiosalern/
@@ -136,11 +146,22 @@ profile_groups:
         author_keyword: fsalerno
         image_circular: false # crops the image to make it circular
         more_info: >
-          <p>Msc student from Italy</p>
+          <p>Msc student from UMB (Italy)</p>
           <p>Memorization in LLM4sCode</p>
           <p>Next: S.Engineer @ Stema</p>
   - headline: "Alumni"
     profiles:
+      - align: right
+        name: Ana Ţerna
+        website: https://nl.linkedin.com/in/anaterna
+        image: people/aterna.png
+        content:
+        author_keyword: aterna
+        image_circular: false
+        more_info: >
+          <p>Former MSc student</p>
+          <p>Program Repair @ JetBrains</p>
+          <p>Next: Co-founder @ Atomio</p>
       - align: right
         name: Nadine Kuo
         website: 
@@ -252,6 +273,7 @@ In AISE, we have (co)-supervised 49 Msc/Bsc, and many of our studnets have gradu
 
 | # | Year | University | Student | Title |
 |:-:|:----|:-----------|:---------|:------|
+| 15 | 2026 | TUDelft | A. Ţerna | Domain-Specific Automated Program Repair with LLMs and Reasoning |
 | 14 | 2025 | TUDelft | V. Pocheva | Enhancing Issue Tracking Efficiency with AI-Driven Natural Language Processing |
 | 13 | 2025 | TUDelft | N. Kuo | Proactive AI in IDEs |
 | 12 | 2025 | TUDelft | Y. Mundhra | LLMs for Domain Specific Code Generation |
@@ -275,10 +297,13 @@ In AISE, we have (co)-supervised 49 Msc/Bsc, and many of our studnets have gradu
 
 |  #  | Year | University | Student | Title |
 |:---:|:----:|:-----------|:--------|:------|
-| 35 | 2024 | TUDelft | S. Minkov | Analyzing Boilerplate Code Data Smell on Large Code Datasets |
-| 34 | 2024 | TUDelft | B. Annink | Linking Educational Value to LLM Code Completion Performance During Inference |
-| 33 | 2024 | TUDelft | L. Witte | Analyzing the Impact of Self-Admitted Technical Debt on the Code Completion |
-| 32 | 2024 | TUDelft | B. Buzatu | Analysing non-English data smells in large code datasets |
+| 38 | 2026 | TUDelft | R. Koohestani | Polarized Augment Calibration for Membership Inference in Code LLMs |
+| 37 | 2026 | TUDelft | C. Vasilescu | An Evaluation of the Min-K% Prob Membership Inference Attack |
+| 36 | 2026 | TUDelft | Í. Jónsson | Evaluating SURP MIA Performance on Code Samples |
+| 35 | 2025 | TUDelft | S. Minkov | Analyzing Boilerplate Code Data Smell on Large Code Datasets |
+| 34 | 2025 | TUDelft | B. Annink | Linking Educational Value to LLM Code Completion Performance During Inference |
+| 33 | 2025 | TUDelft | L. Witte | Analyzing the Impact of Self-Admitted Technical Debt on the Code Completion |
+| 32 | 2025 | TUDelft | B. Buzatu | Analysing non-English data smells in large code datasets |
 | 31 | 2024 | TUDelft | B. Koc | Implications of LLMs4Code on Copyright Infringement |
 | 30 | 2024 | TUDelft | P. Deatc | Red Teaming LLMs for Dangerous and Unfair Software Applications |
 | 29 | 2024 | TUDelft | C. Ionescu | Red-Teaming Code LLMs for Malware Generation |
