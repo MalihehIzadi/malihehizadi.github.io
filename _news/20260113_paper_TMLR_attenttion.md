@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-New paper on [Automated Attention Pattern Discovery at Scale in LLMs]() accepted @ **TMLR** journal.
+Accepted paper on [Automated Attention Pattern Discovery at Scale in LLMs]() - **TMLR** Journal.
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper on [missing topic recommendation](https://link.springer.com/article/10.1007/s10664-022-10272-w) accepted in **EMSE** journal.
+Accepted paper on [missing topic recommendation](https://link.springer.com/article/10.1007/s10664-022-10272-w) - **EMSE** Journal.

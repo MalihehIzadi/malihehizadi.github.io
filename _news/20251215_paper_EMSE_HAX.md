@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-New paper on [Human-AI Experience in Integrated Development Environments](https://arxiv.org/abs/2503.06195) accepted @ **EMSE** journal.
+Accepted paper on [Human-AI Experience in Integrated Development Environments](https://arxiv.org/abs/2503.06195) - **EMSE** Journal.
 

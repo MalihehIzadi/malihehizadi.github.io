@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper on [Benchmarking Harmfulness in LLM4Code](https://arxiv.org/abs/2504.01850) accepted @ **FSE 2025**.
+Accepted paper on [Benchmarking Harmfulness in LLM4Code](https://arxiv.org/abs/2504.01850) - **FSE 2025**.

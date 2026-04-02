@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper on [Prompt-with-Me Library]() accepted @ **ASE (Industry) 2025**.
+Accepted paper on [Prompt-with-Me Library]() - **ASE (Industry) 2025**.

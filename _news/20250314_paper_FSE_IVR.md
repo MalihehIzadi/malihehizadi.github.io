@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper on [Predictive Sequencing of States](https://arxiv.org/abs/2503.10254) accepted @ **FSE (New Idea) 2025**.
+Accepted paper on [Predictive Sequencing of States](https://arxiv.org/abs/2503.10254) - **FSE (New Ideas) 2025**.

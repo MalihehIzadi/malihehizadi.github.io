@@ -33,7 +33,7 @@ latest_posts:
 **Research**: My interdisciplinary research focuses on building trustworthy and intelligent AI-enabled developer solutions in real-world workflows to enhance software efficiency and developer productivity.
 I collaborate with various companies such as JetBrains Research, ASML, NXP, Meta, 
 and have recieved competitive inetrnational awards such as 
-the **Amazon Research Award** and the **Google Scholar Research Award**.
+the &#x2728; **Amazon Research Award** &#x2728; and the &#x2728; **Google Scholar Research Award** &#x2728;.
 My work is published in premier venues such as
 IEEE/ACM **ICSE**, <strong>FSE</strong>, <strong>ASE</strong>, <strong>IEEE TSE</strong>, <strong>ACM TOSEM</strong>, <strong>EMSE</strong>, <strong>IUI</strong>, <strong>MSR</strong>, <strong>ICSME</strong>, and <strong>SANER</strong>.
 
