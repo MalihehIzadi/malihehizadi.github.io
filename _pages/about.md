@@ -32,12 +32,12 @@ latest_posts:
 
 **Research**: My interdisciplinary research focuses on building trustworthy and intelligent AI-enabled developer solutions in real-world workflows to enhance software efficiency and developer productivity.
 I collaborate with various companies such as JetBrains Research, ASML, NXP, Meta, 
-and have recieved competitive inetrnational awards such as 
+and have received competitive international awards such as 
 the &#x2728; **Amazon Research Award** &#x2728; and the &#x2728; **Google Scholar Research Award** &#x2728;.
 My work is published in premier venues such as
 IEEE/ACM **ICSE**, <strong>FSE</strong>, <strong>ASE</strong>, <strong>IEEE TSE</strong>, <strong>ACM TOSEM</strong>, <strong>EMSE</strong>, <strong>IUI</strong>, <strong>MSR</strong>, <strong>ICSME</strong>, and <strong>SANER</strong>.
 
-**Education**: I hold a PhD in Software Engineering and an MSc in IT Engineering from Sharif University of Technology. My PhD research explored mining version control data to automate developer reports like release notes. My MSc focused on enhancing recommender system evaluation.
+**Education**: I hold a PhD in Software Engineering and an MSc in IT Engineering from Sharif University of Technology.  My PhD research explored the use of version control data to automate developer reports, such as release notes. My MSc focused on enhancing the evaluation of recommender systems.
 
 **Vacancy/Collaboration/Thesis/Internship**: 
 - For our newest **PhD Vacancy**, see here: [Automated Code Refactoring](https://careers.tudelft.nl/job/Delft-PhD-Position-Automated-Code-Refactoring-at-the-Future-of-Software-Engineering-%28FUSE%29-lab-2628-CD/1332150657/) as part of the Future of Software Engineering (FUSE) lab in collaboration with **Meta**. Please apply directly through the TU Delft portal and do NOT contact me personally, as I do not have the capacity to respond. Only submitted applications will be considered for assessment.
