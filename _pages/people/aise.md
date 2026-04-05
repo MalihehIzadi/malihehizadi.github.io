@@ -69,10 +69,14 @@ AISE (AI-enabled Software Engineering) research explores several topics at the i
   <div class="album-grid">
     <!-- Card  -->
     <div class="album-card">
+      {% include figure.liquid loading="eager" path="assets/img/aise/retreat2026.jpeg" class="img-fluid rounded z-depth-1" %}
+      <div class="album-caption">Team Activity (Karting)</div>
+    </div>
+    <!-- Card  -->
+    <div class="album-card">
       {% include figure.liquid loading="eager" path="assets/img/events/visitING2025.jpg" class="img-fluid rounded z-depth-1" %}
       <div class="album-caption">Visiting Amsterdam Office of ING (2025)</div>
     </div>
-    <!-- Card  -->
     <!-- Card  -->
     <div class="album-card">
       {% include figure.liquid loading="eager" path="assets/img/aise/agenticse2025.jpg" class="img-fluid rounded z-depth-1" %}
@@ -94,14 +98,13 @@ AISE (AI-enabled Software Engineering) research explores several topics at the i
       <div class="album-caption">Visiting Amsterdam Office of Meta (2025)</div>
     </div>
     <!-- Card  -->
-    <!-- Card  -->
     <div class="album-card">
       {% include figure.liquid loading="eager" path="assets/img/aise/fse2025.jpg" class="img-fluid rounded z-depth-1" %}
       <div class="album-caption">Attending FSE'25 (Norway)</div>
     </div>
     <!-- Card  -->
     <div class="album-card">
-      {% include figure.liquid loading="eager" path="assets/img/aise/padel2025.jpg" class="img-fluid rounded z-depth-1" %}
+      {% include figure.liquid loading="eager" path="assets/img/aise/retreat2025.jpg" class="img-fluid rounded z-depth-1" %}
       <div class="album-caption">Team Activity (Padel)</div>
     </div>
     <!-- Card  -->
