@@ -118,6 +118,17 @@ profile_groups:
           <p>Honours Student</p>
           <p>BSc/MSc student</p>
           <p>Refactoring via LLMs</p>
+      - align: right
+        name: Andrei Botocan
+        website: 
+        image: people/profile_male.png
+        content:
+        author_keyword: abotocan
+        image_circular: false
+        more_info: >
+          <p>Honours BSc Student</p>
+          <p>Autonmous Agents</p>
+          <p>Next: Stripe/Amazon</p>
   - headline: "MSc Students"
     profiles:
       - align: right

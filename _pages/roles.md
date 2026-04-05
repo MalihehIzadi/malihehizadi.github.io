@@ -11,12 +11,15 @@ horizontal: false
 ---
 
 ### Organizer/Judge
-- Co-organizer for the first International Workshop on Agents in Software Engineering [**(AgenticSE)**](https://agenticse.github.io/), November 2025
-- Co-organizer for the [**AIWare Bootcamp - Europe**](https://www.aiwarebootcamp.io/aiware-bootcamp-europe-2025) co-located with AI-Dev led by Linux Foundation, August 2025
-- Co-organizer for the 11th Dutch Symposium on Software Engineering [**(SEN)**](https://www.sen-symposium.nl/), May 2025
-- Co-organizer for the 4th International NLBSE Workshop co-located with ICSE'25 [**(NLBSE’25)**](https://nlbse2025.github.io/)
-- Co-organizer for the 3rd International NLBSE Workshop co-located with ICSE'24 [**(NLBSE’24)**](https://nlbse2024.github.io/)
-- Thesis Award Committee (Judge), [**Best MSc and PhD Thesis Award, VERSEN**](https://www.versen.nl/contents/procedure-thesis-award), The Netherlands
+- Co-organizer for the [**Dagstuhl seminar**](https://www.dagstuhl.de/de/seminars/seminar-calendar/seminar-details/26192) on Evaluation of AI Models in Software Engineering, Germany, May 2026.
+- Co-organizer for the first International Workshop on Agents in Software Engineering [**(AgenticSE)**](https://agenticse.github.io/), Seoul, November 2025.
+- Co-organizer for the [**AIWare Bootcamp - Europe**](https://www.aiwarebootcamp.io/aiware-bootcamp-europe-2025) co-located with AI-Dev led by Linux Foundation, Amsterdam, August 2025.
+- Co-organizer for the 11th Dutch Symposium on Software Engineering [**(SEN)**](https://www.sen-symposium.nl/), May 2025.
+- Co-organizer for the 4th International NLBSE Workshop co-located with ICSE'25 [**(NLBSE’25)**](https://nlbse2025.github.io/).
+- Co-organizer for the 3rd International NLBSE Workshop co-located with ICSE'24 [**(NLBSE’24)**](https://nlbse2024.github.io/).
+- Committee for the nation-wide Thesis Award, [*Best MSc and PhD Thesis Award, VERSEN*](https://www.versen.nl/contents/procedure-thesis-award), the Netherlands.
+- Scientific Reviewer for *NWO VENI* (Domain Science) Grant.
+- Scientific Reviewer for European Research Council *(ERC) Starting Grant* 2026 Call.
 
 ---
 ### Chair/Editor
