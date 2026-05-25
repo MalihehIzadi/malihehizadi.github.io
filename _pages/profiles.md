@@ -277,7 +277,7 @@ profile_groups:
 
 ---
 ### Thesis Supervision
-In AISE, we have (co)-supervised 49 Msc/Bsc, and many of our studnets have graduated _cum laude_ (top 5% of class).
+We have (co)-supervised 53 Msc/Bsc with many graduated _cum laude_ (top 5% of class).
 
 #### Msc Level
   ---
