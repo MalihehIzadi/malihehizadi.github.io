@@ -4,7 +4,7 @@ title: Roles
 permalink: /roles/
 description: 
 nav: true
-nav_order: 6
+nav_order: 7
 horizontal: false
 ---
 
@@ -24,6 +24,7 @@ horizontal: false
 ---
 ### Chair/Editor
 
+- Co-chair for the IEEE/ACM International Conference on Software Engineering, [(Competition track, ICSE'27)](https://conf.researchr.org/home/icse-2027)
 - Co-chair for the ACM International Conference on the Foundations of Software Engineering, [(Workshop track, FSE'26)](https://conf.researchr.org/home/fse-2026)
 - Co-chair for The 2nd ACM International Conference on AI-powered Software [(Arxiv track, AIWare)](https://2025.aiwareconf.org/track/aiware-2025-arxiv-track)
 - Co-chair for the International Conference on Software Analysis, Evolution and Reengineering [(Demo Track, SANER'26)](https://conf.researchr.org/track/saner-2026/saner-2026-tool-demo-track)
@@ -37,7 +38,7 @@ horizontal: false
 
 ### Conference Program Committee member
 
-
+- The 49th IEEE/ACM International Conference on Software Engineering [(Main Track, **ICSE'27**)](https://conf.researchr.org/track/icse-2027/icse-2027-research-track)
 - The 48th IEEE/ACM International Conference on Software Engineering [(Main Track, **ICSE'26**)](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
 - ACM International Conference on the Foundations of Software Engineering [(Main Track, **FSE'26**)](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers)
 - The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis [(Main Track, **ISSTA'26**)](https://conf.researchr.org/home/issta-2026)

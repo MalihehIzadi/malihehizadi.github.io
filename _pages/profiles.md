@@ -16,10 +16,7 @@ profile_groups:
         content: people/aise.md
         author_keyword:
         image_circular: true
-        more_info: >
-          <p>Assistant Professor</p>
-          <p>Computer Science</p> 
-
+        more_info:
   - headline: "PhD Students"
     profiles:
       - align: right
@@ -32,7 +29,7 @@ profile_groups:
         more_info: >
           <p>PhD candidate (2022)</p>
           <p>Former Msc student</p>
-          <p>Privacy-preserving LLMs</p>
+          <p>Security <-> LLMs</p>
       - align: right
         name: Jonathan Katzy
         website: https://jkatzy.nl/
@@ -105,7 +102,7 @@ profile_groups:
         image_circular: false
         more_info: >
           <p>Scientific Dev (Jan'24)</p>
-          <p>BSc student</p>
+          <p>BSc Honour student</p>
           <p>Guaranties in GenAI</p>
       - align: right
         name: Yongcheng Huang
@@ -147,8 +144,8 @@ profile_groups:
         author_keyword: ialenabi
         image_circular: false # crops the image to make it circular
         more_info: >
-          <p>Exchange student from University of Waterloo (Canada)</p>
-          <p>Routing LLMs</p>
+          <p>Exchange student from University of Waterloo</p>
+          <p>Internship w/ JetBrains</p>
       - align: right
         name: Fabio Salerno
         website: https://www.linkedin.com/in/fabiosalern/
