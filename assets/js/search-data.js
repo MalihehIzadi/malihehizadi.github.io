@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/aise/";
           },
+        },{id: "nav-album",
+          title: "Album",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/album/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
@@ -499,6 +506,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-have-joined-google-as-a-research-scientist",
           title: 'I have joined ✨ Google ✨ as a Research Scientist.',
+          description: "",
+          section: "News",},{id: "news-accepted-paper-on-partial-credit-evaluation-of-llm-agents-in-ctf-challenges-aiware-benchmarks-2026",
+          title: 'Accepted paper on Partial-Credit Evaluation of LLM Agents in CTF Challenges - AIWare...',
           description: "",
           section: "News",},{id: "projects-llms-for-code",
           title: 'LLMs for Code',
