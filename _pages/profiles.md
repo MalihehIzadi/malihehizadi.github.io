@@ -193,7 +193,7 @@ profile_groups:
           <p>LLMs Adaptation @ ASML</p>
           <p>Next: IT Consultant @ BCG</p>
       - align: right
-        name: Venekina Pocheva
+        name: Venelina Pocheva
         website: 
         image: people/vpocheva.jpg
         content:
