@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Accepted paper on [Developer Interaction Patterns with Proactive AI]() - **ACM IUI 2026**.
+Accepted paper on [Developer Interaction Patterns with Proactive AI]() - **ACM IUI'26**.
 

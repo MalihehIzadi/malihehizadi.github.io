@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Accepted paper on [Investigating Autonomous Agent Contributions in the Wild]() - **MSR 2026**.
+Accepted paper on [Investigating Autonomous Agent Contributions in the Wild]() - **MSR'26**.
 

@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Accepted paper on [Partial-Credit Evaluation of LLM Agents in CTF Challenges]() - **AIWare (Benchmarks) 2026**.
+Accepted paper on [Partial-Credit Evaluation of LLM Agents in CTF Challenges]() - **AIWare (Benchmarks)**.
 

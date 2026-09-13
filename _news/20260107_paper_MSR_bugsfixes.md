@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Accepted paper on [Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs]() - **MSR 2026**.
+Accepted paper on [Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs]() - **MSR'26**.
 

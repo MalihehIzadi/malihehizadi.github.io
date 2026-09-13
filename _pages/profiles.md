@@ -17,7 +17,7 @@ profile_groups:
         author_keyword:
         image_circular: true
         more_info:
-  - headline: "PhD Students"
+  - headline: "PhD Students (Chronological order)"
     profiles:
       - align: right
         name: Ali Al-kaswan
@@ -281,6 +281,7 @@ We have (co)-supervised 53 Msc/Bsc with many graduated _cum laude_ (top 5% of cl
 
 | # | Year | University | Student | Title |
 |:-:|:----|:-----------|:---------|:------|
+| 16 | 2026 | TUDelft | A. Ojica | Mitigating API Hallucinations in Evolving Software Ecosystems |
 | 15 | 2026 | TUDelft | A. Ţerna | Domain-Specific Automated Program Repair with LLMs and Reasoning |
 | 14 | 2025 | TUDelft | V. Pocheva | Enhancing Issue Tracking Efficiency with AI-Driven Natural Language Processing |
 | 13 | 2025 | TUDelft | N. Kuo | Proactive AI in IDEs |
@@ -293,9 +294,9 @@ We have (co)-supervised 53 Msc/Bsc with many graduated _cum laude_ (top 5% of cl
 | 6  | 2024 | TUDelft | F. vd Heijden | Building and Evaluating an LLM-based Code Completion Plugin |
 | 5  | 2024 | UMB     | F. Salerno | Extracting Training Data from Fine-tuned Large Language Models |
 | 4  | 2022 | TUDelft | A. Al-kaswan | Limits of Binary Code Summarization with Transformers |
-| 3  | 2021 | Sharif  | M. Nejati | Missing Software Tag Recommendation |
-| 2  | 2021 | Sharif  | P. Rostami | Issue Commit Linking |
-| 1  | 2020 | Sharif  | K. Akbari | Isure Report Classificatio |
+| 3  | 2021 | Sharif  | M. Nejati | Missing Tag Recommendation in Software Reporsitories |
+| 2  | 2021 | Sharif  | P. Rostami | Issue Commit Traceability |
+| 1  | 2020 | Sharif  | K. Akbari | Isure Report Classification |
 
 
 <br/>

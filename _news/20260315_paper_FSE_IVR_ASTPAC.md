@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Accepted paper on [AST-PAC: AST-guided Membership Inference for Code]() - **FSE (New Ideas) 2026**.
+Accepted paper on [AST-PAC: AST-guided Membership Inference for Code]() - **FSE'26 (New Ideas)**.
 

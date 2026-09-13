@@ -34,6 +34,16 @@
   keywords={rkoohestani and mizadi and asergeyuk}
 }
 
+
+@article{salerno2026more,
+  title={The More You Tune, The More They Spill? An Empirical Study of Data Leakage from Code Models Under Fine-tuning, Quantization, and Parameter-Efficient Adaptation},
+  author = {Fabio Salerno and Ali Al-Kaswan and Maliheh Izadi},
+  journal={Empirical Software Engineering},
+  year={2026},
+  publisher={Springer},
+  keywords = {fsalerno and aalkaswan and mizadi}
+}
+
 @inproceedings{koohestani2026ast,
   abstract = {Code Large Language Models are frequently trained on massive datasets containing restrictively licensed source code. This creates urgent data governance and copyright challenges. Membership Inference Attacks (MIAs) can serve as an auditing mechanism to detect unauthorized data usage in models. While attacks like the Loss Attack provide a baseline, more involved methods like Polarized Augment Calibration (PAC) remain underexplored in the code domain. This paper presents an exploratory study evaluating these methods on 3B--7B parameter code models. We find that while PAC generally outperforms the Loss baseline, its effectiveness relies on augmentation strategies that disregard the rigid syntax of code, leading to performance degradation on larger, complex files. To address this, we introduce AST-PAC, a domain-specific adaptation that utilizes Abstract Syntax Tree (AST) based perturbations to generate syntactically valid calibration samples. Preliminary results indicate that AST-PAC improves as syntactic size grows, where PAC degrades, but under-mutates small files and underperforms on alphanumeric-rich code. Overall, the findings motivate future work on syntax-aware and size-adaptive calibration as a prerequisite for reliable provenance auditing of code language models.},
   title={AST-PAC: AST-guided Membership Inference for Code},

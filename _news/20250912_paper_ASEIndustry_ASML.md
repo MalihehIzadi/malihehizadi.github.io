@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted paper on [Evaluating LLMs for Functional Code at ASML]() - **ASE (Industry) 2025**.
+Accepted paper on [Evaluating LLMs for Functional Code at ASML]() - **ASE'25 (Industry)**.

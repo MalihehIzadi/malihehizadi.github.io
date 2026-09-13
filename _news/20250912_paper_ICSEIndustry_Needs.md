@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted paper on [Developer Needs & Feasible Features for AI Assistants](https://arxiv.org/abs/2410.08676) - **ICSE (Industry) 2026**.
+Accepted paper on [Developer Needs & Feasible Features for AI Assistants](https://arxiv.org/abs/2410.08676) - **ICSE'26 (Industry)**.

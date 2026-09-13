@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted paper on [automatic code completion](https://dl.acm.org/doi/abs/10.1145/3510003.3510172) - **ICSE 2022**.
+Accepted paper on [automatic code completion](https://dl.acm.org/doi/abs/10.1145/3510003.3510172) - **ICSE'22**.
