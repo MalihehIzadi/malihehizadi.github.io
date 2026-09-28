@@ -6,12 +6,11 @@ description:
 nav: true
 nav_order: 6
 ---
-<!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. Organize your courses by years, topics, or universities, however you like!-->
 
 ### Courses
   ---
-* Graduate course: **CS4570 - Machine Learning for Software Engineering** (Editions: TA/lecturer in 2020 to 2022, responsible professor for 2023, 2024, and 2025), ~100 students, TU Delft.
-* Undergraduate course: **TI3115TU - Databases and Software Engineering minor** (Editions: lecturer for 2024,  responsible professor for 2022 and 2025), ~160-220 students, TU Delft.
+* Graduate course: **CS4570 - Machine Learning for Software Engineering** (Editions: TA/lecturer in 2020 to 2022, responsible professor for 2023, 2024, 2025, 2026), ~100-140 students, TU Delft.
+* Undergraduate course: **TI3115TU - Databases and Software Engineering minor** (Editions: lecturer for 2024,  responsible professor for 2022, 2025, and 2026), ~160-220 students, TU Delft.
 * Undergraduate course: **Software Engineering Methods** (lecturer for 2024 edition), ~500 students, TU Delft.
 * Undergraduate course: **Mentorate** (Mentor for 2023 edition), ~30 students, TU Delft.
 
@@ -51,7 +50,7 @@ _We expect students to have experience with ML (especially Transformers) already
 * Familiarity with transformer-based language models and modern NLP is needed
 * Experience with research methods is nice to have
 
-### Course Organization
+<!-- ### Course Organization
 
 * **5 ECTS**: This means that you need to devote at least 140 hours of study
   for this course, per person. That is 17.5 hours per week for a duration of 8 weeks. Two hours is for the class, and the rest should be spent on reading papers and working on the projects.
@@ -112,9 +111,9 @@ You will use these notes in your report of the discussion.
 
 **Be prepared to answer the audience's questions about the work you present!**
 
-For the presentation itself, make sure to at least include the following information about the paper. The rest depends on your creativity and style.
+For the presentation itself, make sure to at least include the following information about the paper. The rest depends on your creativity and style. -->
 
-#### Require content in the presentation
+<!-- #### Require content in the presentation
 - Full title of the paper
 - Paper information including (1) Appeared in _(name of conference/journal)_, (2) Cited _citation count_, (3) Why is it important?
 - People: _A brief profile of the main authors_
@@ -128,16 +127,16 @@ For the presentation itself, make sure to at least include the following informa
 - Implications: _Why are the results important? What is their impact?_
 - Technical questions: _A list of questions to gauge the audience's understanding of the paper._
 - Discussion points: _A list of questions to trigger general discussions about the paper._
-- Summary of the discussion: _to be filled in after the discussion by the discussion group_
+- Summary of the discussion: _to be filled in after the discussion by the discussion group_ -->
 
-### Action items after your presentation
+<!-- ### Action items after your presentation
 Each responsible group must document the above, 
 add a summary of highlights of the discussion in the classroom
 and return the report to the instructor for each discussed
-paper.
+paper. -->
 
 
-### Lectures and Seminar Contents
+<!-- ### Lectures and Seminar Contents
 TBA for 2026
 
 ### Teaching Assistants
@@ -150,5 +149,5 @@ Refer to the study guide.
 TBA for 2026.
 
 ### Exam day
-TBA for 2026.
+TBA for 2026. -->
 

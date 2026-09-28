@@ -65,9 +65,15 @@ nav_order: 5
 <div class="album">
   <div class="album-grid">
     <!-- Card  -->
-    <div class="album-card">
+    <div class="album-card"><a href='https://www.ucl.ac.uk/crest/events/2026/sep/71st-crest-open-workshop-agentic-testing-and-verification'>
+      {% include figure.liquid loading="eager" path="assets/img/events/crest2026_agents.jpg" class="img-fluid rounded z-depth-1" %}
+      <div class="album-caption">Invited talk at CREST 2026 (Agents)</div></a>
+    </div>
+    <!-- Card  -->
+    <!-- Card  -->
+    <div class="album-card"><a href='https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26192'>
       {% include figure.liquid loading="eager" path="assets/img/events/dagstuhl2026_evals.jpeg" class="img-fluid rounded z-depth-1" %}
-      <div class="album-caption">Organizing AI4SE Evals Dagstuhl 2026</div>
+      <div class="album-caption">Organizing AI4SE Evals Dagstuhl 2026</div></a>
     </div>
     <!-- Card  -->
     <div class="album-card">

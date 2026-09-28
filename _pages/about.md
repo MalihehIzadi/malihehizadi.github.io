@@ -34,8 +34,7 @@ latest_posts:
 I collaborate with various companies such as JetBrains Research, ASML, NXP, Meta, 
 and have received competitive international awards such as 
 the &#x2728; **Amazon Research Award** &#x2728; and the &#x2728; **Google Scholar Research Award** &#x2728;.
-My work is published in premier venues such as
-IEEE/ACM **ICSE**, <strong>FSE</strong>, <strong>ASE</strong>, <strong>IEEE TSE</strong>, <strong>ACM TOSEM</strong>, <strong>EMSE</strong>, <strong>IUI</strong>, <strong>MSR</strong>, <strong>ICSME</strong>, and <strong>SANER</strong>.
+My work have been published in various premier venues in the software engineering, AI, and HCI fields such as IEEE/ACM **ICSE**, <strong>FSE</strong>, **NeurIPS**, <strong>ASE</strong>, <strong>IEEE TSE</strong>, <strong>ACM TOSEM</strong>, <strong>EMSE</strong>, <strong>IUI</strong>, <strong>MSR</strong>, <strong>ICSME</strong>, and <strong>SANER</strong>.
 
 **Education**: I hold a PhD in Software Engineering and an MSc in IT Engineering from Sharif University of Technology.  My PhD research explored the use of version control data to automate developer reports, such as release notes. My MSc focused on enhancing the evaluation of recommender systems.
 
